@@ -1,15 +1,13 @@
 # corekit-store
 
-Kuratierter Modul-Index für corekit (SPECS/module-store.md §4).
+Modul-Verzeichnis für die corekit-Plattform. Pro Modul eine
+Beschreibungsdatei unter `modules/<id>.json` mit den verfügbaren
+Versionen; `index.json` ist das automatisch erzeugte
+Gesamtverzeichnis.
 
-- **Eine Datei pro Modul** unter `modules/<id>.json` — PRs kollidieren nicht.
-- CI aggregiert bei jedem Push ein `index.json` (Konsumenten-Komfort;
-  der corekit-Fetcher liest die per-Modul-Dateien direkt).
-- Aufnahme/Update = PR mit Review. Der `digest` je Version ist der
-  sha256 des tar.gz-Layers und kommt aus dem Release-Workflow des
-  Modul-Repos (Step „Store-Index-Snippet ausgeben").
+## Module installieren
 
-## Nutzung im Lockfile
+Gewünschte Module im Lockfile der Installation eintragen:
 
 ```yaml
 # platform-config/modules.yaml
@@ -19,6 +17,8 @@ modules:
   - helpdesk@1.0.0
 ```
 
-Privat gehostete Artefakte (ghcr) brauchen auf dem Pod
-`MODULES_REGISTRY_TOKEN`; ein öffentlicher Store/öffentliche Pakete
-laufen anonym.
+Für privat gehostete Artefakte braucht die Installation ein
+Registry-Token (`MODULES_REGISTRY_TOKEN`).
+
+Publizierte Versionen sind unveränderlich — Korrekturen erscheinen
+als neue Version.
