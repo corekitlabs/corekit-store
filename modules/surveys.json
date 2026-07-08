@@ -4,9 +4,17 @@
   "versions": {
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/surveys:1.0.0",
-      "digest": "sha256:fd26eb5d2c765557b9d5ff803ef59e2f426d2c1bcfc6051036b7b7913b97093b",
-      "requires": { "corekit": ">=1.0", "app-core": ">=2.2" },
-      "capabilities": { "flowSteps": ["find_entity", "notify"] }
+      "digest": "sha256:220fe84ada070ecc6206d82ea5811a9328dd96dae678385ecd5bcce6d4ec0baa",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      }
     }
   }
 }
