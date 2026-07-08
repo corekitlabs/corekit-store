@@ -17,7 +17,8 @@ modules:
   - helpdesk@1.0.0
 ```
 
-Für privat gehostete Artefakte braucht die Installation ein
+Der Index ist öffentlich; die Modul-Artefakte selbst sind
+zugriffsgeschützt. Für die Installation braucht die Umgebung ein
 Registry-Token (`MODULES_REGISTRY_TOKEN`).
 
 Publizierte Versionen sind unveränderlich — Korrekturen erscheinen
