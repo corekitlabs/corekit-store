@@ -1,0 +1,12 @@
+{
+  "id": "helpdesk",
+  "repo": "https://github.com/corekitlabs/ck-helpdesk",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.0",
+      "digest": "sha256:5302da4208266f334d67bacf806b149cf5b6c2e4501e48e14ae0bd92b60a8df2",
+      "requires": { "corekit": ">=1.0", "app-core": ">=2.2" },
+      "capabilities": { "flowSteps": ["create_entity", "find_entity", "for", "mail_send", "notify", "update_entity"] }
+    }
+  }
+}

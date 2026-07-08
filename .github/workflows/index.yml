@@ -1,0 +1,24 @@
+# Aggregiert modules/*.json zu index.json (Konsumenten-Komfort).
+name: build-index
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["modules/**"]
+permissions:
+  contents: write
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Aggregat bauen
+        run: |
+          jq -s 'map({(.id): .}) | add' modules/*.json > index.json
+      - name: Committen wenn geändert
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git diff --cached --quiet || git commit -m "ci: index.json aggregiert [skip ci]"
+          git push
