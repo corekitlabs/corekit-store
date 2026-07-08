@@ -1,6 +1,6 @@
 {
   "id": "surveys",
-  "repo": "https://github.com/corekitlabs/ck-surveys",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
   "versions": {
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/surveys:1.0.0",

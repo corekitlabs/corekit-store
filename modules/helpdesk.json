@@ -1,6 +1,6 @@
 {
   "id": "helpdesk",
-  "repo": "https://github.com/corekitlabs/ck-helpdesk",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
   "versions": {
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.0",
