@@ -16,6 +16,21 @@
         ],
         "ui": true
       }
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.1",
+      "digest": "sha256:165c8c194be068260375c66bd4d69d50b653102188acf7b90df8131611dec838",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      }
     }
   }
 }
