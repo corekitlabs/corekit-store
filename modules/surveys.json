@@ -2,9 +2,9 @@
   "id": "surveys",
   "repo": "https://github.com/corekitlabs/corekit-modules",
   "versions": {
-    "1.0.0": {
-      "oci": "ghcr.io/corekitlabs/modules/surveys:1.0.0",
-      "digest": "sha256:220fe84ada070ecc6206d82ea5811a9328dd96dae678385ecd5bcce6d4ec0baa",
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.0",
+      "digest": "sha256:90d81f72a1219e32b22d8aed7bafb21f893d0766495f8a9273a4f6c7659f3565",
       "requires": {
         "corekit": ">=1.0",
         "app-core": ">=2.2"
@@ -13,7 +13,8 @@
         "flowSteps": [
           "find_entity",
           "notify"
-        ]
+        ],
+        "ui": true
       }
     }
   }

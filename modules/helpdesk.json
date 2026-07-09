@@ -2,9 +2,9 @@
   "id": "helpdesk",
   "repo": "https://github.com/corekitlabs/corekit-modules",
   "versions": {
-    "1.0.0": {
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.0",
-      "digest": "sha256:66ad6d7adfd52e372e49fc17d56d9a625faedf65084c4457e61d34118f3bfe59",
+    "1.0.1": {
+      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.1",
+      "digest": "sha256:7bcd0d2e4ecae3068899e71df582e686546f383109c256a9e523e9dba4fd361d",
       "requires": {
         "corekit": ">=1.0",
         "app-core": ">=2.2"
