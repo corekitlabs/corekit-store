@@ -14,6 +14,21 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.0",
       "digest": "sha256:bce607736b5dc34f35e2205458ecc45383c50ecdba8330eb8e53c2d3ac073114"
+    },
+    "1.0.2": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "dispatch",
+          "find_entity",
+          "for",
+          "notify",
+          "scrape",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.2",
+      "digest": "sha256:3950df262e45bef445b38aef2379eaff48e7e55e82685bda596e7e0cd2a2191a"
     }
   }
 }
