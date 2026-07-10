@@ -211,6 +211,24 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.2",
         "digest": "sha256:3950df262e45bef445b38aef2379eaff48e7e55e82685bda596e7e0cd2a2191a"
+      },
+      "1.0.3": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "dispatch",
+            "find_entity",
+            "for",
+            "notify",
+            "scrape",
+            "wait"
+          ],
+          "workerSkills": [
+            "social-gallerydl"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.3",
+        "digest": "sha256:d9009e3b44402acffdd4f32c60084316cb5322c07f8b15f3bbf4999ca8d75d5e"
       }
     }
   },
@@ -313,6 +331,25 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/dam:1.2.1",
         "digest": "sha256:09ea60874c75cde6377e0242db7f76108238a866f35865c1f391b690a3ed52aa"
+      },
+      "1.2.2": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity",
+            "user_input",
+            "wait"
+          ],
+          "workerSkills": [
+            "docling-convert",
+            "slideshow"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.2.2",
+        "digest": "sha256:695e00a42b3ffdaae92cfbf129b14b035b374f4e77a8166abb332138d6965854"
       }
     }
   },
@@ -759,6 +796,22 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/sales:1.0.0",
         "digest": "sha256:90142763d0c2cfd504dad90b8fdf040a1d8675e2d6587e01215be98716b641cf"
+      }
+    }
+  },
+  "skill-media": {
+    "id": "skill-media",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "workerSkills": [
+            "tts-elevenlabs",
+            "comfyui-image"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/skill-media:1.0.0",
+        "digest": "sha256:ffb4d6c8839cf695d3226a16b6bac014ed94de922b0d8ee18cf7a64162e06e4d"
       }
     }
   },
