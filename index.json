@@ -20,6 +20,24 @@
             "update_entity"
           ]
         }
+      },
+      "1.0.2": {
+        "requires": {
+          "corekit": ">=1.0",
+          "app-core": ">=2.2"
+        },
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.2",
+        "digest": "sha256:98ed7586cf758bef2a4bfe89926c62b8a282b805b7e4166900b1d282bddcd5cc"
       }
     }
   },
