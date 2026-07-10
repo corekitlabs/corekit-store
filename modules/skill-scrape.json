@@ -1,0 +1,20 @@
+{
+  "id": "skill-scrape",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "workerSkills": [
+          "docling-convert",
+          "social-gallerydl"
+        ],
+        "workerWorkflows": [
+          "content_scrape",
+          "scrape_document"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.0.0",
+      "digest": "sha256:7b467a175253514ef1604375c8b6ebef4a538b2510628d8743036480d9b2ef40"
+    }
+  }
+}

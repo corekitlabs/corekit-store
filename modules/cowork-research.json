@@ -12,6 +12,23 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.0.0",
       "digest": "sha256:46b0282b790f5ffb49a70b6a28fd50577b50910507d8f5b218aff2c43fb32719"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "scrape",
+          "wait"
+        ],
+        "workerWorkflows": [
+          "scrape_find_source",
+          "analyze_enrich",
+          "analyze_synthesize",
+          "analyze_validate"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.0",
+      "digest": "sha256:2ceaab9d72581576cb8f2c4277e92373c7bd8760a0ba75b74d804dda5e3f5467"
     }
   }
 }

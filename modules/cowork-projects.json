@@ -17,6 +17,33 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.0.0",
       "digest": "sha256:5b6c9ca58238be805719dcf0dd5d5212bbd7beb5a277413e11eaffd374928bf8"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "code",
+          "create_entity",
+          "dispatch",
+          "gateway",
+          "notify",
+          "pause",
+          "wait"
+        ],
+        "workerWorkflows": [
+          "code_implement",
+          "code_review",
+          "code_setup_repo",
+          "code_github_sync",
+          "code_github_sync_batch",
+          "analyze_architect",
+          "analyze_architecture",
+          "analyze_planning",
+          "dispatch_apply_backlog"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.0",
+      "digest": "sha256:96b586752b7b018e5d5c3a2fc70b5877f52195f8ae9292393856916133f2f43a"
     }
   }
 }

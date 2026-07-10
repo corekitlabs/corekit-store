@@ -5,6 +5,15 @@
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/chat:1.0.0",
       "digest": "sha256:c5871229bcddb46be201d4b722ace51dc81a1c6cc5b7ac115805cd54a1e09f14"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "workerWorkflows": [
+          "chat_turn"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/chat:1.1.0",
+      "digest": "sha256:47cf5c4dec3ba49dfd8447c5fd2e3fa66cd0e6e272c8d433a5ea07619ad5ad3a"
     }
   }
 }

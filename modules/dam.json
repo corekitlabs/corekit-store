@@ -50,6 +50,21 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/dam:1.2.2",
       "digest": "sha256:695e00a42b3ffdaae92cfbf129b14b035b374f4e77a8166abb332138d6965854"
+    },
+    "1.3.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "media",
+          "notify",
+          "update_entity",
+          "user_input",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/dam:1.3.0",
+      "digest": "sha256:df2ac97076c2a99d8d28133890540017ff11c3185c818114b75bb364441b72d5"
     }
   }
 }
