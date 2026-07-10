@@ -1,0 +1,10 @@
+{
+  "id": "suppliers",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.0",
+      "digest": "sha256:55e367d2a68be39787d6f7f832f16910eadeeb800101bd31e7e159c63271c121"
+    }
+  }
+}

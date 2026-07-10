@@ -1,0 +1,18 @@
+{
+  "id": "approvals",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/approvals:1.0.0",
+      "digest": "sha256:ee3fa042815be9c12daf7399c103522d25e0946fc93ed4eb7dfbf749760c3a2f"
+    }
+  }
+}

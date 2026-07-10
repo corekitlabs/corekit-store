@@ -1,0 +1,20 @@
+{
+  "id": "utility",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.0.0",
+      "digest": "sha256:ceda39d3483b30d1b8c6382e5536c89b30a036c0a7295360be95f028423c6134"
+    }
+  }
+}

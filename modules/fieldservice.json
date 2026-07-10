@@ -1,0 +1,18 @@
+{
+  "id": "fieldservice",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.0.0",
+      "digest": "sha256:4f0fa1d27aaa9fd170386e5323034b15e37fdcfcfc3c2d792923f82df1322cf0"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "core",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.5": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "keycloak_create_user",
+          "notify",
+          "submit_user_input",
+          "tenant_import",
+          "transform",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/core:1.1.5",
+      "digest": "sha256:956c9fb300f0f48ea94a500b85fa4eba10f4ab8a9830a426be5dfc574776b194"
+    }
+  }
+}

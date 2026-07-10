@@ -1,0 +1,16 @@
+{
+  "id": "subscriptions",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.0",
+      "digest": "sha256:39662a93a2cd4d485389e34f9dd757c26b5cfc5f5934ad012a1f402da425ff21"
+    }
+  }
+}

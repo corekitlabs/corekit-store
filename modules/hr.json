@@ -1,0 +1,18 @@
+{
+  "id": "hr",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/hr:1.0.0",
+      "digest": "sha256:f31b431d722a749b221a55eac296ba155836694f767b70a3e0110fe63399ed9b"
+    }
+  }
+}

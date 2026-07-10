@@ -1,0 +1,16 @@
+{
+  "id": "crm",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/crm:1.1.0",
+      "digest": "sha256:5f4fb14c8f1634c8b3687b380ba181aaa38cccd4dfd8cbcbc34d802c31611952"
+    }
+  }
+}

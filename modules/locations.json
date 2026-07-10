@@ -1,0 +1,10 @@
+{
+  "id": "locations",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/locations:1.0.0",
+      "digest": "sha256:ba28cbec4a70158c9e535b91eb82c1040f1bfeb13286be60243f9cf0550e6189"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "cowork-research",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "scrape",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.0.0",
+      "digest": "sha256:46b0282b790f5ffb49a70b6a28fd50577b50910507d8f5b218aff2c43fb32719"
+    }
+  }
+}

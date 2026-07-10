@@ -1,0 +1,18 @@
+{
+  "id": "fiduciary",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.0.0",
+      "digest": "sha256:ad414b79f5cb0c85a8668484b1778a48b7a7ac7d2002dd7fe3b2bb97725666cb"
+    }
+  }
+}

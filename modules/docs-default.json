@@ -1,0 +1,17 @@
+{
+  "id": "docs-default",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/docs-default:1.1.0",
+      "digest": "sha256:4a78eeb5338c18bf463c6a99c9af8420962fc935c3b57d2caea0ddd3cddf92f2"
+    }
+  }
+}

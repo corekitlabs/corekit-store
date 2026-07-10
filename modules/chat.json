@@ -1,0 +1,10 @@
+{
+  "id": "chat",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/chat:1.0.0",
+      "digest": "sha256:c5871229bcddb46be201d4b722ace51dc81a1c6cc5b7ac115805cd54a1e09f14"
+    }
+  }
+}

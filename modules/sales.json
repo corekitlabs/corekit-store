@@ -1,0 +1,22 @@
+{
+  "id": "sales",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.0.0",
+      "digest": "sha256:90142763d0c2cfd504dad90b8fdf040a1d8675e2d6587e01215be98716b641cf"
+    }
+  }
+}

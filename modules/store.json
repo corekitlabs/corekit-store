@@ -1,0 +1,13 @@
+{
+  "id": "store",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.1": {
+      "requires": {
+        "corekit": ">=1.0"
+      },
+      "oci": "ghcr.io/corekitlabs/modules/store:1.0.1",
+      "digest": "sha256:f6adb2d85edd3e44f837f998a04cf8d4e0ae590bda5b22fcbfbfe9194e034268"
+    }
+  }
+}

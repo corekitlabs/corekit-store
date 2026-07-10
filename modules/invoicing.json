@@ -1,0 +1,25 @@
+{
+  "id": "invoicing",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "camt_import",
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "for",
+          "mail_send",
+          "notify",
+          "qr_bill_render",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/invoicing:1.0.0",
+      "digest": "sha256:f2c738b8925c2a64c3a5ce02644314adaba83ac476fd11d848989a7e911c766d"
+    }
+  }
+}

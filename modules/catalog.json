@@ -1,0 +1,10 @@
+{
+  "id": "catalog",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/catalog:1.0.0",
+      "digest": "sha256:4bbf8b8712d172ec5bbfaadf881b829e11ea415d11beb720cec86b0348239568"
+    }
+  }
+}

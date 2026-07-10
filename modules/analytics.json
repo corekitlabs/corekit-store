@@ -1,0 +1,15 @@
+{
+  "id": "analytics",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "0.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
+      "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
+    }
+  }
+}

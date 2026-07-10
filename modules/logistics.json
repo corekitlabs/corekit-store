@@ -1,0 +1,18 @@
+{
+  "id": "logistics",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/logistics:1.0.0",
+      "digest": "sha256:188bfd4901d1ec2a5457b820074fa3e8fad60f8ca1b95527dcf5c20c4e8fa8b4"
+    }
+  }
+}

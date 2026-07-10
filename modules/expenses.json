@@ -1,0 +1,16 @@
+{
+  "id": "expenses",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.0",
+      "digest": "sha256:08389ada12b664bcb882cf21ddc53acf15ceb0ae2519f7dd437d29991be5abfb"
+    }
+  }
+}

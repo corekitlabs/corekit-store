@@ -1,0 +1,10 @@
+{
+  "id": "platform",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/platform:1.1.0",
+      "digest": "sha256:0888aba77c091a34b09b098e688ff8acb2ac5b9c5bf4af59f87214c8994a2d41"
+    }
+  }
+}

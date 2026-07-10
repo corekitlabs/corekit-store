@@ -1,0 +1,10 @@
+{
+  "id": "jobs",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/jobs:1.0.0",
+      "digest": "sha256:183f0e57ceaf8324a77145067a3091f7d6d73ade6dc0471d8ce43559af74ff06"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "demo",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "0.9.0": {
+      "capabilities": {
+        "workerSkills": [
+          "echo-demo"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/demo:0.9.0",
+      "digest": "sha256:3400e99c7776d349bc04addfecf4c8371feead4b87e66ceea1d2f155f958e72d"
+    }
+  }
+}

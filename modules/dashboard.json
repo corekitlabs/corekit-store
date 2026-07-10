@@ -1,0 +1,10 @@
+{
+  "id": "dashboard",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.0",
+      "digest": "sha256:65021204003e3cae76f0ebb05303131ef3efe27fb9978080c4a8ac37df414865"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "appointments",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "mail_send",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/appointments:1.0.0",
+      "digest": "sha256:2262020bad7d18ed3e1b034e1e33de1ce64ff12f4941f24be3638080f4cc0847"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "inventory",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/inventory:1.0.0",
+      "digest": "sha256:e1de941bbfb2cba8e823c4c6fbe57c0cf0076984f92464fb90a3ff06384e081a"
+    }
+  }
+}

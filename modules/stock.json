@@ -1,0 +1,26 @@
+{
+  "id": "stock",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "2.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "reorder-qty"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.0",
+      "digest": "sha256:44c797bf8596cb6fcddfbc1d239a1bf8ed1a64e82303471b514f599cd3e04562"
+    }
+  }
+}

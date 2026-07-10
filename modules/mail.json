@@ -1,0 +1,10 @@
+{
+  "id": "mail",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/mail:1.0.0",
+      "digest": "sha256:bfc0508d35bfa5bf1d101ba4b5bf1ed15beb37fe224468a68e87b2035ef08562"
+    }
+  }
+}

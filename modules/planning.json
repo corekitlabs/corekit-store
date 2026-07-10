@@ -1,0 +1,18 @@
+{
+  "id": "planning",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/planning:1.0.0",
+      "digest": "sha256:329b41134efe7494863f54cc84af11a8bb1c6306a8194f94150daf1ba47429f8"
+    }
+  }
+}

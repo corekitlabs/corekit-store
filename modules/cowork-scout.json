@@ -1,0 +1,19 @@
+{
+  "id": "cowork-scout",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "dispatch",
+          "for",
+          "scrape",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.0",
+      "digest": "sha256:bce607736b5dc34f35e2205458ecc45383c50ecdba8330eb8e53c2d3ac073114"
+    }
+  }
+}

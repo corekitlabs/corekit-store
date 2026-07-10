@@ -1,0 +1,18 @@
+{
+  "id": "bexio",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "http",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.0",
+      "digest": "sha256:1d0e823e9828b71271e50a755ef2b16181179675f61a74a2d9c5cf1450b9872f"
+    }
+  }
+}

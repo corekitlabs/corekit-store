@@ -1,0 +1,23 @@
+{
+  "id": "cowork",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.3.0": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "create_entity",
+          "dispatch",
+          "find_entity",
+          "notify",
+          "pause",
+          "update_entity",
+          "user_input",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork:1.3.0",
+      "digest": "sha256:7370b4a6f0f38ae80a0e02bf71b8785d7e41593456ada33ea7da71eaddfa1c54"
+    }
+  }
+}

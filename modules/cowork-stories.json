@@ -1,0 +1,17 @@
+{
+  "id": "cowork-stories",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "media",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.0.0",
+      "digest": "sha256:8a56ab47833a139c91ec9f2c3396b046b168807b0ddc385fa85e40c0ac3014f5"
+    }
+  }
+}

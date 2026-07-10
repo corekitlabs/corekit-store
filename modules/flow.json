@@ -1,0 +1,10 @@
+{
+  "id": "flow",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.0",
+      "digest": "sha256:077ecf13c818f1fbbf92dd56538bb4e81cf28da7fd1a7f1ae748520c808fc3c9"
+    }
+  }
+}

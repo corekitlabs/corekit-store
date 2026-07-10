@@ -1,0 +1,10 @@
+{
+  "id": "employee",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/employee:1.0.0",
+      "digest": "sha256:664e36c2c70ddc078ab93c2a75d451915ea1aa38c3529c1fc99809049fce1c7c"
+    }
+  }
+}

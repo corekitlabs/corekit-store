@@ -1,0 +1,21 @@
+{
+  "id": "maintenance",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "for",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/maintenance:1.0.0",
+      "digest": "sha256:8f304aa101039b9fddaf3b7208bfc1f4cfe105093c6efc1e6f983eb050635bb4"
+    }
+  }
+}

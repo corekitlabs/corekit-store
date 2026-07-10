@@ -1,0 +1,10 @@
+{
+  "id": "cockpit",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/cockpit:1.0.0",
+      "digest": "sha256:794c9966a5f3ce7a8e808fd3d22e9a81cf419a30f40e3bbeedab56800e31f478"
+    }
+  }
+}
