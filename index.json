@@ -11,6 +11,18 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
         "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
+      },
+      "0.2.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity"
+          ],
+          "workerWorkflows": [
+            "analytics_query"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.0",
+        "digest": "sha256:d2b1378f792609f0666e634a49e27ac8c5b90d5bd068f55d1ddd50bc3d89ce49"
       }
     }
   },
@@ -85,6 +97,15 @@
       "1.0.0": {
         "oci": "ghcr.io/corekitlabs/modules/chat:1.0.0",
         "digest": "sha256:c5871229bcddb46be201d4b722ace51dc81a1c6cc5b7ac115805cd54a1e09f14"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "workerWorkflows": [
+            "chat_turn"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/chat:1.1.0",
+        "digest": "sha256:47cf5c4dec3ba49dfd8447c5fd2e3fa66cd0e6e272c8d433a5ea07619ad5ad3a"
       }
     }
   },
@@ -160,6 +181,33 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.0.0",
         "digest": "sha256:5b6c9ca58238be805719dcf0dd5d5212bbd7beb5a277413e11eaffd374928bf8"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "code",
+            "create_entity",
+            "dispatch",
+            "gateway",
+            "notify",
+            "pause",
+            "wait"
+          ],
+          "workerWorkflows": [
+            "code_implement",
+            "code_review",
+            "code_setup_repo",
+            "code_github_sync",
+            "code_github_sync_batch",
+            "analyze_architect",
+            "analyze_architecture",
+            "analyze_planning",
+            "dispatch_apply_backlog"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.0",
+        "digest": "sha256:96b586752b7b018e5d5c3a2fc70b5877f52195f8ae9292393856916133f2f43a"
       }
     }
   },
@@ -177,6 +225,23 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.0.0",
         "digest": "sha256:46b0282b790f5ffb49a70b6a28fd50577b50910507d8f5b218aff2c43fb32719"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "scrape",
+            "wait"
+          ],
+          "workerWorkflows": [
+            "scrape_find_source",
+            "analyze_enrich",
+            "analyze_synthesize",
+            "analyze_validate"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.0",
+        "digest": "sha256:2ceaab9d72581576cb8f2c4277e92373c7bd8760a0ba75b74d804dda5e3f5467"
       }
     }
   },
@@ -229,6 +294,27 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.3",
         "digest": "sha256:d9009e3b44402acffdd4f32c60084316cb5322c07f8b15f3bbf4999ca8d75d5e"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "dispatch",
+            "find_entity",
+            "for",
+            "notify",
+            "scrape",
+            "wait"
+          ],
+          "workerWorkflows": [
+            "scrape_fetch_sources",
+            "analyze_filter",
+            "analyze_digest",
+            "dispatch_apply"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.0",
+        "digest": "sha256:a05e47929f33b5841769e7984bdf3c8a4b652ae467ade697b7696aa3dd3a577e"
       }
     }
   },
@@ -246,6 +332,36 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.0.0",
         "digest": "sha256:8a56ab47833a139c91ec9f2c3396b046b168807b0ddc385fa85e40c0ac3014f5"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "media",
+            "wait"
+          ],
+          "workerWorkflows": [
+            "media_cascade_chapter",
+            "media_cascade_scene",
+            "media_scaffold",
+            "media_scaffold_chapter",
+            "media_scaffold_scene",
+            "media_produce",
+            "media_produce_scene",
+            "media_produce_video",
+            "media_produce_note",
+            "media_create_merges",
+            "media_create_videos",
+            "media_create_video_scene",
+            "media_merge_story",
+            "media_merge_video",
+            "media_finalize",
+            "media_set_status",
+            "media_dashboard"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.0",
+        "digest": "sha256:43e150a9975c64acb95e3e820559c8afb45fc0cf96738f5148ad5c35bbae73a2"
       }
     }
   },
@@ -269,6 +385,27 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.3.0",
         "digest": "sha256:7370b4a6f0f38ae80a0e02bf71b8785d7e41593456ada33ea7da71eaddfa1c54"
+      },
+      "1.4.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "create_entity",
+            "dispatch",
+            "find_entity",
+            "notify",
+            "pause",
+            "update_entity",
+            "user_input",
+            "wait"
+          ],
+          "workerWorkflows": [
+            "dispatch_changeset",
+            "analyze_report_build"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.0",
+        "digest": "sha256:b10d2132c57a4a5b6df460ffc220ed3abfe4838af158a53b705f1906450387c8"
       }
     }
   },
@@ -350,6 +487,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/dam:1.2.2",
         "digest": "sha256:695e00a42b3ffdaae92cfbf129b14b035b374f4e77a8166abb332138d6965854"
+      },
+      "1.3.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity",
+            "user_input",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.3.0",
+        "digest": "sha256:df2ac97076c2a99d8d28133890540017ff11c3185c818114b75bb364441b72d5"
       }
     }
   },
@@ -812,6 +964,46 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/skill-media:1.0.0",
         "digest": "sha256:ffb4d6c8839cf695d3226a16b6bac014ed94de922b0d8ee18cf7a64162e06e4d"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "workerSkills": [
+            "tts-elevenlabs",
+            "comfyui-image",
+            "slideshow"
+          ],
+          "workerWorkflows": [
+            "media_convert_image",
+            "media_download_video",
+            "media_produce_audio",
+            "media_produce_image",
+            "media_slideshow",
+            "media_transcribe",
+            "media_zip"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/skill-media:1.1.0",
+        "digest": "sha256:a68ac99d9c8019575f70419fc4327cfc2738da2e8af6ecc1bb0c7fc99fc18f61"
+      }
+    }
+  },
+  "skill-scrape": {
+    "id": "skill-scrape",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "workerSkills": [
+            "docling-convert",
+            "social-gallerydl"
+          ],
+          "workerWorkflows": [
+            "content_scrape",
+            "scrape_document"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.0.0",
+        "digest": "sha256:7b467a175253514ef1604375c8b6ebef4a538b2510628d8743036480d9b2ef40"
       }
     }
   },
