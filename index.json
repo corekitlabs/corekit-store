@@ -196,6 +196,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.0",
         "digest": "sha256:bce607736b5dc34f35e2205458ecc45383c50ecdba8330eb8e53c2d3ac073114"
+      },
+      "1.0.2": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "dispatch",
+            "find_entity",
+            "for",
+            "notify",
+            "scrape",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.2",
+        "digest": "sha256:3950df262e45bef445b38aef2379eaff48e7e55e82685bda596e7e0cd2a2191a"
       }
     }
   },
@@ -283,6 +298,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/dam:1.2.0",
         "digest": "sha256:756e941b31aacaf8447c8967928c6d1e7c056076b5d5d8af2781a322b1ddac0e"
+      },
+      "1.2.1": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity",
+            "user_input",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.2.1",
+        "digest": "sha256:09ea60874c75cde6377e0242db7f76108238a866f35865c1f391b690a3ed52aa"
       }
     }
   },
