@@ -39,6 +39,27 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.0",
       "digest": "sha256:b10d2132c57a4a5b6df460ffc220ed3abfe4838af158a53b705f1906450387c8"
+    },
+    "1.4.1": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "create_entity",
+          "dispatch",
+          "find_entity",
+          "notify",
+          "pause",
+          "update_entity",
+          "user_input",
+          "wait"
+        ],
+        "workerWorkflows": [
+          "dispatch_changeset",
+          "analyze_report_build"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.1",
+      "digest": "sha256:b83cb160d10326cab0e63ff44c90e43ba2a2a551574e304daabc65c6136adee6"
     }
   }
 }
