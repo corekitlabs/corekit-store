@@ -1,0 +1,16 @@
+{
+  "id": "skill-media",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "workerSkills": [
+          "tts-elevenlabs",
+          "comfyui-image"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/skill-media:1.0.0",
+      "digest": "sha256:ffb4d6c8839cf695d3226a16b6bac014ed94de922b0d8ee18cf7a64162e06e4d"
+    }
+  }
+}

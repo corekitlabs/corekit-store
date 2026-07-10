@@ -29,6 +29,24 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.2",
       "digest": "sha256:3950df262e45bef445b38aef2379eaff48e7e55e82685bda596e7e0cd2a2191a"
+    },
+    "1.0.3": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "dispatch",
+          "find_entity",
+          "for",
+          "notify",
+          "scrape",
+          "wait"
+        ],
+        "workerSkills": [
+          "social-gallerydl"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.3",
+      "digest": "sha256:d9009e3b44402acffdd4f32c60084316cb5322c07f8b15f3bbf4999ca8d75d5e"
     }
   }
 }

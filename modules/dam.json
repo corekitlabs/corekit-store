@@ -31,6 +31,25 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/dam:1.2.1",
       "digest": "sha256:09ea60874c75cde6377e0242db7f76108238a866f35865c1f391b690a3ed52aa"
+    },
+    "1.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "media",
+          "notify",
+          "update_entity",
+          "user_input",
+          "wait"
+        ],
+        "workerSkills": [
+          "docling-convert",
+          "slideshow"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/dam:1.2.2",
+      "digest": "sha256:695e00a42b3ffdaae92cfbf129b14b035b374f4e77a8166abb332138d6965854"
     }
   }
 }
