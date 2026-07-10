@@ -31,6 +31,21 @@
         ],
         "ui": true
       }
+    },
+    "1.1.2": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.2",
+      "digest": "sha256:886a3845402a1ea3476b848b4478e06c7d99cc52924901e9a4a4cb871f4d3283",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      }
     }
   }
 }
