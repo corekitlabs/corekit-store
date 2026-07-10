@@ -1,4 +1,462 @@
 {
+  "analytics": {
+    "id": "analytics",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "0.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
+        "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
+      }
+    }
+  },
+  "appointments": {
+    "id": "appointments",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.0.0",
+        "digest": "sha256:2262020bad7d18ed3e1b034e1e33de1ce64ff12f4941f24be3638080f4cc0847"
+      }
+    }
+  },
+  "approvals": {
+    "id": "approvals",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/approvals:1.0.0",
+        "digest": "sha256:ee3fa042815be9c12daf7399c103522d25e0946fc93ed4eb7dfbf749760c3a2f"
+      }
+    }
+  },
+  "bexio": {
+    "id": "bexio",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "http",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.0",
+        "digest": "sha256:1d0e823e9828b71271e50a755ef2b16181179675f61a74a2d9c5cf1450b9872f"
+      }
+    }
+  },
+  "catalog": {
+    "id": "catalog",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/catalog:1.0.0",
+        "digest": "sha256:4bbf8b8712d172ec5bbfaadf881b829e11ea415d11beb720cec86b0348239568"
+      }
+    }
+  },
+  "chat": {
+    "id": "chat",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/chat:1.0.0",
+        "digest": "sha256:c5871229bcddb46be201d4b722ace51dc81a1c6cc5b7ac115805cd54a1e09f14"
+      }
+    }
+  },
+  "cockpit": {
+    "id": "cockpit",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cockpit:1.0.0",
+        "digest": "sha256:794c9966a5f3ce7a8e808fd3d22e9a81cf419a30f40e3bbeedab56800e31f478"
+      }
+    }
+  },
+  "contacts": {
+    "id": "contacts",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/contacts:1.1.0",
+        "digest": "sha256:f98cfb7f64fb4c55591d03c334821ce67d339f95dd2a2e829486cee24fd21f19"
+      }
+    }
+  },
+  "core": {
+    "id": "core",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.5": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "keycloak_create_user",
+            "notify",
+            "submit_user_input",
+            "tenant_import",
+            "transform",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/core:1.1.5",
+        "digest": "sha256:956c9fb300f0f48ea94a500b85fa4eba10f4ab8a9830a426be5dfc574776b194"
+      }
+    }
+  },
+  "cowork-projects": {
+    "id": "cowork-projects",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "code",
+            "create_entity",
+            "dispatch",
+            "gateway",
+            "notify",
+            "pause",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.0.0",
+        "digest": "sha256:5b6c9ca58238be805719dcf0dd5d5212bbd7beb5a277413e11eaffd374928bf8"
+      }
+    }
+  },
+  "cowork-research": {
+    "id": "cowork-research",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "scrape",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.0.0",
+        "digest": "sha256:46b0282b790f5ffb49a70b6a28fd50577b50910507d8f5b218aff2c43fb32719"
+      }
+    }
+  },
+  "cowork-scout": {
+    "id": "cowork-scout",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "dispatch",
+            "for",
+            "scrape",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.0.0",
+        "digest": "sha256:bce607736b5dc34f35e2205458ecc45383c50ecdba8330eb8e53c2d3ac073114"
+      }
+    }
+  },
+  "cowork-stories": {
+    "id": "cowork-stories",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "media",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.0.0",
+        "digest": "sha256:8a56ab47833a139c91ec9f2c3396b046b168807b0ddc385fa85e40c0ac3014f5"
+      }
+    }
+  },
+  "cowork": {
+    "id": "cowork",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.3.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analyze",
+            "create_entity",
+            "dispatch",
+            "find_entity",
+            "notify",
+            "pause",
+            "update_entity",
+            "user_input",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.3.0",
+        "digest": "sha256:7370b4a6f0f38ae80a0e02bf71b8785d7e41593456ada33ea7da71eaddfa1c54"
+      }
+    }
+  },
+  "crm": {
+    "id": "crm",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/crm:1.1.0",
+        "digest": "sha256:5f4fb14c8f1634c8b3687b380ba181aaa38cccd4dfd8cbcbc34d802c31611952"
+      }
+    }
+  },
+  "customer": {
+    "id": "customer",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/customer:1.1.0",
+        "digest": "sha256:ee453f2aa11c8b8eb7d67ad88d2a44b7d1729111f2a571180c3220845956f4f7"
+      }
+    }
+  },
+  "dam": {
+    "id": "dam",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.2.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity",
+            "user_input",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.2.0",
+        "digest": "sha256:756e941b31aacaf8447c8967928c6d1e7c056076b5d5d8af2781a322b1ddac0e"
+      }
+    }
+  },
+  "dashboard": {
+    "id": "dashboard",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.0",
+        "digest": "sha256:65021204003e3cae76f0ebb05303131ef3efe27fb9978080c4a8ac37df414865"
+      }
+    }
+  },
+  "demo": {
+    "id": "demo",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "0.9.0": {
+        "capabilities": {
+          "workerSkills": [
+            "echo-demo"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/demo:0.9.0",
+        "digest": "sha256:3400e99c7776d349bc04addfecf4c8371feead4b87e66ceea1d2f155f958e72d"
+      }
+    }
+  },
+  "docs-default": {
+    "id": "docs-default",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/docs-default:1.1.0",
+        "digest": "sha256:4a78eeb5338c18bf463c6a99c9af8420962fc935c3b57d2caea0ddd3cddf92f2"
+      }
+    }
+  },
+  "docs": {
+    "id": "docs",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/docs:1.1.0",
+        "digest": "sha256:2eeaeee0f86d0a6bda3a2a0247b70caa2fa5d495d0de8e68833eccf89b367875"
+      }
+    }
+  },
+  "employee": {
+    "id": "employee",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/employee:1.0.0",
+        "digest": "sha256:664e36c2c70ddc078ab93c2a75d451915ea1aa38c3529c1fc99809049fce1c7c"
+      }
+    }
+  },
+  "events": {
+    "id": "events",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/events:1.0.0",
+        "digest": "sha256:0c07d019a31f0b5539674f20df9a6b133ac98e1c0ebfb96f2c4e670e99f869a2"
+      }
+    }
+  },
+  "expenses": {
+    "id": "expenses",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.0",
+        "digest": "sha256:08389ada12b664bcb882cf21ddc53acf15ceb0ae2519f7dd437d29991be5abfb"
+      }
+    }
+  },
+  "fiduciary": {
+    "id": "fiduciary",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.0.0",
+        "digest": "sha256:ad414b79f5cb0c85a8668484b1778a48b7a7ac7d2002dd7fe3b2bb97725666cb"
+      }
+    }
+  },
+  "fieldservice": {
+    "id": "fieldservice",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.0.0",
+        "digest": "sha256:4f0fa1d27aaa9fd170386e5323034b15e37fdcfcfc3c2d792923f82df1322cf0"
+      }
+    }
+  },
+  "fleet": {
+    "id": "fleet",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/fleet:1.0.0",
+        "digest": "sha256:5e8ca0e81e66cc73847bf438ff9873b4920e9ad6d0d1ceff5d77fd665a3de6e4"
+      }
+    }
+  },
+  "flow": {
+    "id": "flow",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.1.0",
+        "digest": "sha256:077ecf13c818f1fbbf92dd56538bb4e81cf28da7fd1a7f1ae748520c808fc3c9"
+      }
+    }
+  },
   "helpdesk": {
     "id": "helpdesk",
     "repo": "https://github.com/corekitlabs/corekit-modules",
@@ -38,6 +496,304 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.2",
         "digest": "sha256:98ed7586cf758bef2a4bfe89926c62b8a282b805b7e4166900b1d282bddcd5cc"
+      }
+    }
+  },
+  "hr": {
+    "id": "hr",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/hr:1.0.0",
+        "digest": "sha256:f31b431d722a749b221a55eac296ba155836694f767b70a3e0110fe63399ed9b"
+      }
+    }
+  },
+  "insurance": {
+    "id": "insurance",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.0.0",
+        "digest": "sha256:a7b1f07000570c24ff4bbd115e60a27191546c81fa753f8d67a639c394664f99"
+      }
+    }
+  },
+  "inventory": {
+    "id": "inventory",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/inventory:1.0.0",
+        "digest": "sha256:e1de941bbfb2cba8e823c4c6fbe57c0cf0076984f92464fb90a3ff06384e081a"
+      }
+    }
+  },
+  "invoicing": {
+    "id": "invoicing",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "camt_import",
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "qr_bill_render",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/invoicing:1.0.0",
+        "digest": "sha256:f2c738b8925c2a64c3a5ce02644314adaba83ac476fd11d848989a7e911c766d"
+      }
+    }
+  },
+  "jobs": {
+    "id": "jobs",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/jobs:1.0.0",
+        "digest": "sha256:183f0e57ceaf8324a77145067a3091f7d6d73ade6dc0471d8ce43559af74ff06"
+      }
+    }
+  },
+  "locations": {
+    "id": "locations",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/locations:1.0.0",
+        "digest": "sha256:ba28cbec4a70158c9e535b91eb82c1040f1bfeb13286be60243f9cf0550e6189"
+      }
+    }
+  },
+  "logistics": {
+    "id": "logistics",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/logistics:1.0.0",
+        "digest": "sha256:188bfd4901d1ec2a5457b820074fa3e8fad60f8ca1b95527dcf5c20c4e8fa8b4"
+      }
+    }
+  },
+  "mail": {
+    "id": "mail",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/mail:1.0.0",
+        "digest": "sha256:bfc0508d35bfa5bf1d101ba4b5bf1ed15beb37fe224468a68e87b2035ef08562"
+      }
+    }
+  },
+  "maintenance": {
+    "id": "maintenance",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "for",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/maintenance:1.0.0",
+        "digest": "sha256:8f304aa101039b9fddaf3b7208bfc1f4cfe105093c6efc1e6f983eb050635bb4"
+      }
+    }
+  },
+  "planning": {
+    "id": "planning",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/planning:1.0.0",
+        "digest": "sha256:329b41134efe7494863f54cc84af11a8bb1c6306a8194f94150daf1ba47429f8"
+      }
+    }
+  },
+  "platform": {
+    "id": "platform",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/platform:1.1.0",
+        "digest": "sha256:0888aba77c091a34b09b098e688ff8acb2ac5b9c5bf4af59f87214c8994a2d41"
+      }
+    }
+  },
+  "public": {
+    "id": "public",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/public:1.0.0",
+        "digest": "sha256:52c5d1f9c503f21562cf60266c4d4ea174725d09926a1d3f6dfe025153279424"
+      }
+    }
+  },
+  "purchase": {
+    "id": "purchase",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/purchase:1.0.0",
+        "digest": "sha256:2ebaa0c4d2ce274321c892352ab12b2dda5811745825907c0fc2a6174b62b28b"
+      }
+    }
+  },
+  "sales": {
+    "id": "sales",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/sales:1.0.0",
+        "digest": "sha256:90142763d0c2cfd504dad90b8fdf040a1d8675e2d6587e01215be98716b641cf"
+      }
+    }
+  },
+  "stock": {
+    "id": "stock",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "2.2.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "map",
+            "notify",
+            "script",
+            "sub_flow",
+            "update_entity",
+            "user_input"
+          ],
+          "scripts": [
+            "reorder-qty"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/stock:2.2.0",
+        "digest": "sha256:44c797bf8596cb6fcddfbc1d239a1bf8ed1a64e82303471b514f599cd3e04562"
+      }
+    }
+  },
+  "store": {
+    "id": "store",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.1": {
+        "requires": {
+          "corekit": ">=1.0"
+        },
+        "oci": "ghcr.io/corekitlabs/modules/store:1.0.1",
+        "digest": "sha256:f6adb2d85edd3e44f837f998a04cf8d4e0ae590bda5b22fcbfbfe9194e034268"
+      }
+    }
+  },
+  "subscriptions": {
+    "id": "subscriptions",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.0",
+        "digest": "sha256:39662a93a2cd4d485389e34f9dd757c26b5cfc5f5934ad012a1f402da425ff21"
+      }
+    }
+  },
+  "suppliers": {
+    "id": "suppliers",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.0",
+        "digest": "sha256:55e367d2a68be39787d6f7f832f16910eadeeb800101bd31e7e159c63271c121"
       }
     }
   },
@@ -104,6 +860,60 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.3",
         "digest": "sha256:5ac76886629df57eb3be317184f172f0ab1b8c68626435635f2e1e8691e83181"
+      }
+    }
+  },
+  "timeoff": {
+    "id": "timeoff",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/timeoff:1.0.0",
+        "digest": "sha256:4eeee8ac1141c5529ea4d33c368a99c2e1faebaa48bc88b0551b4f3f29f4cd2d"
+      }
+    }
+  },
+  "timesheet": {
+    "id": "timesheet",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/timesheet:1.0.0",
+        "digest": "sha256:0611a9807298a939cdfb19a671c3bc11f569fb7ed1b92401fdb7ad94c3188c80"
+      }
+    }
+  },
+  "utility": {
+    "id": "utility",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/utility:1.0.0",
+        "digest": "sha256:ceda39d3483b30d1b8c6382e5536c89b30a036c0a7295360be95f028423c6134"
       }
     }
   }
