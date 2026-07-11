@@ -1156,6 +1156,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.3",
         "digest": "sha256:5ac76886629df57eb3be317184f172f0ab1b8c68626435635f2e1e8691e83181"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.0",
+        "digest": "sha256:3e026160e718ae6d9d560097db18929d67b83f007ff088bc0962364c1c81241f",
+        "requires": {
+          "corekit": ">=1.0",
+          "app-core": ">=2.2"
+        },
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "notify"
+          ],
+          "ui": true
+        }
       }
     }
   },
