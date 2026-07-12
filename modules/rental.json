@@ -1,0 +1,21 @@
+{
+  "id": "rental",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/rental:1.0.0",
+      "digest": "sha256:1726d8a742f8d95bba49b0b549ba7dad57fee3c8818f1ee5f77924f24c33e877",
+      "requires": {
+        "corekit": ">=1.0"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "create_entity",
+          "mail_send",
+          "notify"
+        ]
+      }
+    }
+  }
+}
