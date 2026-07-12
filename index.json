@@ -719,6 +719,20 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/events:1.1.0",
         "digest": "sha256:4b4fd7832a43c3be21d26da3145b695b32dd91c41cc2ed971d7d9d455da391f6"
+      },
+      "1.2.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/events:1.2.0",
+        "digest": "sha256:a017ec3df515b2067a3b2b3ad4ad0b7575bcb28a0ded3348de8ffc1a80af39b8"
       }
     }
   },
@@ -1291,6 +1305,28 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/skill-media:1.1.0",
         "digest": "sha256:a68ac99d9c8019575f70419fc4327cfc2738da2e8af6ecc1bb0c7fc99fc18f61"
+      },
+      "1.2.0": {
+        "capabilities": {
+          "workerSkills": [
+            "tts-elevenlabs",
+            "comfyui-image",
+            "slideshow",
+            "qr-generate"
+          ],
+          "workerWorkflows": [
+            "media_convert_image",
+            "media_download_video",
+            "media_generate_qr",
+            "media_produce_audio",
+            "media_produce_image",
+            "media_slideshow",
+            "media_transcribe",
+            "media_zip"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/skill-media:1.2.0",
+        "digest": "sha256:d91618a1ca4646ddad976a8697f3ddba1fb7bc47909cf7563002aede8840e05c"
       }
     }
   },

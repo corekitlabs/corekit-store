@@ -31,6 +31,28 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/skill-media:1.1.0",
       "digest": "sha256:a68ac99d9c8019575f70419fc4327cfc2738da2e8af6ecc1bb0c7fc99fc18f61"
+    },
+    "1.2.0": {
+      "capabilities": {
+        "workerSkills": [
+          "tts-elevenlabs",
+          "comfyui-image",
+          "slideshow",
+          "qr-generate"
+        ],
+        "workerWorkflows": [
+          "media_convert_image",
+          "media_download_video",
+          "media_generate_qr",
+          "media_produce_audio",
+          "media_produce_image",
+          "media_slideshow",
+          "media_transcribe",
+          "media_zip"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/skill-media:1.2.0",
+      "digest": "sha256:d91618a1ca4646ddad976a8697f3ddba1fb7bc47909cf7563002aede8840e05c"
     }
   }
 }

@@ -29,6 +29,20 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/events:1.1.0",
       "digest": "sha256:4b4fd7832a43c3be21d26da3145b695b32dd91c41cc2ed971d7d9d455da391f6"
+    },
+    "1.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "mail_send",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/events:1.2.0",
+      "digest": "sha256:a017ec3df515b2067a3b2b3ad4ad0b7575bcb28a0ded3348de8ffc1a80af39b8"
     }
   }
 }
