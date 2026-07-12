@@ -733,20 +733,6 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/events:1.2.0",
         "digest": "sha256:a017ec3df515b2067a3b2b3ad4ad0b7575bcb28a0ded3348de8ffc1a80af39b8"
-      },
-      "1.2.1": {
-        "capabilities": {
-          "flowSteps": [
-            "create_entity",
-            "find_entity",
-            "for",
-            "mail_send",
-            "notify",
-            "update_entity"
-          ]
-        },
-        "oci": "ghcr.io/corekitlabs/modules/events:1.2.1",
-        "digest": "sha256:0beeaa1c6046bf62e485f1c743e3044c1313f455e80fc9ee9f86ee454e417951"
       }
     }
   },
@@ -1304,21 +1290,6 @@
             "notify"
           ]
         }
-      },
-      "1.0.1": {
-        "oci": "ghcr.io/corekitlabs/modules/rental:1.0.1",
-        "digest": "sha256:ba86bf888f7e43869b4163cec8e50dd8dce775a8df3c60c91e69a616e64bf2d6",
-        "requires": {
-          "corekit": ">=1.0"
-        },
-        "capabilities": {
-          "flowSteps": [
-            "find_entity",
-            "create_entity",
-            "mail_send",
-            "notify"
-          ]
-        }
       }
     }
   },
@@ -1601,21 +1572,6 @@
           ],
           "ui": true
         }
-      },
-      "1.2.1": {
-        "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.1",
-        "digest": "sha256:7de655be96edbeae34fe08608518687bcf0e6cade7c702ab9cadd29559e9fb17",
-        "requires": {
-          "corekit": ">=1.0",
-          "app-core": ">=2.2"
-        },
-        "capabilities": {
-          "flowSteps": [
-            "find_entity",
-            "notify"
-          ],
-          "ui": true
-        }
       }
     }
   },
@@ -1650,18 +1606,6 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/timesheet:1.0.0",
         "digest": "sha256:0611a9807298a939cdfb19a671c3bc11f569fb7ed1b92401fdb7ad94c3188c80"
-      },
-      "1.0.1": {
-        "capabilities": {
-          "flowSteps": [
-            "create_entity",
-            "find_entity",
-            "for",
-            "notify"
-          ]
-        },
-        "oci": "ghcr.io/corekitlabs/modules/timesheet:1.0.1",
-        "digest": "sha256:ac9a899ea1d8f0e81614b386edcc47e09cd2d06a10bcb7518b454bf60a81774d"
       }
     }
   },
