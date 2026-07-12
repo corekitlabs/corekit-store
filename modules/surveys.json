@@ -76,6 +76,17 @@
         ],
         "ui": true
       }
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      },
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.1",
+      "digest": "sha256:7de655be96edbeae34fe08608518687bcf0e6cade7c702ab9cadd29559e9fb17"
     }
   }
 }

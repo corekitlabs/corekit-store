@@ -15,6 +15,20 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/utility:1.0.0",
       "digest": "sha256:ceda39d3483b30d1b8c6382e5536c89b30a036c0a7295360be95f028423c6134"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.0.1",
+      "digest": "sha256:1162d2640cfaeb26c3a4ca8fa5ed861e85b43982d6d02ab1f9ef28e6b17e0f8b"
     }
   }
 }

@@ -11,6 +11,16 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.0",
       "digest": "sha256:08389ada12b664bcb882cf21ddc53acf15ceb0ae2519f7dd437d29991be5abfb"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.1",
+      "digest": "sha256:3a214141034d694552177dd9153a6e9affc66ed72aad6a456d0af279a80ac3a9"
     }
   }
 }

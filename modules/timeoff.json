@@ -11,6 +11,16 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/timeoff:1.0.0",
       "digest": "sha256:4eeee8ac1141c5529ea4d33c368a99c2e1faebaa48bc88b0551b4f3f29f4cd2d"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/timeoff:1.0.1",
+      "digest": "sha256:7b33512cbf717f2eabcac4415e031fc8d4b847f595852d7518035a9177146bc1"
     }
   }
 }
