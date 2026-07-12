@@ -797,6 +797,24 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.2",
         "digest": "sha256:98ed7586cf758bef2a4bfe89926c62b8a282b805b7e4166900b1d282bddcd5cc"
+      },
+      "1.1.0": {
+        "requires": {
+          "corekit": ">=1.0",
+          "app-core": ">=2.2"
+        },
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.1.0",
+        "digest": "sha256:94882d80b8463c93fa1bf5225c6d73c8cc1909f7f14cfeb885def01f2700bf81"
       }
     }
   },
