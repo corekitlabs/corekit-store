@@ -1,70 +1,83 @@
 {
-  "id": "appointments",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.0.0": {
-      "capabilities": {
-        "flowSteps": [
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/appointments:1.0.0",
-      "digest": "sha256:2262020bad7d18ed3e1b034e1e33de1ce64ff12f4941f24be3638080f4cc0847"
-    },
-    "1.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "find_entity",
-          "for",
-          "create_entity",
-          "mail_send",
-          "notify"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/appointments:1.2.0",
-      "digest": "sha256:5074bb31a67389e5174b47408b3ab5a7c2a0cf43a768685fe3097857098aabab"
-    },
-    "1.3.0": {
-      "capabilities": {
-        "flowSteps": [
-          "find_entity",
-          "for",
-          "create_entity",
-          "mail_send",
-          "notify"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/appointments:1.3.0",
-      "digest": "sha256:067bd46af21eedf9e5c168164dc1693e61cb1cba79e2c94f9e6bd88345eaac35"
-    },
-    "1.4.0": {
-      "capabilities": {
-        "flowSteps": [
-          "find_entity",
-          "for",
-          "create_entity",
-          "mail_send",
-          "notify"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/appointments:1.4.0",
-      "digest": "sha256:9147c3faf50b3c93a44e23871d13cdf59b73e9ad3cc92b0bc27f8865a7a1005b"
-    },
-    "1.5.0": {
-      "capabilities": {
-        "flowSteps": [
-          "find_entity",
-          "for",
-          "create_entity",
-          "mail_send",
-          "notify"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/appointments:1.5.0",
-      "digest": "sha256:935f3b8180c8facf34461ba8d7d14ce3ee81e586317f4bbae78f086c91d39754"
-    }
+ "id": "appointments",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.0.0": {
+   "capabilities": {
+    "flowSteps": [
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/appointments:1.0.0",
+   "digest": "sha256:2262020bad7d18ed3e1b034e1e33de1ce64ff12f4941f24be3638080f4cc0847"
+  },
+  "1.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "find_entity",
+     "for",
+     "create_entity",
+     "mail_send",
+     "notify"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/appointments:1.2.0",
+   "digest": "sha256:5074bb31a67389e5174b47408b3ab5a7c2a0cf43a768685fe3097857098aabab"
+  },
+  "1.3.0": {
+   "capabilities": {
+    "flowSteps": [
+     "find_entity",
+     "for",
+     "create_entity",
+     "mail_send",
+     "notify"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/appointments:1.3.0",
+   "digest": "sha256:067bd46af21eedf9e5c168164dc1693e61cb1cba79e2c94f9e6bd88345eaac35"
+  },
+  "1.4.0": {
+   "capabilities": {
+    "flowSteps": [
+     "find_entity",
+     "for",
+     "create_entity",
+     "mail_send",
+     "notify"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/appointments:1.4.0",
+   "digest": "sha256:9147c3faf50b3c93a44e23871d13cdf59b73e9ad3cc92b0bc27f8865a7a1005b"
+  },
+  "1.5.0": {
+   "capabilities": {
+    "flowSteps": [
+     "find_entity",
+     "for",
+     "create_entity",
+     "mail_send",
+     "notify"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/appointments:1.5.0",
+   "digest": "sha256:935f3b8180c8facf34461ba8d7d14ce3ee81e586317f4bbae78f086c91d39754"
+  },
+  "1.5.1": {
+   "capabilities": {
+    "flowSteps": [
+     "find_entity",
+     "for",
+     "create_entity",
+     "mail_send",
+     "notify"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/appointments:1.5.1",
+   "digest": "sha256:6492fc6483c01956c1891a9ef7a1f9b0a89e5ac0c7c208564d565638dd35f03f"
   }
+ }
 }
