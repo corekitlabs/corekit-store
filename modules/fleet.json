@@ -23,6 +23,17 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.0",
       "digest": "sha256:c4ffe5090c4c1b175e38db99558577137d41dc3b55e04804788c576e6fc7d62e"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.1",
+      "digest": "sha256:8df9edff72665b3c6d881a7f6fb54b3421b7a33752828651c861eb2f07968a86"
     }
   }
 }
