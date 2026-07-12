@@ -903,6 +903,17 @@
       "1.0.0": {
         "oci": "ghcr.io/corekitlabs/modules/jobs:1.0.0",
         "digest": "sha256:183f0e57ceaf8324a77145067a3091f7d6d73ade6dc0471d8ce43559af74ff06"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/jobs:1.1.0",
+        "digest": "sha256:cff69d70feadf7898c653c9314b6298769106e0f99b2ea14f40db05615b75a3d",
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "create_entity",
+            "mail_send"
+          ]
+        }
       }
     }
   },
