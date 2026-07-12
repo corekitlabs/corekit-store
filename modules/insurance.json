@@ -109,7 +109,7 @@
    "oci": "ghcr.io/corekitlabs/modules/insurance:1.4.0",
    "digest": "sha256:f6277dd5ae29af358442bf990a471fd87f7c4e16acb9d56a776e07e6de5e1d59"
   },
-  "1.4.1": {
+  "1.5.1": {
    "capabilities": {
     "flowSteps": [
      "create_entity",
@@ -122,8 +122,8 @@
      "user_input"
     ]
    },
-   "oci": "ghcr.io/corekitlabs/modules/insurance:1.4.1",
-   "digest": ""
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.5.1",
+   "digest": "sha256:99d1d28e52b68dd3b416fafd99a713a3eb7c2925cc5368ecf0f63cf505035430"
   }
  }
 }
