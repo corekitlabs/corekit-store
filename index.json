@@ -767,6 +767,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.0.0",
         "digest": "sha256:ad414b79f5cb0c85a8668484b1778a48b7a7ac7d2002dd7fe3b2bb97725666cb"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.0",
+        "digest": "sha256:c5e94af63c5111de298ea4c4cac057a8fc7a37b94b4c40dbd02c3df5dbafd351"
       }
     }
   },
