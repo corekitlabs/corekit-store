@@ -13,6 +13,22 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/logistics:1.0.0",
       "digest": "sha256:188bfd4901d1ec2a5457b820074fa3e8fad60f8ca1b95527dcf5c20c4e8fa8b4"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "user_input",
+          "find_entity",
+          "create_entity",
+          "update_entity",
+          "for"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/logistics:1.1.0",
+      "digest": "sha256:1be81b1cd30a93489824b2b4001df05a08a9614a0e7d50143e0f82011de9e851"
     }
   }
 }
