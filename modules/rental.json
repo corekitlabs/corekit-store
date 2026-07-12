@@ -4,7 +4,7 @@
   "versions": {
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/rental:1.0.0",
-      "digest": "sha256:1726d8a742f8d95bba49b0b549ba7dad57fee3c8818f1ee5f77924f24c33e877",
+      "digest": "sha256:bda770d45408108ae33c1c1484b9ac6c3559d27a96aa48679aaca0ea277a3883",
       "requires": {
         "corekit": ">=1.0"
       },
