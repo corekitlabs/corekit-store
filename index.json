@@ -178,6 +178,20 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/contacts:1.1.0",
         "digest": "sha256:f98cfb7f64fb4c55591d03c334821ce67d339f95dd2a2e829486cee24fd21f19"
+      },
+      "1.2.0": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.0",
+        "digest": "sha256:48830029ee9020b24d3af17993d1a07072266a279ba40bb5268bfef72b6f5abc"
       }
     }
   },
@@ -1090,6 +1104,18 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/inventory:1.0.0",
         "digest": "sha256:e1de941bbfb2cba8e823c4c6fbe57c0cf0076984f92464fb90a3ff06384e081a"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "media",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/inventory:1.1.0",
+        "digest": "sha256:72cb06cf088eaa4ea44c32cf434d6d233396aafa28f095a9286d90247c471e0e"
       }
     }
   },
