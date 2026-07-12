@@ -21,6 +21,26 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/stock:2.2.0",
       "digest": "sha256:44c797bf8596cb6fcddfbc1d239a1bf8ed1a64e82303471b514f599cd3e04562"
+    },
+    "2.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "reorder-qty"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.1",
+      "digest": "sha256:cd9c0f07701e66debded5e2f1324a714a49503936bd2831d44df0a5018097c5e"
     }
   }
 }
