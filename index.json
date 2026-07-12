@@ -749,6 +749,16 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.0",
         "digest": "sha256:08389ada12b664bcb882cf21ddc53acf15ceb0ae2519f7dd437d29991be5abfb"
+      },
+      "1.0.1": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.1",
+        "digest": "sha256:3a214141034d694552177dd9153a6e9affc66ed72aad6a456d0af279a80ac3a9"
       }
     }
   },
@@ -889,6 +899,17 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.2",
         "digest": "sha256:54132cc99a669e6aad673c8096cd85602cf46327f6dcd41ee0a4fbe132a677c9"
+      },
+      "1.1.3": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.3",
+        "digest": "sha256:473b7d756a98a5fd939f839d6ad5ca5402c6d0d58036a7829c7f36e784e6fe35"
       }
     }
   },
@@ -987,6 +1008,20 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.1",
         "digest": "sha256:0fa54abc8b531844444ea13ed936cabad0ad45bb11df4c7cf7352c327aa12d20"
+      },
+      "1.2.2": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.2",
+        "digest": "sha256:288efc998129f8f93195a48b3eeeca5f0a9383101f11d805659831917de061bb"
       }
     }
   },
@@ -1114,6 +1149,19 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/jobs:1.2.0",
         "digest": "sha256:a2c036d99c9840ee594989c6dc24386f5930129732b70de192df12744b69a58e"
+      },
+      "1.2.1": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "create_entity",
+            "mail_send",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/jobs:1.2.1",
+        "digest": "sha256:3c459f17b607c71cfd08d5d4e83ef5be12603b47182a00feb86b7d17ddff8675"
       }
     }
   },
@@ -1174,6 +1222,22 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/logistics:1.2.0",
         "digest": "sha256:b76be20b3f14008f1b7bd6e4212424567b0c823d3dd9f700278602dff101b0ec"
+      },
+      "1.2.1": {
+        "capabilities": {
+          "flowSteps": [
+            "dam_upload",
+            "document_generate",
+            "notify",
+            "user_input",
+            "find_entity",
+            "create_entity",
+            "update_entity",
+            "for"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/logistics:1.2.1",
+        "digest": "sha256:736152ff2120fca6394ef90a62408a13c7c38270fd6883efe5f8d56cee85764c"
       }
     }
   },
@@ -1184,6 +1248,10 @@
       "1.0.0": {
         "oci": "ghcr.io/corekitlabs/modules/mail:1.0.0",
         "digest": "sha256:bfc0508d35bfa5bf1d101ba4b5bf1ed15beb37fe224468a68e87b2035ef08562"
+      },
+      "1.0.1": {
+        "oci": "ghcr.io/corekitlabs/modules/mail:1.0.1",
+        "digest": "sha256:a93537a78ea12270ab7c62c3814a09b47a86f5428c221572f1a48e2bd5c632fd"
       }
     }
   },
@@ -1223,6 +1291,18 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/planning:1.0.0",
         "digest": "sha256:329b41134efe7494863f54cc84af11a8bb1c6306a8194f94150daf1ba47429f8"
+      },
+      "1.0.1": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "for",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/planning:1.0.1",
+        "digest": "sha256:bed9dac2613479de1e1b3a53c49057821549085ef17ce229b583a5d7edff104f"
       }
     }
   },
@@ -1602,6 +1682,16 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/timeoff:1.0.0",
         "digest": "sha256:4eeee8ac1141c5529ea4d33c368a99c2e1faebaa48bc88b0551b4f3f29f4cd2d"
+      },
+      "1.0.1": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/timeoff:1.0.1",
+        "digest": "sha256:7b33512cbf717f2eabcac4415e031fc8d4b847f595852d7518035a9177146bc1"
       }
     }
   },
