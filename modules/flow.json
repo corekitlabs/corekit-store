@@ -1,15 +1,20 @@
 {
-  "id": "flow",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.1.0": {
-      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.0",
-      "digest": "sha256:077ecf13c818f1fbbf92dd56538bb4e81cf28da7fd1a7f1ae748520c808fc3c9"
-    },
-    "1.1.1": {
-      "capabilities": null,
-      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.1",
-      "digest": "sha256:907a11f25638f9c0c774d6cd9ded553562f25cc5248427ac3bc15fb98c744aa5"
-    }
+ "id": "flow",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.1.0": {
+   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.0",
+   "digest": "sha256:077ecf13c818f1fbbf92dd56538bb4e81cf28da7fd1a7f1ae748520c808fc3c9"
+  },
+  "1.1.1": {
+   "capabilities": null,
+   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.1",
+   "digest": "sha256:907a11f25638f9c0c774d6cd9ded553562f25cc5248427ac3bc15fb98c744aa5"
+  },
+  "1.1.2": {
+   "capabilities": null,
+   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.2",
+   "digest": "sha256:b93b7ecbba8cbb61c7b20b63a3e862d8a07582ed88b11aefa04d7149d925256e"
   }
+ }
 }
