@@ -5,6 +5,10 @@
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/employee:1.0.0",
       "digest": "sha256:664e36c2c70ddc078ab93c2a75d451915ea1aa38c3529c1fc99809049fce1c7c"
+    },
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/employee:1.1.0",
+      "digest": "sha256:bfb7f6467f1c5c2c5e7235c952a23b538d840db79dadd38bfbda4c478ad29e33"
     }
   }
 }
