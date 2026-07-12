@@ -16,6 +16,19 @@
           "mail_send"
         ]
       }
+    },
+    "1.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "create_entity",
+          "mail_send",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/jobs:1.2.0",
+      "digest": "sha256:a2c036d99c9840ee594989c6dc24386f5930129732b70de192df12744b69a58e"
     }
   }
 }
