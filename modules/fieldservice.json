@@ -39,6 +39,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.2.0",
       "digest": "sha256:c58dff68ebed3ce172d6eac11b38384678975c20dfe7c3bd1479ef6f0aeff523"
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "notify",
+          "update_entity",
+          "for"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.2.1",
+      "digest": "sha256:59769a6a9709237109315827019d38db6685d52c2697bb5f39aa851f42a4b6ef"
     }
   }
 }
