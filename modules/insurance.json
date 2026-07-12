@@ -13,6 +13,21 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/insurance:1.0.0",
       "digest": "sha256:a7b1f07000570c24ff4bbd115e60a27191546c81fa753f8d67a639c394664f99"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/insurance:1.1.0",
+      "digest": "sha256:6e226682e619969179fcc9988db981b06ddfa430021ef767fec229b5786e66f8"
     }
   }
 }
