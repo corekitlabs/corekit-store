@@ -16,6 +16,20 @@
           "notify"
         ]
       }
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/rental:1.1.0",
+      "digest": "sha256:597322c2569f661f439c21c3aa1cb3f7028dba4f009116d3969a39728054e1e6"
     }
   }
 }
