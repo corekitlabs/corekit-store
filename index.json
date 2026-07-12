@@ -80,19 +80,6 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.4.0",
         "digest": "sha256:9147c3faf50b3c93a44e23871d13cdf59b73e9ad3cc92b0bc27f8865a7a1005b"
-      },
-      "1.4.1": {
-        "capabilities": {
-          "flowSteps": [
-            "find_entity",
-            "for",
-            "create_entity",
-            "mail_send",
-            "notify"
-          ]
-        },
-        "oci": "ghcr.io/corekitlabs/modules/appointments:1.4.1",
-        "digest": "sha256:295d0869f24f9ba502f58bd9f1475c741d5e3f0aea19248f6401f697cb1af130"
       }
     }
   },
@@ -1021,18 +1008,6 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.0.0",
         "digest": "sha256:a7b1f07000570c24ff4bbd115e60a27191546c81fa753f8d67a639c394664f99"
-      },
-      "1.0.1": {
-        "capabilities": {
-          "flowSteps": [
-            "dam_upload",
-            "document_generate",
-            "notify",
-            "user_input"
-          ]
-        },
-        "oci": "ghcr.io/corekitlabs/modules/insurance:1.0.1",
-        "digest": "sha256:6e2c70c27ff6c4330eb1e152450fa8f4dec254c1a51f49e7075799f2d1f5ded0"
       }
     }
   },
