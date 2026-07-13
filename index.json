@@ -1347,6 +1347,27 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.0",
         "digest": "sha256:b91c4510c74f532c74c52a29f17fa65d33ad3a42d54b826e882b0631086172e2"
+      },
+      "1.9.1": {
+        "capabilities": {
+          "flowSteps": [
+            "analytics",
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "script",
+            "update_entity",
+            "user_input"
+          ],
+          "scripts": [
+            "build-pricing-sql"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.1",
+        "digest": "sha256:ec606e81784e141969df4ddc0520c1faabd7816eeea81aef5ad52d587b411169"
       }
     }
   },
