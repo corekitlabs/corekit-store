@@ -13,6 +13,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/approvals:1.0.0",
       "digest": "sha256:ee3fa042815be9c12daf7399c103522d25e0946fc93ed4eb7dfbf749760c3a2f"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify",
+          "script",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/approvals:1.1.0",
+      "digest": "sha256:14f0d2be5201f9b32c5a8b01bd41a087ef0c445b50f668cb963f9885805aa88f"
     }
   }
 }
