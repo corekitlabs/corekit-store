@@ -214,6 +214,10 @@
       "1.0.0": {
         "oci": "ghcr.io/corekitlabs/modules/cockpit:1.0.0",
         "digest": "sha256:794c9966a5f3ce7a8e808fd3d22e9a81cf419a30f40e3bbeedab56800e31f478"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.0",
+        "digest": "sha256:47d99533ae7123c208c3b6b242e74626f3340eda73f3eb55bf3f315788ecb341"
       }
     }
   },
@@ -289,6 +293,24 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/core:1.2.0",
         "digest": "sha256:f416ff7fb4f82f04c7c144b44ace908df2d6e6e8ca24f2fb7e79e51112d8dbfd"
+      },
+      "1.2.1": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "keycloak_create_user",
+            "notify",
+            "submit_user_input",
+            "tenant_import",
+            "transform",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/core:1.2.1",
+        "digest": "sha256:ff10cc801aa9bd4957c4e6f04156c881d0f81dfbf9818b93b1d2f302be6e4984"
       }
     }
   },
@@ -699,6 +721,10 @@
       "1.0.0": {
         "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.0",
         "digest": "sha256:65021204003e3cae76f0ebb05303131ef3efe27fb9978080c4a8ac37df414865"
+      },
+      "1.0.1": {
+        "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.1",
+        "digest": "sha256:b2edb2770d5614d74ff9cb4c705fd90aaf75c60b3346dc1aa4830e18b076767c"
       }
     }
   },
@@ -1028,6 +1054,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/flow:1.1.2",
         "digest": "sha256:b93b7ecbba8cbb61c7b20b63a3e862d8a07582ed88b11aefa04d7149d925256e"
+      },
+      "1.1.3": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.1.3",
+        "digest": "sha256:83362dff9039f4586c7d8aec275fc20e50fedc95e3cd15190cd9d22f3648bfed"
       }
     }
   },
@@ -1130,6 +1160,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.2",
         "digest": "sha256:288efc998129f8f93195a48b3eeeca5f0a9383101f11d805659831917de061bb"
+      },
+      "1.2.3": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.3",
+        "digest": "sha256:c34457ec50e78b6905ce8a9bd86ff2a086a6977f1329d463d3a1dc3810a7ebb8"
       }
     }
   },
@@ -1389,6 +1434,27 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.2",
         "digest": "sha256:19bcc93e6a10e27c69ffac8bf148dc18f0fa669540148f1be0812b9fcfd6f12b"
+      },
+      "1.9.3": {
+        "capabilities": {
+          "flowSteps": [
+            "analytics",
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "script",
+            "update_entity",
+            "user_input"
+          ],
+          "scripts": [
+            "build-pricing-sql"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.3",
+        "digest": "sha256:d84418e44c4669e22095b506bd13548ed6bd084128b9d85b6bc3277d69a85088"
       }
     }
   },
