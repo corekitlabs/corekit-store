@@ -1,241 +1,262 @@
 {
-  "id": "insurance",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.0.0": {
-      "capabilities": {
-        "flowSteps": [
-          "dam_upload",
-          "document_generate",
-          "notify",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.0.0",
-      "digest": "sha256:a7b1f07000570c24ff4bbd115e60a27191546c81fa753f8d67a639c394664f99"
-    },
-    "1.1.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.1.0",
-      "digest": "sha256:6e226682e619969179fcc9988db981b06ddfa430021ef767fec229b5786e66f8"
-    },
-    "1.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.2.0",
-      "digest": "sha256:85a567f21988e180597abde8318318cf2e207d5157f86d046968e5c51eb3e0d6"
-    },
-    "1.3.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.3.0",
-      "digest": "sha256:633274e7efcc847e528f2ac5d1ee2d6124da0db2e3a89354def8b83e813e63cb"
-    },
-    "1.3.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.3.1",
-      "digest": "sha256:8710c55ddf3b1124ad54c19e556365776a979e505ffd0e67196ebbffa67abad8"
-    },
-    "1.3.2": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.3.2",
-      "digest": "sha256:271b2fca9ab4b8bcf140d3169f54b1db80dd7c7b6c15001be7be05b27646d196"
-    },
-    "1.4.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.4.0",
-      "digest": "sha256:f6277dd5ae29af358442bf990a471fd87f7c4e16acb9d56a776e07e6de5e1d59"
-    },
-    "1.5.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.5.1",
-      "digest": "sha256:99d1d28e52b68dd3b416fafd99a713a3eb7c2925cc5368ecf0f63cf505035430"
-    },
-    "1.6.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.6.0",
-      "digest": "sha256:2d9ec74a53777e2279d966cb0bd97b8caeb9114d60dffed589425da4f34bb446"
-    },
-    "1.7.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.7.0",
-      "digest": "sha256:9529f2625da25b71efd2e60a3068011929a782a8c8f814abc0b90616c00571d3"
-    },
-    "1.8.0": {
-      "capabilities": {
-        "flowSteps": [
-          "analytics",
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.8.0",
-      "digest": "sha256:0398a3470bbdf950370e6492df6861c33e73847f9a1fbcfafc65afc3529712dd"
-    },
-    "1.9.0": {
-      "capabilities": {
-        "flowSteps": [
-          "analytics",
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "script",
-          "update_entity",
-          "user_input"
-        ],
-        "scripts": [
-          "build-pricing-sql"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.0",
-      "digest": "sha256:b91c4510c74f532c74c52a29f17fa65d33ad3a42d54b826e882b0631086172e2"
-    },
-    "1.9.1": {
-      "capabilities": {
-        "flowSteps": [
-          "analytics",
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "script",
-          "update_entity",
-          "user_input"
-        ],
-        "scripts": [
-          "build-pricing-sql"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.1",
-      "digest": "sha256:ec606e81784e141969df4ddc0520c1faabd7816eeea81aef5ad52d587b411169"
-    },
-    "1.9.2": {
-      "capabilities": {
-        "flowSteps": [
-          "analytics",
-          "create_entity",
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "mail_send",
-          "notify",
-          "script",
-          "update_entity",
-          "user_input"
-        ],
-        "scripts": [
-          "build-pricing-sql"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.2",
-      "digest": "sha256:19bcc93e6a10e27c69ffac8bf148dc18f0fa669540148f1be0812b9fcfd6f12b"
-    }
+ "id": "insurance",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.0.0": {
+   "capabilities": {
+    "flowSteps": [
+     "dam_upload",
+     "document_generate",
+     "notify",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.0.0",
+   "digest": "sha256:a7b1f07000570c24ff4bbd115e60a27191546c81fa753f8d67a639c394664f99"
+  },
+  "1.1.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.1.0",
+   "digest": "sha256:6e226682e619969179fcc9988db981b06ddfa430021ef767fec229b5786e66f8"
+  },
+  "1.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.2.0",
+   "digest": "sha256:85a567f21988e180597abde8318318cf2e207d5157f86d046968e5c51eb3e0d6"
+  },
+  "1.3.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.3.0",
+   "digest": "sha256:633274e7efcc847e528f2ac5d1ee2d6124da0db2e3a89354def8b83e813e63cb"
+  },
+  "1.3.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.3.1",
+   "digest": "sha256:8710c55ddf3b1124ad54c19e556365776a979e505ffd0e67196ebbffa67abad8"
+  },
+  "1.3.2": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.3.2",
+   "digest": "sha256:271b2fca9ab4b8bcf140d3169f54b1db80dd7c7b6c15001be7be05b27646d196"
+  },
+  "1.4.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.4.0",
+   "digest": "sha256:f6277dd5ae29af358442bf990a471fd87f7c4e16acb9d56a776e07e6de5e1d59"
+  },
+  "1.5.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.5.1",
+   "digest": "sha256:99d1d28e52b68dd3b416fafd99a713a3eb7c2925cc5368ecf0f63cf505035430"
+  },
+  "1.6.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.6.0",
+   "digest": "sha256:2d9ec74a53777e2279d966cb0bd97b8caeb9114d60dffed589425da4f34bb446"
+  },
+  "1.7.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.7.0",
+   "digest": "sha256:9529f2625da25b71efd2e60a3068011929a782a8c8f814abc0b90616c00571d3"
+  },
+  "1.8.0": {
+   "capabilities": {
+    "flowSteps": [
+     "analytics",
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.8.0",
+   "digest": "sha256:0398a3470bbdf950370e6492df6861c33e73847f9a1fbcfafc65afc3529712dd"
+  },
+  "1.9.0": {
+   "capabilities": {
+    "flowSteps": [
+     "analytics",
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "script",
+     "update_entity",
+     "user_input"
+    ],
+    "scripts": [
+     "build-pricing-sql"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.0",
+   "digest": "sha256:b91c4510c74f532c74c52a29f17fa65d33ad3a42d54b826e882b0631086172e2"
+  },
+  "1.9.1": {
+   "capabilities": {
+    "flowSteps": [
+     "analytics",
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "script",
+     "update_entity",
+     "user_input"
+    ],
+    "scripts": [
+     "build-pricing-sql"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.1",
+   "digest": "sha256:ec606e81784e141969df4ddc0520c1faabd7816eeea81aef5ad52d587b411169"
+  },
+  "1.9.2": {
+   "capabilities": {
+    "flowSteps": [
+     "analytics",
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "script",
+     "update_entity",
+     "user_input"
+    ],
+    "scripts": [
+     "build-pricing-sql"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.2",
+   "digest": "sha256:19bcc93e6a10e27c69ffac8bf148dc18f0fa669540148f1be0812b9fcfd6f12b"
+  },
+  "1.9.3": {
+   "capabilities": {
+    "flowSteps": [
+     "analytics",
+     "create_entity",
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "mail_send",
+     "notify",
+     "script",
+     "update_entity",
+     "user_input"
+    ],
+    "scripts": [
+     "build-pricing-sql"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.3",
+   "digest": "sha256:d84418e44c4669e22095b506bd13548ed6bd084128b9d85b6bc3277d69a85088"
   }
+ }
 }

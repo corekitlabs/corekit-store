@@ -1,102 +1,117 @@
 {
-  "id": "helpdesk",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.0.1": {
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.1",
-      "digest": "sha256:7bcd0d2e4ecae3068899e71df582e686546f383109c256a9e523e9dba4fd361d",
-      "requires": {
-        "corekit": ">=1.0",
-        "app-core": ">=2.2"
-      },
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      }
-    },
-    "1.0.2": {
-      "requires": {
-        "corekit": ">=1.0",
-        "app-core": ">=2.2"
-      },
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.2",
-      "digest": "sha256:98ed7586cf758bef2a4bfe89926c62b8a282b805b7e4166900b1d282bddcd5cc"
-    },
-    "1.1.0": {
-      "requires": {
-        "corekit": ">=1.0",
-        "app-core": ">=2.2"
-      },
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.1.0",
-      "digest": "sha256:94882d80b8463c93fa1bf5225c6d73c8cc1909f7f14cfeb885def01f2700bf81"
-    },
-    "1.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.0",
-      "digest": "sha256:7d732cd93efb826b17ecf3d9b43ba86bd6080fa59f543d24d26fdb8711b13e62"
-    },
-    "1.2.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.1",
-      "digest": "sha256:0fa54abc8b531844444ea13ed936cabad0ad45bb11df4c7cf7352c327aa12d20"
-    },
-    "1.2.2": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.2",
-      "digest": "sha256:288efc998129f8f93195a48b3eeeca5f0a9383101f11d805659831917de061bb"
-    }
+ "id": "helpdesk",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.0.1": {
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.1",
+   "digest": "sha256:7bcd0d2e4ecae3068899e71df582e686546f383109c256a9e523e9dba4fd361d",
+   "requires": {
+    "corekit": ">=1.0",
+    "app-core": ">=2.2"
+   },
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   }
+  },
+  "1.0.2": {
+   "requires": {
+    "corekit": ">=1.0",
+    "app-core": ">=2.2"
+   },
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.0.2",
+   "digest": "sha256:98ed7586cf758bef2a4bfe89926c62b8a282b805b7e4166900b1d282bddcd5cc"
+  },
+  "1.1.0": {
+   "requires": {
+    "corekit": ">=1.0",
+    "app-core": ">=2.2"
+   },
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.1.0",
+   "digest": "sha256:94882d80b8463c93fa1bf5225c6d73c8cc1909f7f14cfeb885def01f2700bf81"
+  },
+  "1.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.0",
+   "digest": "sha256:7d732cd93efb826b17ecf3d9b43ba86bd6080fa59f543d24d26fdb8711b13e62"
+  },
+  "1.2.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.1",
+   "digest": "sha256:0fa54abc8b531844444ea13ed936cabad0ad45bb11df4c7cf7352c327aa12d20"
+  },
+  "1.2.2": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.2",
+   "digest": "sha256:288efc998129f8f93195a48b3eeeca5f0a9383101f11d805659831917de061bb"
+  },
+  "1.2.3": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.3",
+   "digest": "sha256:c34457ec50e78b6905ce8a9bd86ff2a086a6977f1329d463d3a1dc3810a7ebb8"
   }
+ }
 }
