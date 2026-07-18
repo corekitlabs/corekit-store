@@ -1,14 +1,18 @@
 {
- "id": "dashboard",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.0.0": {
-   "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.0",
-   "digest": "sha256:65021204003e3cae76f0ebb05303131ef3efe27fb9978080c4a8ac37df414865"
-  },
-  "1.0.1": {
-   "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.1",
-   "digest": "sha256:b2edb2770d5614d74ff9cb4c705fd90aaf75c60b3346dc1aa4830e18b076767c"
+  "id": "dashboard",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.0",
+      "digest": "sha256:65021204003e3cae76f0ebb05303131ef3efe27fb9978080c4a8ac37df414865"
+    },
+    "1.0.1": {
+      "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.1",
+      "digest": "sha256:b2edb2770d5614d74ff9cb4c705fd90aaf75c60b3346dc1aa4830e18b076767c"
+    },
+    "1.0.2": {
+      "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.2",
+      "digest": "sha256:fdd9741d34943c4126514d9ee581629acb898a15cd51b30110de277d24c10ccf"
+    }
   }
- }
 }

@@ -1,28 +1,32 @@
 {
- "id": "flow",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.1.0": {
-   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.0",
-   "digest": "sha256:077ecf13c818f1fbbf92dd56538bb4e81cf28da7fd1a7f1ae748520c808fc3c9"
-  },
-  "1.1.1": {
-   "capabilities": null,
-   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.1",
-   "digest": "sha256:907a11f25638f9c0c774d6cd9ded553562f25cc5248427ac3bc15fb98c744aa5"
-  },
-  "1.1.2": {
-   "capabilities": null,
-   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.2",
-   "digest": "sha256:b93b7ecbba8cbb61c7b20b63a3e862d8a07582ed88b11aefa04d7149d925256e"
-  },
-  "1.1.3": {
-   "oci": "ghcr.io/corekitlabs/modules/flow:1.1.3",
-   "digest": "sha256:83362dff9039f4586c7d8aec275fc20e50fedc95e3cd15190cd9d22f3648bfed"
-  },
-  "1.2.0": {
-   "oci": "ghcr.io/corekitlabs/modules/flow:1.2.0",
-   "digest": "sha256:0949ad8577cc19941b155a08c488eb5a4352298261326bf819d2ae121d3658ef"
+  "id": "flow",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.0",
+      "digest": "sha256:077ecf13c818f1fbbf92dd56538bb4e81cf28da7fd1a7f1ae748520c808fc3c9"
+    },
+    "1.1.1": {
+      "capabilities": null,
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.1",
+      "digest": "sha256:907a11f25638f9c0c774d6cd9ded553562f25cc5248427ac3bc15fb98c744aa5"
+    },
+    "1.1.2": {
+      "capabilities": null,
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.2",
+      "digest": "sha256:b93b7ecbba8cbb61c7b20b63a3e862d8a07582ed88b11aefa04d7149d925256e"
+    },
+    "1.1.3": {
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.1.3",
+      "digest": "sha256:83362dff9039f4586c7d8aec275fc20e50fedc95e3cd15190cd9d22f3648bfed"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.2.0",
+      "digest": "sha256:0949ad8577cc19941b155a08c488eb5a4352298261326bf819d2ae121d3658ef"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.2.1",
+      "digest": "sha256:334d2f9fff119f68489e8ab2e403d2cd2bda7671fec97d957e38256fe44c1bee"
+    }
   }
- }
 }

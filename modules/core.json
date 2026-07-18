@@ -1,60 +1,64 @@
 {
- "id": "core",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.1.5": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "keycloak_create_user",
-     "notify",
-     "submit_user_input",
-     "tenant_import",
-     "transform",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/core:1.1.5",
-   "digest": "sha256:956c9fb300f0f48ea94a500b85fa4eba10f4ab8a9830a426be5dfc574776b194"
-  },
-  "1.2.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "keycloak_create_user",
-     "notify",
-     "submit_user_input",
-     "tenant_import",
-     "transform",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/core:1.2.0",
-   "digest": "sha256:f416ff7fb4f82f04c7c144b44ace908df2d6e6e8ca24f2fb7e79e51112d8dbfd"
-  },
-  "1.2.1": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "keycloak_create_user",
-     "notify",
-     "submit_user_input",
-     "tenant_import",
-     "transform",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/core:1.2.1",
-   "digest": "sha256:ff10cc801aa9bd4957c4e6f04156c881d0f81dfbf9818b93b1d2f302be6e4984"
+  "id": "core",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.5": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "keycloak_create_user",
+          "notify",
+          "submit_user_input",
+          "tenant_import",
+          "transform",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/core:1.1.5",
+      "digest": "sha256:956c9fb300f0f48ea94a500b85fa4eba10f4ab8a9830a426be5dfc574776b194"
+    },
+    "1.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "keycloak_create_user",
+          "notify",
+          "submit_user_input",
+          "tenant_import",
+          "transform",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/core:1.2.0",
+      "digest": "sha256:f416ff7fb4f82f04c7c144b44ace908df2d6e6e8ca24f2fb7e79e51112d8dbfd"
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "keycloak_create_user",
+          "notify",
+          "submit_user_input",
+          "tenant_import",
+          "transform",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/core:1.2.1",
+      "digest": "sha256:ff10cc801aa9bd4957c4e6f04156c881d0f81dfbf9818b93b1d2f302be6e4984"
+    },
+    "1.2.2": {
+      "oci": "ghcr.io/corekitlabs/modules/core:1.2.2",
+      "digest": "sha256:c65033ee491ffadaa256893c80e71ab2b6e5904c54d79920b2b02c2d103b3831"
+    }
   }
- }
 }

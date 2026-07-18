@@ -1,14 +1,18 @@
 {
- "id": "cockpit",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.0.0": {
-   "oci": "ghcr.io/corekitlabs/modules/cockpit:1.0.0",
-   "digest": "sha256:794c9966a5f3ce7a8e808fd3d22e9a81cf419a30f40e3bbeedab56800e31f478"
-  },
-  "1.1.0": {
-   "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.0",
-   "digest": "sha256:47d99533ae7123c208c3b6b242e74626f3340eda73f3eb55bf3f315788ecb341"
+  "id": "cockpit",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "oci": "ghcr.io/corekitlabs/modules/cockpit:1.0.0",
+      "digest": "sha256:794c9966a5f3ce7a8e808fd3d22e9a81cf419a30f40e3bbeedab56800e31f478"
+    },
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.0",
+      "digest": "sha256:47d99533ae7123c208c3b6b242e74626f3340eda73f3eb55bf3f315788ecb341"
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.1",
+      "digest": "sha256:8550e077ba91892bfdeeab182cd982e57581e282684277bb72bc907fdec5c53a"
+    }
   }
- }
 }
