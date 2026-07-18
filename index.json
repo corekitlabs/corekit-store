@@ -1487,6 +1487,22 @@
       "1.9.5": {
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.5",
         "digest": "sha256:25cf32022c0ce01ee81fc1842cc8c2258c408953f174b23b3ffe42aa895b4b9d"
+      },
+      "1.10.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.10.0",
+        "digest": "sha256:6cdef0a41cf18e94605902388f6f5cb5f023a2693fae195330aa338701a9d3f7"
       }
     }
   },
@@ -2256,6 +2272,30 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/utility:1.0.1",
         "digest": "sha256:1162d2640cfaeb26c3a4ca8fa5ed861e85b43982d6d02ab1f9ef28e6b17e0f8b"
+      }
+    }
+  },
+  "mortgage": {
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analytics",
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "script",
+            "update_entity",
+            "user_input"
+          ],
+          "scripts": [
+            "build-pricing-sql"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/mortgage:1.0.0",
+        "digest": "sha256:800497dfbbd217f6ee1cb87d68fceb137667570ef5a14b3d3f70e4cc34b5b801"
       }
     }
   }

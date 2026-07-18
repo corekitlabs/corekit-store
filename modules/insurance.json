@@ -265,6 +265,22 @@
     "1.9.5": {
       "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.5",
       "digest": "sha256:25cf32022c0ce01ee81fc1842cc8c2258c408953f174b23b3ffe42aa895b4b9d"
+    },
+    "1.10.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/insurance:1.10.0",
+      "digest": "sha256:6cdef0a41cf18e94605902388f6f5cb5f023a2693fae195330aa338701a9d3f7"
     }
   }
 }
