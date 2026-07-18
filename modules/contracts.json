@@ -1,0 +1,9 @@
+{
+  "versions": {
+    "1.0.0": {
+      "capabilities": {},
+      "oci": "ghcr.io/corekitlabs/modules/contracts:1.0.0",
+      "digest": "sha256:756a9aaf812e299dadfb5ac5357b660b3e87e97a25a865638a78cd7f61b15d25"
+    }
+  }
+}

@@ -1519,6 +1519,22 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.11.0",
         "digest": "sha256:12385dacd0bf76a57162807977bfea5c8377a676ac8209fa2a9580d168da516d"
+      },
+      "1.12.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.12.0",
+        "digest": "sha256:0eef6c9369aaf4ea5e1efeab82c688e6414bde23249c2f7146ceed86c91e6dce"
       }
     }
   },
@@ -2332,6 +2348,26 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/mortgage:1.0.1",
         "digest": "sha256:24ffde88129f7519ee5cce085fd005fbee346c64704b3db79d8e0beca569ccae"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "analytics",
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "script",
+            "update_entity",
+            "user_input"
+          ],
+          "scripts": [
+            "build-pricing-sql"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.0",
+        "digest": "sha256:3ea7c1c118f4b62f8d4bfb49e9dc3461ee717ed3920018c58cf6dee8d92e51a4"
       }
     }
   },
@@ -2351,6 +2387,30 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/finance:1.0.0",
         "digest": "sha256:798c9d48668cd479e84c2e02e4ce00a4dfbdd017bf9612d9795cfaa6b959a53d"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/finance:1.1.0",
+        "digest": "sha256:e41f46199b810e6183f01e6b8485e8b06190e1c98996d044d4cdb8870d83bc66"
+      }
+    }
+  },
+  "contracts": {
+    "versions": {
+      "1.0.0": {
+        "capabilities": {},
+        "oci": "ghcr.io/corekitlabs/modules/contracts:1.0.0",
+        "digest": "sha256:756a9aaf812e299dadfb5ac5357b660b3e87e97a25a865638a78cd7f61b15d25"
       }
     }
   }

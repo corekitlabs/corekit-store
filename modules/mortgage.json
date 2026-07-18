@@ -39,6 +39,26 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/mortgage:1.0.1",
       "digest": "sha256:24ffde88129f7519ee5cce085fd005fbee346c64704b3db79d8e0beca569ccae"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "analytics",
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "script",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "build-pricing-sql"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.0",
+      "digest": "sha256:3ea7c1c118f4b62f8d4bfb49e9dc3461ee717ed3920018c58cf6dee8d92e51a4"
     }
   }
 }
