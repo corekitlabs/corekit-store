@@ -218,6 +218,10 @@
       "1.1.0": {
         "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.0",
         "digest": "sha256:47d99533ae7123c208c3b6b242e74626f3340eda73f3eb55bf3f315788ecb341"
+      },
+      "1.1.1": {
+        "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.1",
+        "digest": "sha256:8550e077ba91892bfdeeab182cd982e57581e282684277bb72bc907fdec5c53a"
       }
     }
   },
@@ -311,6 +315,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/core:1.2.1",
         "digest": "sha256:ff10cc801aa9bd4957c4e6f04156c881d0f81dfbf9818b93b1d2f302be6e4984"
+      },
+      "1.2.2": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.2.2",
+        "digest": "sha256:c65033ee491ffadaa256893c80e71ab2b6e5904c54d79920b2b02c2d103b3831"
       }
     }
   },
@@ -725,6 +733,10 @@
       "1.0.1": {
         "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.1",
         "digest": "sha256:b2edb2770d5614d74ff9cb4c705fd90aaf75c60b3346dc1aa4830e18b076767c"
+      },
+      "1.0.2": {
+        "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.2",
+        "digest": "sha256:fdd9741d34943c4126514d9ee581629acb898a15cd51b30110de277d24c10ccf"
       }
     }
   },
@@ -1062,6 +1074,10 @@
       "1.2.0": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.2.0",
         "digest": "sha256:0949ad8577cc19941b155a08c488eb5a4352298261326bf819d2ae121d3658ef"
+      },
+      "1.2.1": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.2.1",
+        "digest": "sha256:334d2f9fff119f68489e8ab2e403d2cd2bda7671fec97d957e38256fe44c1bee"
       }
     }
   },
@@ -1179,6 +1195,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.3",
         "digest": "sha256:c34457ec50e78b6905ce8a9bd86ff2a086a6977f1329d463d3a1dc3810a7ebb8"
+      },
+      "1.2.4": {
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.4",
+        "digest": "sha256:4f77b6066295f53b0428cbe3e6079d67886ad84dd3f47a00b54c3c2eb54e2df7"
       }
     }
   },
@@ -1459,6 +1479,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.3",
         "digest": "sha256:d84418e44c4669e22095b506bd13548ed6bd084128b9d85b6bc3277d69a85088"
+      },
+      "1.9.4": {
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.4",
+        "digest": "sha256:a77eeafe1036c8f94787d8c14648c50d9766799208ef2462bdc001f8911c7754"
       }
     }
   },
