@@ -1483,6 +1483,10 @@
       "1.9.4": {
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.4",
         "digest": "sha256:a77eeafe1036c8f94787d8c14648c50d9766799208ef2462bdc001f8911c7754"
+      },
+      "1.9.5": {
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.9.5",
+        "digest": "sha256:25cf32022c0ce01ee81fc1842cc8c2258c408953f174b23b3ffe42aa895b4b9d"
       }
     }
   },
