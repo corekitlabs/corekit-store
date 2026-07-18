@@ -38,7 +38,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/mortgage:1.0.1",
-      "digest": "sha256:"
+      "digest": "sha256:24ffde88129f7519ee5cce085fd005fbee346c64704b3db79d8e0beca569ccae"
     }
   }
 }
