@@ -29,6 +29,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.0",
       "digest": "sha256:2ceaab9d72581576cb8f2c4277e92373c7bd8760a0ba75b74d804dda5e3f5467"
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.1",
+      "digest": "sha256:4bbbf92d9f459a4c854c2b1c063cab2f286f2edef7f245df93707e098ba6a441"
     }
   }
 }

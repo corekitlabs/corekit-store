@@ -12,6 +12,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/docs-default:1.1.0",
       "digest": "sha256:4a78eeb5338c18bf463c6a99c9af8420962fc935c3b57d2caea0ddd3cddf92f2"
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/docs-default:1.1.1",
+      "digest": "sha256:3d624bab5da7964cfa5771e8d201f8a956061b9cca431f6170bb6d3a4567b168"
     }
   }
 }

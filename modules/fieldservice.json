@@ -52,6 +52,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.2.1",
       "digest": "sha256:59769a6a9709237109315827019d38db6685d52c2697bb5f39aa851f42a4b6ef"
+    },
+    "1.2.2": {
+      "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.2.2",
+      "digest": "sha256:04c1c073c779ffa9157b51efcd0c70c7bf70076bb4554c543e9a7cfd2b2d2be9"
     }
   }
 }

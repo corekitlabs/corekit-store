@@ -10,6 +10,10 @@
       "capabilities": {},
       "oci": "ghcr.io/corekitlabs/modules/mail:1.0.1",
       "digest": "sha256:a93537a78ea12270ab7c62c3814a09b47a86f5428c221572f1a48e2bd5c632fd"
+    },
+    "1.0.2": {
+      "oci": "ghcr.io/corekitlabs/modules/mail:1.0.2",
+      "digest": "sha256:6a017c8c243c4e09b0048e2c565179290a671a9998bf7f8049e17a8ccedcf6d4"
     }
   }
 }

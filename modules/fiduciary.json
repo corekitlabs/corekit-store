@@ -28,6 +28,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.0",
       "digest": "sha256:c5e94af63c5111de298ea4c4cac057a8fc7a37b94b4c40dbd02c3df5dbafd351"
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.1",
+      "digest": "sha256:a0b62eb9640eb9dd8486be132c1adda153f982c65736b7f77e2764f3d254f1c4"
     }
   }
 }

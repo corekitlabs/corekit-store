@@ -5,6 +5,10 @@
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/locations:1.0.0",
       "digest": "sha256:ba28cbec4a70158c9e535b91eb82c1040f1bfeb13286be60243f9cf0550e6189"
+    },
+    "1.0.1": {
+      "oci": "ghcr.io/corekitlabs/modules/locations:1.0.1",
+      "digest": "sha256:8633f53f421bd78b985583632146c27c2cbea93d6e443b18590cc90a03b2e1c3"
     }
   }
 }

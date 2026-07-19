@@ -13,6 +13,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/employee:1.2.0",
       "digest": "sha256:5f84e025cde700658af928158a2bafc441d8b508f7b8da3c5a46aa1322daee6c"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/employee:1.2.1",
+      "digest": "sha256:8d40b036695d40521d42c1585c65c82c904f5fac65e2e2d238589196de4c97be"
     }
   }
 }
