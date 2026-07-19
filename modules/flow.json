@@ -31,6 +31,10 @@
     "1.2.2": {
       "oci": "ghcr.io/corekitlabs/modules/flow:1.2.2",
       "digest": "sha256:bf4b5051950c86ef898da45efc51cb6fa82489970c96b6dcf39d85d3b4a59945"
+    },
+    "1.3.0": {
+      "oci": "ghcr.io/corekitlabs/modules/flow:1.3.0",
+      "digest": "sha256:cfcd863cb1400c2bf9f5a12765722fb1a3230ac07e0de49262fbce1f8f882d79"
     }
   }
 }
