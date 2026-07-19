@@ -1214,7 +1214,17 @@
         "digest": "sha256:4f77b6066295f53b0428cbe3e6079d67886ad84dd3f47a00b54c3c2eb54e2df7"
       },
       "1.2.5": {
-        "capabilities": {},
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "mail_send",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.5",
         "digest": "sha256:beb278410d63bc6c4d1eed1d2eb5fa0c08e9c88ca8212be795cd3b8752cba5f8"
       }
