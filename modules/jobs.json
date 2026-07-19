@@ -42,6 +42,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/jobs:1.2.1",
       "digest": "sha256:3c459f17b607c71cfd08d5d4e83ef5be12603b47182a00feb86b7d17ddff8675"
+    },
+    "1.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "create_entity",
+          "mail_send",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/jobs:1.2.2",
+      "digest": "sha256:4e3cd27be50782630de127147b9ef73717633338d7d71cc426098455cdd3f271"
     }
   }
 }
