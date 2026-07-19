@@ -39,6 +39,25 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/invoicing:1.1.0",
       "digest": "sha256:0a28e9ef75f86e738071d35682f836dd578b9f9f1949f8511d5539d042cba20b"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "flowSteps": [
+          "camt_import",
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "for",
+          "mail_send",
+          "notify",
+          "qr_bill_render",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/invoicing:1.1.1",
+      "digest": "sha256:628217571127fca49270146259a49a7e78e1dcb3106d5b2bcd40e518ecf13031"
     }
   }
 }
