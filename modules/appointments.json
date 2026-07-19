@@ -91,6 +91,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/appointments:1.5.2",
       "digest": "sha256:1b3ca4261be77c51452ceb17c5980068bf0f1e4383619e6a0541f95156a204e3"
+    },
+    "1.5.3": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "create_entity",
+          "mail_send",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/appointments:1.5.3",
+      "digest": "sha256:920fc8c98a440143cb232d9992db2dce0431c18804e03a90c792405f4ee58c6b"
     }
   }
 }
