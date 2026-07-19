@@ -1537,7 +1537,18 @@
         "digest": "sha256:0eef6c9369aaf4ea5e1efeab82c688e6414bde23249c2f7146ceed86c91e6dce"
       },
       "1.12.1": {
-        "capabilities": {},
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "document_generate",
+            "find_entity",
+            "mail_send",
+            "notify",
+            "update_entity",
+            "user_input"
+          ]
+        },
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.12.1",
         "digest": "sha256:6600223f293d16c1230b5e232a57bc385637a85897641922fc7ee5f0856bca78"
       }
