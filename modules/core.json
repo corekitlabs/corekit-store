@@ -1,239 +1,265 @@
 {
-  "id": "core",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.1.5": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.1.5",
-      "digest": "sha256:956c9fb300f0f48ea94a500b85fa4eba10f4ab8a9830a426be5dfc574776b194"
-    },
-    "1.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.2.0",
-      "digest": "sha256:f416ff7fb4f82f04c7c144b44ace908df2d6e6e8ca24f2fb7e79e51112d8dbfd"
-    },
-    "1.2.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.2.1",
-      "digest": "sha256:ff10cc801aa9bd4957c4e6f04156c881d0f81dfbf9818b93b1d2f302be6e4984"
-    },
-    "1.2.2": {
-      "oci": "ghcr.io/corekitlabs/modules/core:1.2.2",
-      "digest": "sha256:c65033ee491ffadaa256893c80e71ab2b6e5904c54d79920b2b02c2d103b3831",
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      }
-    },
-    "1.3.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.3.0",
-      "digest": "sha256:0f226e0f0a2054bc76c1c412f9f0b25dccc6dfe9950c957dac388c72e973517f"
-    },
-    "1.3.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.3.1",
-      "digest": "sha256:98ce58ee8d2cc2d716ef9fe67c3072ddf78f67f5d1106131833ff49b24d57fdf"
-    },
-    "1.3.2": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-analytics",
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.3.2",
-      "digest": "sha256:b22b5c486838b7f435b901f29df1def982544f3393fa69814176d6387f2dbc39"
-    },
-    "1.3.3": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-analytics",
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.3.3",
-      "digest": "sha256:cf3dcb2a981f3e27e967722acb5b9e3e16e7d005dee1c4297ac97c6d741e2e70"
-    },
-    "1.3.4": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-analytics",
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.3.4",
-      "digest": "sha256:3c39abb40e7513afcdc3845e616c25e884d509769adf8423707cddcb1756f654"
-    },
-    "1.3.5": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "keycloak_create_user",
-          "notify",
-          "submit_user_input",
-          "tenant_import",
-          "transform",
-          "update_entity",
-          "user_input"
-        ],
-        "workerSkills": [
-          "yaml-analytics",
-          "yaml-entity",
-          "yaml-flow",
-          "yaml-form",
-          "yaml-options",
-          "yaml-view"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/core:1.3.5",
-      "digest": "sha256:d2fe6bc619938f37b1f90b4a0bb02c02fee06be1815106b0e3409c499be4fc04"
-    }
+ "id": "core",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.1.5": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.1.5",
+   "digest": "sha256:956c9fb300f0f48ea94a500b85fa4eba10f4ab8a9830a426be5dfc574776b194"
+  },
+  "1.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.2.0",
+   "digest": "sha256:f416ff7fb4f82f04c7c144b44ace908df2d6e6e8ca24f2fb7e79e51112d8dbfd"
+  },
+  "1.2.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.2.1",
+   "digest": "sha256:ff10cc801aa9bd4957c4e6f04156c881d0f81dfbf9818b93b1d2f302be6e4984"
+  },
+  "1.2.2": {
+   "oci": "ghcr.io/corekitlabs/modules/core:1.2.2",
+   "digest": "sha256:c65033ee491ffadaa256893c80e71ab2b6e5904c54d79920b2b02c2d103b3831",
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   }
+  },
+  "1.3.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.0",
+   "digest": "sha256:0f226e0f0a2054bc76c1c412f9f0b25dccc6dfe9950c957dac388c72e973517f"
+  },
+  "1.3.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.1",
+   "digest": "sha256:98ce58ee8d2cc2d716ef9fe67c3072ddf78f67f5d1106131833ff49b24d57fdf"
+  },
+  "1.3.2": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-analytics",
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.2",
+   "digest": "sha256:b22b5c486838b7f435b901f29df1def982544f3393fa69814176d6387f2dbc39"
+  },
+  "1.3.3": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-analytics",
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.3",
+   "digest": "sha256:cf3dcb2a981f3e27e967722acb5b9e3e16e7d005dee1c4297ac97c6d741e2e70"
+  },
+  "1.3.4": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-analytics",
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.4",
+   "digest": "sha256:3c39abb40e7513afcdc3845e616c25e884d509769adf8423707cddcb1756f654"
+  },
+  "1.3.5": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-analytics",
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.5",
+   "digest": "sha256:d2fe6bc619938f37b1f90b4a0bb02c02fee06be1815106b0e3409c499be4fc04"
+  },
+  "1.3.6": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "keycloak_create_user",
+     "notify",
+     "submit_user_input",
+     "tenant_import",
+     "transform",
+     "update_entity",
+     "user_input"
+    ],
+    "workerSkills": [
+     "yaml-analytics",
+     "yaml-entity",
+     "yaml-flow",
+     "yaml-form",
+     "yaml-options",
+     "yaml-view"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/core:1.3.6",
+   "digest": "sha256:19ea2c11d46a90318fb5be14df43a1d6afdec5db63704a9dcafad41eea0b7a41"
   }
+ }
 }
