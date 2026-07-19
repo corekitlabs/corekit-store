@@ -2411,6 +2411,11 @@
         "capabilities": {},
         "oci": "ghcr.io/corekitlabs/modules/contracts:1.0.0",
         "digest": "sha256:756a9aaf812e299dadfb5ac5357b660b3e87e97a25a865638a78cd7f61b15d25"
+      },
+      "1.0.1": {
+        "capabilities": {},
+        "oci": "ghcr.io/corekitlabs/modules/contracts:1.0.1",
+        "digest": "sha256:e2ccd18dde1262108d1231bb17e57a6637130630f2519505d2bf6c8d96fc502a"
       }
     }
   }
