@@ -22,6 +22,18 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.0",
       "digest": "sha256:d2b1378f792609f0666e634a49e27ac8c5b90d5bd068f55d1ddd50bc3d89ce49"
+    },
+    "0.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.1",
+      "digest": "sha256:10ba99299f5c9e01becbfa55e828553d6d5067ab0acf0b69bdc9e088171d29ed"
     }
   }
 }
