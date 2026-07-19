@@ -146,6 +146,21 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.6",
       "digest": "sha256:613a5fda18527dfaf0bc6082947b1eddb7367bec1bdfacf8ee6a9ef01b109df9"
+    },
+    "1.2.7": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.2.7",
+      "digest": "sha256:6bd0f0d0a055e831a18bbfa18320e1e018d916f557a34bdf69c27d5bf497c636"
     }
   }
 }
