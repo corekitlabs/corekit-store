@@ -50,6 +50,23 @@
             },
             "oci": "ghcr.io/corekitlabs/modules/utility:1.1.0",
             "digest": "sha256:169d0479f25b7e4ed3fcbf50e9688794746b018956203c8bb6f9926c0bc46493"
+        },
+        "1.1.1": {
+            "capabilities": {
+                "flowSteps": [
+                    "create_entity",
+                    "dam_upload",
+                    "document_generate",
+                    "find_entity",
+                    "for",
+                    "geocode",
+                    "notify",
+                    "update_entity",
+                    "user_input"
+                ]
+            },
+            "oci": "ghcr.io/corekitlabs/modules/utility:1.1.1",
+            "digest": "sha256:e1b16b0c32bdc0b5308d2cc4bcc124ab6bb379d7e9c84058f20500888de42c2e"
         }
     }
 }
