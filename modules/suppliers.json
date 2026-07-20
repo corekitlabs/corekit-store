@@ -1,14 +1,18 @@
 {
-  "id": "suppliers",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.0.0": {
-      "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.0",
-      "digest": "sha256:55e367d2a68be39787d6f7f832f16910eadeeb800101bd31e7e159c63271c121"
-    },
-    "1.0.1": {
-      "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.1",
-      "digest": "sha256:66ec5db52b86d6ec3849e3e3c3033a5bb5a8c8888e505b0255bc496cf1e12a73"
-    }
+ "id": "suppliers",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.0.0": {
+   "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.0",
+   "digest": "sha256:55e367d2a68be39787d6f7f832f16910eadeeb800101bd31e7e159c63271c121"
+  },
+  "1.0.1": {
+   "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.1",
+   "digest": "sha256:66ec5db52b86d6ec3849e3e3c3033a5bb5a8c8888e505b0255bc496cf1e12a73"
+  },
+  "1.0.2": {
+   "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.2",
+   "digest": "sha256:6c08024ed68846204a285a42ee7fbae78715a79144276b24eb1bb9c7d4a61b9c"
   }
+ }
 }
