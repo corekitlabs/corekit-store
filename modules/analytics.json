@@ -1,39 +1,51 @@
 {
-  "id": "analytics",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "0.1.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
-      "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
-    },
-    "0.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity"
-        ],
-        "workerWorkflows": [
-          "analytics_query"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.0",
-      "digest": "sha256:d2b1378f792609f0666e634a49e27ac8c5b90d5bd068f55d1ddd50bc3d89ce49"
-    },
-    "0.2.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity"
-        ],
-        "workerWorkflows": [
-          "analytics_query"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.1",
-      "digest": "sha256:10ba99299f5c9e01becbfa55e828553d6d5067ab0acf0b69bdc9e088171d29ed"
-    }
+ "id": "analytics",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "0.1.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
+   "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
+  },
+  "0.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity"
+    ],
+    "workerWorkflows": [
+     "analytics_query"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.0",
+   "digest": "sha256:d2b1378f792609f0666e634a49e27ac8c5b90d5bd068f55d1ddd50bc3d89ce49"
+  },
+  "0.2.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity"
+    ],
+    "workerWorkflows": [
+     "analytics_query"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.1",
+   "digest": "sha256:10ba99299f5c9e01becbfa55e828553d6d5067ab0acf0b69bdc9e088171d29ed"
+  },
+  "0.2.2": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity"
+    ],
+    "workerWorkflows": [
+     "analytics_query"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.2",
+   "digest": "sha256:78be75b5be4706c9e67dc969851d612c592c1aeb6da9b2aafe7b6aa6b46f3f13"
   }
+ }
 }

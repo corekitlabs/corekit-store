@@ -1,19 +1,23 @@
 {
-  "id": "demo",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "0.9.0": {
-      "capabilities": {
-        "workerSkills": [
-          "echo-demo"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/demo:0.9.0",
-      "digest": "sha256:3400e99c7776d349bc04addfecf4c8371feead4b87e66ceea1d2f155f958e72d"
-    },
-    "0.9.1": {
-      "oci": "ghcr.io/corekitlabs/modules/demo:0.9.1",
-      "digest": "sha256:1bb548b27632a43e11ab4e01e80e2eeb5d1c80af2060231a0dda08fcb9dc4442"
-    }
+ "id": "demo",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "0.9.0": {
+   "capabilities": {
+    "workerSkills": [
+     "echo-demo"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/demo:0.9.0",
+   "digest": "sha256:3400e99c7776d349bc04addfecf4c8371feead4b87e66ceea1d2f155f958e72d"
+  },
+  "0.9.1": {
+   "oci": "ghcr.io/corekitlabs/modules/demo:0.9.1",
+   "digest": "sha256:1bb548b27632a43e11ab4e01e80e2eeb5d1c80af2060231a0dda08fcb9dc4442"
+  },
+  "0.9.2": {
+   "oci": "ghcr.io/corekitlabs/modules/demo:0.9.2",
+   "digest": "sha256:31012dddb490fad5cf919256fc41d04439e6d56484a6011a6a7c16f0e6695343"
   }
+ }
 }
