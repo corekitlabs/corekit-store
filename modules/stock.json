@@ -75,6 +75,23 @@
    },
    "oci": "ghcr.io/corekitlabs/modules/stock:2.2.3",
    "digest": "sha256:adedb5ce2910e874de0634464cba40bd34a51fb0b3b6742cf0ae9c0ab71ebea1"
+  },
+  "2.2.4": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "map",
+     "notify",
+     "script",
+     "sub_flow",
+     "update_entity",
+     "user_input"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.4",
+   "digest": "sha256:e6dd34df533938137fa223b49dff37c1c742c80c7a01df5dd3fdb6ab94b754d2"
   }
  }
 }
