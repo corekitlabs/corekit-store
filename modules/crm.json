@@ -19,6 +19,10 @@
   "1.1.2": {
    "oci": "ghcr.io/corekitlabs/modules/crm:1.1.2",
    "digest": "sha256:bd770b8bba34b45e20c368087ca511477325585f615c982392f481e3c66a456f"
+  },
+  "1.1.3": {
+   "oci": "ghcr.io/corekitlabs/modules/crm:1.1.3",
+   "digest": "sha256:4ef637ec6bc4e76b1be2f2a05882301521cc333dcdff07dc861c14ceb93fafa5"
   }
  }
 }
