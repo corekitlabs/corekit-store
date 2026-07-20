@@ -1,66 +1,70 @@
 {
-  "id": "events",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.0.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/events:1.0.0",
-      "digest": "sha256:0c07d019a31f0b5539674f20df9a6b133ac98e1c0ebfb96f2c4e670e99f869a2"
-    },
-    "1.1.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/events:1.1.0",
-      "digest": "sha256:4b4fd7832a43c3be21d26da3145b695b32dd91c41cc2ed971d7d9d455da391f6"
-    },
-    "1.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/events:1.2.0",
-      "digest": "sha256:a017ec3df515b2067a3b2b3ad4ad0b7575bcb28a0ded3348de8ffc1a80af39b8"
-    },
-    "1.2.1": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity",
-          "for",
-          "mail_send",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/events:1.2.1",
-      "digest": "sha256:0beeaa1c6046bf62e485f1c743e3044c1313f455e80fc9ee9f86ee454e417951"
-    },
-    "1.2.2": {
-      "oci": "ghcr.io/corekitlabs/modules/events:1.2.2",
-      "digest": "sha256:661babacc5e0f7ed1459afd73047d7ed44e09d48e01ae646d5c674eafe6f96bd"
-    }
+ "id": "events",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.0.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/events:1.0.0",
+   "digest": "sha256:0c07d019a31f0b5539674f20df9a6b133ac98e1c0ebfb96f2c4e670e99f869a2"
+  },
+  "1.1.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/events:1.1.0",
+   "digest": "sha256:4b4fd7832a43c3be21d26da3145b695b32dd91c41cc2ed971d7d9d455da391f6"
+  },
+  "1.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/events:1.2.0",
+   "digest": "sha256:a017ec3df515b2067a3b2b3ad4ad0b7575bcb28a0ded3348de8ffc1a80af39b8"
+  },
+  "1.2.1": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity",
+     "for",
+     "mail_send",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/events:1.2.1",
+   "digest": "sha256:0beeaa1c6046bf62e485f1c743e3044c1313f455e80fc9ee9f86ee454e417951"
+  },
+  "1.2.2": {
+   "oci": "ghcr.io/corekitlabs/modules/events:1.2.2",
+   "digest": "sha256:661babacc5e0f7ed1459afd73047d7ed44e09d48e01ae646d5c674eafe6f96bd"
+  },
+  "1.2.3": {
+   "oci": "ghcr.io/corekitlabs/modules/events:1.2.3",
+   "digest": "sha256:d03f0ce6417d1d833de96fb03074024758d10204ac89013248564b874bf91308"
   }
+ }
 }
