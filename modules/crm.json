@@ -1,20 +1,24 @@
 {
-  "id": "crm",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.1.0": {
-      "capabilities": {
-        "flowSteps": [
-          "create_entity",
-          "find_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/crm:1.1.0",
-      "digest": "sha256:5f4fb14c8f1634c8b3687b380ba181aaa38cccd4dfd8cbcbc34d802c31611952"
-    },
-    "1.1.1": {
-      "oci": "ghcr.io/corekitlabs/modules/crm:1.1.1",
-      "digest": "sha256:788ef9b16ec59c143ced43db52200b8a457144abf9b55381d44022e52f0c91bd"
-    }
+ "id": "crm",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.1.0": {
+   "capabilities": {
+    "flowSteps": [
+     "create_entity",
+     "find_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/crm:1.1.0",
+   "digest": "sha256:5f4fb14c8f1634c8b3687b380ba181aaa38cccd4dfd8cbcbc34d802c31611952"
+  },
+  "1.1.1": {
+   "oci": "ghcr.io/corekitlabs/modules/crm:1.1.1",
+   "digest": "sha256:788ef9b16ec59c143ced43db52200b8a457144abf9b55381d44022e52f0c91bd"
+  },
+  "1.1.2": {
+   "oci": "ghcr.io/corekitlabs/modules/crm:1.1.2",
+   "digest": "sha256:bd770b8bba34b45e20c368087ca511477325585f615c982392f481e3c66a456f"
   }
+ }
 }
