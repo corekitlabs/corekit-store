@@ -80,6 +80,20 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/rental:1.4.0",
       "digest": "sha256:bef003421ea99927386c44f6625ff443a443e76268228cd1e0e3af8c632417f4"
+    },
+    "1.5.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/rental:1.5.0",
+      "digest": "sha256:dfe38cc787516c9546cd7f64a138cc29198f01621ffdd84ee89c50e9691f73f7"
     }
   }
 }
