@@ -1,102 +1,118 @@
 {
- "id": "sales",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.0.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "dam_upload",
-     "document_generate",
-     "find_entity",
-     "mail_send",
-     "notify",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/sales:1.0.0",
-   "digest": "sha256:90142763d0c2cfd504dad90b8fdf040a1d8675e2d6587e01215be98716b641cf"
-  },
-  "1.1.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "dam_upload",
-     "document_generate",
-     "find_entity",
-     "mail_send",
-     "notify",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/sales:1.1.0",
-   "digest": "sha256:39c39057c9bcc936677dc0411c29df1168501bbe039aaea62cd717539ced480f"
-  },
-  "1.2.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "dam_upload",
-     "document_generate",
-     "find_entity",
-     "mail_send",
-     "notify",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/sales:1.2.0",
-   "digest": "sha256:42d4915f11c460a6a612d3e7d76636cedef91bd1ef429c22d3ac9f1eb1801d85"
-  },
-  "1.2.1": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "dam_upload",
-     "document_generate",
-     "find_entity",
-     "mail_send",
-     "notify",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/sales:1.2.1",
-   "digest": "sha256:3657ef8bd161f0bf17425360bd35a588f397ed684647b67fe32d039cfe278fbf"
-  },
-  "1.2.2": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "dam_upload",
-     "document_generate",
-     "find_entity",
-     "mail_send",
-     "notify",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/sales:1.2.2",
-   "digest": "sha256:bb8be4e3ec7b3a173bbb3396715ef444dfeb25990545fbf01fda4ff624416a2c"
-  },
-  "1.2.3": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "dam_upload",
-     "document_generate",
-     "find_entity",
-     "mail_send",
-     "notify",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/sales:1.2.3",
-   "digest": "sha256:b4bb004716e2ebb2f706ae0a64bc648bbc90a631f18fe858fc95a86c52919c21"
+  "id": "sales",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.0.0",
+      "digest": "sha256:90142763d0c2cfd504dad90b8fdf040a1d8675e2d6587e01215be98716b641cf"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.1.0",
+      "digest": "sha256:39c39057c9bcc936677dc0411c29df1168501bbe039aaea62cd717539ced480f"
+    },
+    "1.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.2.0",
+      "digest": "sha256:42d4915f11c460a6a612d3e7d76636cedef91bd1ef429c22d3ac9f1eb1801d85"
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.2.1",
+      "digest": "sha256:3657ef8bd161f0bf17425360bd35a588f397ed684647b67fe32d039cfe278fbf"
+    },
+    "1.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.2.2",
+      "digest": "sha256:bb8be4e3ec7b3a173bbb3396715ef444dfeb25990545fbf01fda4ff624416a2c"
+    },
+    "1.2.3": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.2.3",
+      "digest": "sha256:b4bb004716e2ebb2f706ae0a64bc648bbc90a631f18fe858fc95a86c52919c21"
+    },
+    "1.2.4": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.2.4",
+      "digest": "sha256:88498bb91a3362a0fb3e9edb9c74145b32e57f814119d6e94b5f9d81c6dca7af"
+    }
   }
- }
 }
