@@ -1,131 +1,151 @@
 {
- "id": "stock",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "2.2.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ],
-    "scripts": [
-     "reorder-qty"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.0",
-   "digest": "sha256:44c797bf8596cb6fcddfbc1d239a1bf8ed1a64e82303471b514f599cd3e04562"
-  },
-  "2.2.1": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ],
-    "scripts": [
-     "reorder-qty"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.1",
-   "digest": "sha256:cd9c0f07701e66debded5e2f1324a714a49503936bd2831d44df0a5018097c5e"
-  },
-  "2.2.2": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.2",
-   "digest": "sha256:687cd9b7f79e94ef89f1214ffea7651ce7132b7ec258935e2437eee7bf6a78a8"
-  },
-  "2.2.3": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.3",
-   "digest": "sha256:adedb5ce2910e874de0634464cba40bd34a51fb0b3b6742cf0ae9c0ab71ebea1"
-  },
-  "2.2.4": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.4",
-   "digest": "sha256:e6dd34df533938137fa223b49dff37c1c742c80c7a01df5dd3fdb6ab94b754d2"
-  },
-  "2.2.5": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.5",
-   "digest": "sha256:77b82c49a4cf5b7d62496e2e04b161d364cce7a28da3f762b1bc7887d213e6b1"
-  },
-  "2.2.6": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity",
-     "find_entity",
-     "for",
-     "map",
-     "notify",
-     "script",
-     "sub_flow",
-     "update_entity",
-     "user_input"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/stock:2.2.6",
-   "digest": "sha256:05e74e9812e79054bee2d09f92f3e2704bf3b377784ef825664b0e053a79b3d9"
+  "id": "stock",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "2.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "reorder-qty"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.0",
+      "digest": "sha256:44c797bf8596cb6fcddfbc1d239a1bf8ed1a64e82303471b514f599cd3e04562"
+    },
+    "2.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "reorder-qty"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.1",
+      "digest": "sha256:cd9c0f07701e66debded5e2f1324a714a49503936bd2831d44df0a5018097c5e"
+    },
+    "2.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.2",
+      "digest": "sha256:687cd9b7f79e94ef89f1214ffea7651ce7132b7ec258935e2437eee7bf6a78a8"
+    },
+    "2.2.3": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.3",
+      "digest": "sha256:adedb5ce2910e874de0634464cba40bd34a51fb0b3b6742cf0ae9c0ab71ebea1"
+    },
+    "2.2.4": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.4",
+      "digest": "sha256:e6dd34df533938137fa223b49dff37c1c742c80c7a01df5dd3fdb6ab94b754d2"
+    },
+    "2.2.5": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.5",
+      "digest": "sha256:77b82c49a4cf5b7d62496e2e04b161d364cce7a28da3f762b1bc7887d213e6b1"
+    },
+    "2.2.6": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.2.6",
+      "digest": "sha256:05e74e9812e79054bee2d09f92f3e2704bf3b377784ef825664b0e053a79b3d9"
+    },
+    "2.3.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "map",
+          "notify",
+          "script",
+          "sub_flow",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "reorder-qty"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.3.0",
+      "digest": "sha256:91eb1c76784f7343ba42aa3fda017a53c0f7e1842141b961d5ea0a4c97c71e12"
+    }
   }
- }
 }
