@@ -2218,6 +2218,18 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/purchase:1.0.0",
         "digest": "sha256:2ebaa0c4d2ce274321c892352ab12b2dda5811745825907c0fc2a6174b62b28b"
+      },
+      "1.1.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "notify",
+            "update_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/purchase:1.1.0",
+        "digest": "sha256:2e073e4d89bac35eed79214d6de4e720faa86eb597b8adcaf3c620fbfc6e2795"
       }
     }
   },
