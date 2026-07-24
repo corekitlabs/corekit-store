@@ -9,6 +9,17 @@
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/customer:1.1.1",
       "digest": "sha256:cc1f86eea04f083d486e326911487b491352a0f4b423174022d88a29d1fa5fa2"
+    },
+    "1.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "geocode"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/customer:1.2.0",
+      "digest": "sha256:d370f977d39d3f0598042eb302522560b7345ec6ef3a18eb9600fe7ad95c17d7"
     }
   }
 }
