@@ -29,6 +29,21 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/finance:1.1.0",
       "digest": "sha256:e41f46199b810e6183f01e6b8485e8b06190e1c98996d044d4cdb8870d83bc66"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/finance:1.1.1",
+      "digest": "sha256:16ec1a9403c25fbd69d8fd8a4c62f14003d587be5f9961f051a10c2d4bdde628"
     }
   }
 }

@@ -9,6 +9,10 @@
       "capabilities": {},
       "oci": "ghcr.io/corekitlabs/modules/contracts:1.0.1",
       "digest": "sha256:e2ccd18dde1262108d1231bb17e57a6637130630f2519505d2bf6c8d96fc502a"
+    },
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/contracts:1.1.0",
+      "digest": "sha256:eac0440a000355f4b2fbcb8e75f80d318c8acfce0446ec0e51066c8ef9f82dc8"
     }
   }
 }
