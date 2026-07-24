@@ -296,6 +296,24 @@
             },
             "oci": "ghcr.io/corekitlabs/modules/core:1.3.8",
             "digest": "sha256:678a5b872a47ebb3a0c0b2471388fb2a42fb98f2a5fcbc2459998d5ae8a1f9b5"
+        },
+        "1.3.9": {
+            "capabilities": {
+                "flowSteps": [
+                    "create_entity",
+                    "find_entity",
+                    "for",
+                    "keycloak_create_user",
+                    "notify",
+                    "submit_user_input",
+                    "tenant_import",
+                    "transform",
+                    "update_entity",
+                    "user_input"
+                ]
+            },
+            "oci": "ghcr.io/corekitlabs/modules/core:1.3.9",
+            "digest": "sha256:0f24ad1b3b8da1728392694143da09d69c036a614414890d9cc22ee71b238ee6"
         }
     }
 }
