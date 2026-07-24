@@ -1,72 +1,89 @@
 {
-    "id": "utility",
-    "repo": "https://github.com/corekitlabs/corekit-modules",
-    "versions": {
-        "1.0.0": {
-            "capabilities": {
-                "flowSteps": [
-                    "create_entity",
-                    "dam_upload",
-                    "document_generate",
-                    "notify",
-                    "update_entity",
-                    "user_input"
-                ]
-            },
-            "oci": "ghcr.io/corekitlabs/modules/utility:1.0.0",
-            "digest": "sha256:ceda39d3483b30d1b8c6382e5536c89b30a036c0a7295360be95f028423c6134"
-        },
-        "1.0.1": {
-            "capabilities": {
-                "flowSteps": [
-                    "create_entity",
-                    "dam_upload",
-                    "document_generate",
-                    "notify",
-                    "update_entity",
-                    "user_input"
-                ]
-            },
-            "oci": "ghcr.io/corekitlabs/modules/utility:1.0.1",
-            "digest": "sha256:1162d2640cfaeb26c3a4ca8fa5ed861e85b43982d6d02ab1f9ef28e6b17e0f8b"
-        },
-        "1.0.2": {
-            "oci": "ghcr.io/corekitlabs/modules/utility:1.0.2",
-            "digest": "sha256:6d8502db2ebc3cf3e722fe79679df2d6136231600db82c57eda3723f665eb1c8"
-        },
-        "1.1.0": {
-            "capabilities": {
-                "flowSteps": [
-                    "create_entity",
-                    "dam_upload",
-                    "document_generate",
-                    "find_entity",
-                    "for",
-                    "geocode",
-                    "notify",
-                    "update_entity",
-                    "user_input"
-                ]
-            },
-            "oci": "ghcr.io/corekitlabs/modules/utility:1.1.0",
-            "digest": "sha256:169d0479f25b7e4ed3fcbf50e9688794746b018956203c8bb6f9926c0bc46493"
-        },
-        "1.1.1": {
-            "capabilities": {
-                "flowSteps": [
-                    "create_entity",
-                    "dam_upload",
-                    "document_generate",
-                    "find_entity",
-                    "for",
-                    "geocode",
-                    "notify",
-                    "update_entity",
-                    "user_input"
-                ]
-            },
-            "oci": "ghcr.io/corekitlabs/modules/utility:1.1.1",
-            "digest": "sha256:e1b16b0c32bdc0b5308d2cc4bcc124ab6bb379d7e9c84058f20500888de42c2e"
-        }
+  "id": "utility",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.0.0",
+      "digest": "sha256:ceda39d3483b30d1b8c6382e5536c89b30a036c0a7295360be95f028423c6134"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.0.1",
+      "digest": "sha256:1162d2640cfaeb26c3a4ca8fa5ed861e85b43982d6d02ab1f9ef28e6b17e0f8b"
+    },
+    "1.0.2": {
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.0.2",
+      "digest": "sha256:6d8502db2ebc3cf3e722fe79679df2d6136231600db82c57eda3723f665eb1c8"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "for",
+          "geocode",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.1.0",
+      "digest": "sha256:169d0479f25b7e4ed3fcbf50e9688794746b018956203c8bb6f9926c0bc46493"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "for",
+          "geocode",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.1.1",
+      "digest": "sha256:e1b16b0c32bdc0b5308d2cc4bcc124ab6bb379d7e9c84058f20500888de42c2e"
+    },
+    "1.1.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "for",
+          "geocode",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/utility:1.1.2",
+      "digest": "sha256:f5da7ba6024c976bc5a3f557267bf07aa41ae3f0422900f0ebcab69fa1039401"
     }
+  }
 }
