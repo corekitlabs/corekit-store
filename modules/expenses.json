@@ -1,34 +1,44 @@
 {
- "id": "expenses",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.0.0": {
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.0",
-   "digest": "sha256:08389ada12b664bcb882cf21ddc53acf15ceb0ae2519f7dd437d29991be5abfb"
-  },
-  "1.0.1": {
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.1",
-   "digest": "sha256:3a214141034d694552177dd9153a6e9affc66ed72aad6a456d0af279a80ac3a9"
-  },
-  "1.0.2": {
-   "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.2",
-   "digest": "sha256:d64448232cc5e88e6d4060ce9d848e03b0efea2235e74929ace0e11e2a5234f2"
-  },
-  "1.0.3": {
-   "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.3",
-   "digest": "sha256:1e07b7ccb189f4d13f684f0e00b6cb94e3c8585a804685dd82487c8ee190197a"
+  "id": "expenses",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.0",
+      "digest": "sha256:08389ada12b664bcb882cf21ddc53acf15ceb0ae2519f7dd437d29991be5abfb"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.1",
+      "digest": "sha256:3a214141034d694552177dd9153a6e9affc66ed72aad6a456d0af279a80ac3a9"
+    },
+    "1.0.2": {
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.2",
+      "digest": "sha256:d64448232cc5e88e6d4060ce9d848e03b0efea2235e74929ace0e11e2a5234f2"
+    },
+    "1.0.3": {
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.3",
+      "digest": "sha256:1e07b7ccb189f4d13f684f0e00b6cb94e3c8585a804685dd82487c8ee190197a"
+    },
+    "1.0.4": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.4",
+      "digest": "sha256:0ab7c2b69a1c60700e3fb31094f9b30d354a75a296a3c55c0fc0323381071ce0"
+    }
   }
- }
 }

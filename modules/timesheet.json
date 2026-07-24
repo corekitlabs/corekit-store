@@ -29,6 +29,18 @@
     "1.0.2": {
       "oci": "ghcr.io/corekitlabs/modules/timesheet:1.0.2",
       "digest": "sha256:5637e285b22422ff15616b21845398bb7261b58df564fec1ab48cd49caf4dba5"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.0",
+      "digest": "sha256:27ec8d2ad4c28d41cdfa7a795a270e55db14a128187259a90ca80dfd8a6233d2"
     }
   }
 }
