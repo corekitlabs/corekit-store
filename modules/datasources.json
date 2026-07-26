@@ -9,6 +9,11 @@
     "0.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/datasources:0.2.0",
       "digest": "sha256:aeb56ffeda6da9d12855cf4c34fa4b5dbd3063e711aa77936922a335fc043526"
+    },
+    "0.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/datasources:0.2.1",
+      "digest": "sha256:635f16174c5d44f4079e29ac1f11fb0fc8e86234babd2806b08b7e313873e155"
     }
-  }
+  },
+  "latest": "0.2.1"
 }
