@@ -17,7 +17,7 @@
     },
     "1.0.3": {
       "oci": "ghcr.io/corekitlabs/modules/mail:1.0.3",
-      "digest": "sha256:fb7b9b9dc0966b3810b91357bd288c31acc755868eb1192c62b9ee38363bfe82"
+      "digest": "sha256:e1d9d67e43a98d022e2de1bb0433c32a7599f5ffd938f32719e51f908b82ec90"
     }
   }
 }

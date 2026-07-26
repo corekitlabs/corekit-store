@@ -355,7 +355,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.1",
-    "digest": "sha256:dfe8ee1ad11fde7e89d736509745c8b8fbb4972e5b24dd7beb71e0d54c4cf50e"
+    "digest": "sha256:90e335f04b498800711b35df72498a56cf5b9e53bb516080d9468f0a29a9a954"
    }
   }
  },
@@ -385,7 +385,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.1",
-    "digest": "sha256:398f516f5501f847db646e6b861881b6557ea48408022f9c69221fb79b8f65d6"
+    "digest": "sha256:d34c725c12dcbffbfd95c61db76ea29a9c5f1a865233944ee2decc61978ea891"
    }
   }
  },
@@ -407,7 +407,7 @@
    },
    "1.1.2": {
     "oci": "ghcr.io/corekitlabs/modules/catalog:1.1.2",
-    "digest": "sha256:694e7491388cb0f6e7c9847f70a5785f301b3c2c652126ade4b944307fbc348f"
+    "digest": "sha256:a8ece0e60b95ef937cc7c359081de40571a9876c20a16c0c1da8014ca26c25c2"
    }
   }
  },
@@ -435,7 +435,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/chat:1.1.1",
-    "digest": "sha256:2ef64f99c1435a19804b4716098aa4aa98dd4d047930493bf303bd16ec32ff88"
+    "digest": "sha256:80c6944d902bf049fa3368922253d6d7681210c59d64112eee7567295752c3ed"
    }
   }
  },
@@ -457,7 +457,7 @@
    },
    "1.1.2": {
     "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.2",
-    "digest": "sha256:caec1d2b4cb86106b692ff6748f62961de9255aeff8c76c33cbfde8f5c283973"
+    "digest": "sha256:6d368d42d51bda8c12af75702d252d0adbdce1803c770284743429b18a87a3fe"
    }
   }
  },
@@ -508,7 +508,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.2",
-    "digest": "sha256:2453733da8d19660a52c1cf196230de94eb217aefbd50221d1497319f5972449"
+    "digest": "sha256:d22b70d54500351c496e8006ddf3406d95a91ac00163b626c48b8a8ab5741c7e"
    }
   }
  },
@@ -1049,7 +1049,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.2",
-    "digest": "sha256:25dfb63010b7606a69a4f77e27f08eb3fb4e0ba806b854c63a485e86ce0e885b"
+    "digest": "sha256:4e34b1c0fd4b21080996a88d973c9d304bd2a5378611244cfd47e2d3450b8914"
    }
   }
  },
@@ -1104,7 +1104,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.2",
-    "digest": "sha256:a4a33fd0105df93c9910ce6279b03b4a2c7545fa7a9a4cec7dcc468f3314d332"
+    "digest": "sha256:f634c76c0d927b8ed9ac31756d0b628059f20fcd52bd0c4347b34f75037595e9"
    }
   }
  },
@@ -1202,7 +1202,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.2",
-    "digest": "sha256:d2d4674c7ce31540f813952d8f0a44686e366606c9e4acd23206084d0c40b391"
+    "digest": "sha256:0d27cb4c1f3aa40ee1279bec9eebfea3ac09174a1852d2c48e911f452a79a6f9"
    }
   }
  },
@@ -1279,7 +1279,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.1",
-    "digest": "sha256:7272248bbd674009c93b37c1582551db17b7a0313bf403dd218118cb5b2502bd"
+    "digest": "sha256:b9e36848cb764fd89637d386c9b0b693cf57fd718e2ddd9e56b44b48e6233d04"
    }
   }
  },
@@ -1407,7 +1407,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.4",
-    "digest": "sha256:473432bbf5fc22464515b1d1af13fc974f27d90d63e8b22997da3b74370c0ae5"
+    "digest": "sha256:2c01ec060124795176879068a5cebae7c9661ad1f25c4876ea40ace59ca68978"
    }
   }
  },
@@ -1463,7 +1463,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/crm:1.2.1",
-    "digest": "sha256:55c5c0a77d53e6af890e376da6785344fc0a107a743d0b9724481a8a78f667d7"
+    "digest": "sha256:0eb13dca2590b7dfc3e582597dfcdaa192bf2126de155745b54a99c4c9966453"
    }
   }
  },
@@ -1499,7 +1499,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/customer:1.2.1",
-    "digest": "sha256:96af5543c663418b74eb66a682ae1c73ed6418bc64b0607e0b72a593b887d57e"
+    "digest": "sha256:85bcf3fd3bc5312664db7384ea7b34418e1b254bc021a17b382f709729859fd5"
    }
   }
  },
@@ -1625,7 +1625,7 @@
    },
    "1.0.3": {
     "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.3",
-    "digest": "sha256:d8b09e799d4d06ee6689d826b9747ae0728d39c5a1c285c2ef1f2060485ce368"
+    "digest": "sha256:ee14318a03622feff35d80cfbfe1be8ec964431ebab90ca562f1ed8198bc33c7"
    }
   }
  },
@@ -1657,7 +1657,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/demo:0.9.3",
-    "digest": "sha256:679690471ad781d83161ac8e9c313567c16f79c18e253b4461763d27dbe9bc78"
+    "digest": "sha256:ec8a4dcf61693ff38c141983d7d2800ef8cdefb799d572adfcb5cf42434ed228"
    }
   }
  },
@@ -1771,7 +1771,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/employee:1.3.1",
-    "digest": "sha256:0f567d0da4f351d550adb39c1f0a12bad6dc7b9f8c3ef8ccf17e242c19e25515"
+    "digest": "sha256:bdc25d76291e64d310ffe957a4cc662da557020d5235a6f5f43abd12027dd301"
    }
   }
  },
@@ -1909,7 +1909,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.5",
-    "digest": "sha256:a5d5c4f49823df282cd6a5c2d0a6f69303f3d8a7dfa18173188156c5977db9a9"
+    "digest": "sha256:c72e9a7a9c1db571d9cebecfd6eee15392afac8fc9e9f2f6e1b46ffdd82baf1c"
    }
   }
  },
@@ -1961,7 +1961,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.2",
-    "digest": "sha256:b566e7594990c0599e012758b993b0661585c15a577bb4c9c1685654516e1337"
+    "digest": "sha256:06190494b305d6cf0dcdcdb3ca275da4fd823756020b0510f8feb37f13b64073"
    }
   }
  },
@@ -2074,7 +2074,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.3.3",
-    "digest": "sha256:a111db1d8264bf8c7e8777f705804081dd57edd202bac36c4118a99ebcf84418"
+    "digest": "sha256:e1c7e5c02dfc205bb36da3d7f69970cad9776c1b75b3b655ebaa29b0f9c8694f"
    }
   }
  },
@@ -2168,7 +2168,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.7",
-    "digest": "sha256:bdae14d0340f0fad29b9730d8d8e447e9638b3543e19f7d8a29a4b43335d2975"
+    "digest": "sha256:d878153adb1b6847e54010c5620339944c6d9538d957b739e2942599a05395ff"
    }
   }
  },
@@ -2216,7 +2216,7 @@
    },
    "1.3.2": {
     "oci": "ghcr.io/corekitlabs/modules/flow:1.3.2",
-    "digest": "sha256:e1f65e9d85006758500a08ee9c05aff630546d1486b3faf6de782ac307c94749"
+    "digest": "sha256:4ab401d46689336935e8b7d41f9c6a42a3c97fa2877832138259a27c3bc8d558"
    }
   }
  },
@@ -2458,7 +2458,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/hr:1.1.1",
-    "digest": "sha256:2c047b21c8eb84d0a8a135b3fe32693744a708b1b54cd7c532ee3941effd28e8"
+    "digest": "sha256:9795485f9c64e451ba9bf7aac48f233055e4d094d7fc65dc4917e37427fcf128"
    }
   }
  },
@@ -2824,7 +2824,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/insurance:1.13.1",
-    "digest": "sha256:fe6daa29c9e4dd1e9c68d449429ea842d98898fc66d5d8d8d7b6642e522e2efb"
+    "digest": "sha256:043a8a038e1e895206beaea2c61b2d5344b1068634d201cf99b7c2451d0ebdcb"
    }
   }
  },
@@ -2873,7 +2873,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/inventory:1.1.3",
-    "digest": "sha256:b05c545a2b97ae57be36d4d235fdb56e28afa999fc0a84cbd1583756a66027ee"
+    "digest": "sha256:92f29246abac86afa03f2ab820dd7ff1bc8d294250953cbff856590b6e07bc74"
    }
   }
  },
@@ -2955,7 +2955,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/invoicing:1.1.2",
-    "digest": "sha256:ab64bbd3a91218c4985204e3338d5213921d17c6ea53950a57b006318e943f07"
+    "digest": "sha256:a0e149a1efc8586fa200703ae63cb72798a4cfbc9c25d513ca508a2cb3df7158"
    }
   }
  },
@@ -3072,7 +3072,7 @@
    },
    "1.0.2": {
     "oci": "ghcr.io/corekitlabs/modules/locations:1.0.2",
-    "digest": "sha256:4587dd0ebeab04012c1c24c31f919a34037d044cbee827fa22628e398c01cefa"
+    "digest": "sha256:5dae957efd9ecf672d23e0e7ed633d27524937be4295e94c66bdcdb395ceae9e"
    }
   }
  },
@@ -3193,7 +3193,7 @@
    },
    "1.0.3": {
     "oci": "ghcr.io/corekitlabs/modules/mail:1.0.3",
-    "digest": "sha256:fb7b9b9dc0966b3810b91357bd288c31acc755868eb1192c62b9ee38363bfe82"
+    "digest": "sha256:e1d9d67e43a98d022e2de1bb0433c32a7599f5ffd938f32719e51f908b82ec90"
    }
   }
  },
@@ -3267,7 +3267,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/maintenance:1.1.1",
-    "digest": "sha256:34802eef6526ff2328833d1ee0cdbdefe8b6fda83b943391fea74a9ab4fbd78e"
+    "digest": "sha256:c724ff903edf6c4b58370a387e83a888bcfec9a8f75a7fcd80cb5fb6f5d8ef78"
    }
   }
  },
@@ -3325,7 +3325,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/planning:1.1.1",
-    "digest": "sha256:3704fda426dd415286399002dbd0b8c524c8317175ec0e3e7126335aa516044c"
+    "digest": "sha256:0b02b419b90727a13945a5ce74a677f4baf27efc473691027447d7f9534c8818"
    }
   }
  },
@@ -3339,7 +3339,7 @@
    },
    "1.1.1": {
     "oci": "ghcr.io/corekitlabs/modules/platform:1.1.1",
-    "digest": "sha256:33230001808a1b204ce4edce75a1216bc0d13a8bcb8fa35dc5cb28f3f6d79cce"
+    "digest": "sha256:e1e781f43e2e39446a4acf91ea953d8302e69e0c7d954d5c09842c5b3611dc3e"
    }
   }
  },
@@ -3373,7 +3373,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/public:1.0.2",
-    "digest": "sha256:66d32a4a1f2aaa8c0caad3abc52165cbb916c58156797ba0a3f1623dc28bf4ec"
+    "digest": "sha256:6e9827a92f4cffb8855e2b245d99d3d122e01b2cb4d919abfa85368051904f23"
    }
   }
  },
@@ -3441,7 +3441,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.1",
-    "digest": "sha256:af4c0b49e4dc36a55d82ff1ca15bb4d836c15b002c76f89301c4613b527d7690"
+    "digest": "sha256:c14e5298b6cad00d4734857c669c39bd707d598425c4673ff61201ccbd0affc4"
    }
   }
  },
@@ -3688,7 +3688,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/sales:1.2.5",
-    "digest": "sha256:3b9346183bc71349a08d48d96ecd7eeec15800b931bce6108badeca687f58a27"
+    "digest": "sha256:bbeffa42c2011157a4dffd6bfbf5858d6767c769454ed78b26db106bea803b2f"
    }
   }
  },
@@ -3768,7 +3768,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/skill-media:1.2.1",
-    "digest": "sha256:4b560d67b47bbc040c7cb4d9f1eb564a207ba6895bbaae66f8d57ecc5edb85cf"
+    "digest": "sha256:eba7efd980f27749325ee32f78c818eed1b3fbcba648064e1b7dc2ea65c3f25a"
    }
   }
  },
@@ -3802,7 +3802,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.0.1",
-    "digest": "sha256:b92c7aba2625bd61597dba7a2b7762a31ec453ad2cf7672f942eaac0ee07b382"
+    "digest": "sha256:5949237764b2b22be35777529ce6a55356c0f8cf7d79dab8b64fe7538be98675"
    }
   }
  },
@@ -4011,6 +4011,10 @@
    "1.1.0": {
     "oci": "ghcr.io/corekitlabs/modules/store:1.1.0",
     "digest": "sha256:1b6ee9aad4a51c8ce95b484240905bde6614f965d7a750cdcbc6a1348cb02309"
+   },
+   "1.1.1": {
+    "oci": "ghcr.io/corekitlabs/modules/store:1.1.1",
+    "digest": "sha256:275b80214c20faedbe0a70230793c91d0db500be9455eb01235386cae194a500"
    }
   }
  },
@@ -4040,7 +4044,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.2",
-    "digest": "sha256:06d93ff1fa91a4d0b86eb5ad6c73d2a9291908cca68503ca6bcec4c355835a5a"
+    "digest": "sha256:14d9df0cd67cf008fd7ff313a578fa38e79849bc6ca19add570afc882fd337df"
    }
   }
  },
@@ -4062,7 +4066,7 @@
    },
    "1.0.3": {
     "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.3",
-    "digest": "sha256:55783b6f1d66388a1287c885c2ac4a6777a0501dc859dfae803019b020151ce9"
+    "digest": "sha256:00542fb1e587ed4e3e91ea909cc084739f85d7060098364e2a5d5f34895d932c"
    }
   }
  },
@@ -4168,7 +4172,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.3",
-    "digest": "sha256:cdb5da775a72edc94a588d3d1b12d476195be88b837320b01bc78185105d29a1"
+    "digest": "sha256:8ebc40c395209d85f0abfbd6b1ef7d2903b24c3fbaa654bf58c83a2d6633237d"
    }
   }
  },
@@ -4218,7 +4222,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/timeoff:1.1.1",
-    "digest": "sha256:6a9b15584d838b3afaeec7d8750c5b70291b0f9d49b6ec7f15172c673c15b9b1"
+    "digest": "sha256:f99c4efa6f88628f503fdbf3f36968a52876ca0125d6492e4f62722110555b94"
    }
   }
  },
@@ -4276,7 +4280,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.1",
-    "digest": "sha256:f4e572313f9dff66d1c3b734d69419c1a3ec6edd701b1d35ca4faf0d76ed6994"
+    "digest": "sha256:80ca18f4c6b50cee43717ef1f53fdfee184efa3604582affdd2bff24a82c17af"
    }
   }
  },
@@ -4382,7 +4386,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/utility:1.1.3",
-    "digest": "sha256:bd614d1cdabf8797887e45f79ecad6e66276103f52864ba63ac9b5ee729f27b9"
+    "digest": "sha256:c98e0438329f2e6fcb30909f8977537c89c124bccf41468047f262a24436f900"
    }
   }
  },
@@ -4486,7 +4490,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.2",
-    "digest": "sha256:69251ea2bb85911f09d6b4bf16389fa3a232c13e7b6aa7cf5a1644afc158031d"
+    "digest": "sha256:197430e4de086f960c069ad5b845c2dc5f188fd27f66edceaff447bc0e0417a4"
    }
   }
  },
@@ -4550,7 +4554,7 @@
      ]
     },
     "oci": "ghcr.io/corekitlabs/modules/finance:1.1.2",
-    "digest": "sha256:b311f8a2ddea6e169e2914588ccf65c353608bfb1ed1bf6fb7c72a8315f48a42"
+    "digest": "sha256:b3b0c258a2c23cda855302c2aab01b69b8b5f732935c6cd8fadb20b55197528a"
    }
   }
  },
@@ -4572,7 +4576,7 @@
    },
    "1.1.1": {
     "oci": "ghcr.io/corekitlabs/modules/contracts:1.1.1",
-    "digest": "sha256:fb61e4d130b6e64a2c06bacc5c102050d8484a7b2ff1ba8765af5b9d71ee56cd"
+    "digest": "sha256:f9eecb0640d6f7151702053bf1a8756a0b0867cd8f7d5291d667e6d105373984"
    }
   }
  }

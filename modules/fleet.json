@@ -88,7 +88,7 @@
     ]
    },
    "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.7",
-   "digest": "sha256:bdae14d0340f0fad29b9730d8d8e447e9638b3543e19f7d8a29a4b43335d2975"
+   "digest": "sha256:d878153adb1b6847e54010c5620339944c6d9538d957b739e2942599a05395ff"
   }
  }
 }

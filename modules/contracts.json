@@ -16,7 +16,7 @@
     },
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/contracts:1.1.1",
-      "digest": "sha256:fb61e4d130b6e64a2c06bacc5c102050d8484a7b2ff1ba8765af5b9d71ee56cd"
+      "digest": "sha256:f9eecb0640d6f7151702053bf1a8756a0b0867cd8f7d5291d667e6d105373984"
     }
   }
 }

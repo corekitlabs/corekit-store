@@ -52,7 +52,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.1",
-      "digest": "sha256:f4e572313f9dff66d1c3b734d69419c1a3ec6edd701b1d35ca4faf0d76ed6994"
+      "digest": "sha256:80ca18f4c6b50cee43717ef1f53fdfee184efa3604582affdd2bff24a82c17af"
     }
   }
 }

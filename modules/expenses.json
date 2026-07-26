@@ -48,7 +48,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.5",
-      "digest": "sha256:a5d5c4f49823df282cd6a5c2d0a6f69303f3d8a7dfa18173188156c5977db9a9"
+      "digest": "sha256:c72e9a7a9c1db571d9cebecfd6eee15392afac8fc9e9f2f6e1b46ffdd82baf1c"
     }
   }
 }

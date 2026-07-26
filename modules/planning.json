@@ -52,7 +52,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/planning:1.1.1",
-      "digest": "sha256:3704fda426dd415286399002dbd0b8c524c8317175ec0e3e7126335aa516044c"
+      "digest": "sha256:0b02b419b90727a13945a5ce74a677f4baf27efc473691027447d7f9534c8818"
     }
   }
 }

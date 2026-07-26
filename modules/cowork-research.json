@@ -49,7 +49,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.2",
-      "digest": "sha256:a4a33fd0105df93c9910ce6279b03b4a2c7545fa7a9a4cec7dcc468f3314d332"
+      "digest": "sha256:f634c76c0d927b8ed9ac31756d0b628059f20fcd52bd0c4347b34f75037595e9"
     }
   }
 }

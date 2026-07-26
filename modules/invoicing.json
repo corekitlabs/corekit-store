@@ -76,7 +76,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/invoicing:1.1.2",
-      "digest": "sha256:ab64bbd3a91218c4985204e3338d5213921d17c6ea53950a57b006318e943f07"
+      "digest": "sha256:a0e149a1efc8586fa200703ae63cb72798a4cfbc9c25d513ca508a2cb3df7158"
     }
   }
 }

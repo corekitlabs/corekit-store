@@ -58,7 +58,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/finance:1.1.2",
-      "digest": "sha256:b311f8a2ddea6e169e2914588ccf65c353608bfb1ed1bf6fb7c72a8315f48a42"
+      "digest": "sha256:b3b0c258a2c23cda855302c2aab01b69b8b5f732935c6cd8fadb20b55197528a"
     }
   }
 }

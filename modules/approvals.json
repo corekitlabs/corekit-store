@@ -61,7 +61,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.1",
-      "digest": "sha256:dfe8ee1ad11fde7e89d736509745c8b8fbb4972e5b24dd7beb71e0d54c4cf50e"
+      "digest": "sha256:90e335f04b498800711b35df72498a56cf5b9e53bb516080d9468f0a29a9a954"
     }
   }
 }

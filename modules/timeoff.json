@@ -44,7 +44,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/timeoff:1.1.1",
-      "digest": "sha256:6a9b15584d838b3afaeec7d8750c5b70291b0f9d49b6ec7f15172c673c15b9b1"
+      "digest": "sha256:f99c4efa6f88628f503fdbf3f36968a52876ca0125d6492e4f62722110555b94"
     }
   }
 }

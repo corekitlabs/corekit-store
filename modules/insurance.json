@@ -360,7 +360,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/insurance:1.13.1",
-      "digest": "sha256:fe6daa29c9e4dd1e9c68d449429ea842d98898fc66d5d8d8d7b6642e522e2efb"
+      "digest": "sha256:043a8a038e1e895206beaea2c61b2d5344b1068634d201cf99b7c2451d0ebdcb"
     }
   }
 }

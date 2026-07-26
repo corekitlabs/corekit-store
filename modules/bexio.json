@@ -24,7 +24,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.1",
-      "digest": "sha256:398f516f5501f847db646e6b861881b6557ea48408022f9c69221fb79b8f65d6"
+      "digest": "sha256:d34c725c12dcbffbfd95c61db76ea29a9c5f1a865233944ee2decc61978ea891"
     }
   }
 }

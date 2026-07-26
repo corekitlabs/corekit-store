@@ -71,7 +71,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.1",
-      "digest": "sha256:7272248bbd674009c93b37c1582551db17b7a0313bf403dd218118cb5b2502bd"
+      "digest": "sha256:b9e36848cb764fd89637d386c9b0b693cf57fd718e2ddd9e56b44b48e6233d04"
     }
   }
 }

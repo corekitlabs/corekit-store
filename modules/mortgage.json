@@ -98,7 +98,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.2",
-      "digest": "sha256:69251ea2bb85911f09d6b4bf16389fa3a232c13e7b6aa7cf5a1644afc158031d"
+      "digest": "sha256:197430e4de086f960c069ad5b845c2dc5f188fd27f66edceaff447bc0e0417a4"
     }
   }
 }

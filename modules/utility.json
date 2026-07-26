@@ -100,7 +100,7 @@
                 ]
             },
             "oci": "ghcr.io/corekitlabs/modules/utility:1.1.3",
-            "digest": "sha256:bd614d1cdabf8797887e45f79ecad6e66276103f52864ba63ac9b5ee729f27b9"
+            "digest": "sha256:c98e0438329f2e6fcb30909f8977537c89c124bccf41468047f262a24436f900"
         }
     }
 }

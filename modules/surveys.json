@@ -100,7 +100,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.3",
-      "digest": "sha256:cdb5da775a72edc94a588d3d1b12d476195be88b837320b01bc78185105d29a1"
+      "digest": "sha256:8ebc40c395209d85f0abfbd6b1ef7d2903b24c3fbaa654bf58c83a2d6633237d"
     }
   }
 }

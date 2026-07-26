@@ -12,7 +12,7 @@
     },
     "1.0.2": {
       "oci": "ghcr.io/corekitlabs/modules/locations:1.0.2",
-      "digest": "sha256:4587dd0ebeab04012c1c24c31f919a34037d044cbee827fa22628e398c01cefa"
+      "digest": "sha256:5dae957efd9ecf672d23e0e7ed633d27524937be4295e94c66bdcdb395ceae9e"
     }
   }
 }

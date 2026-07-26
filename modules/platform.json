@@ -8,7 +8,7 @@
     },
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/platform:1.1.1",
-      "digest": "sha256:33230001808a1b204ce4edce75a1216bc0d13a8bcb8fa35dc5cb28f3f6d79cce"
+      "digest": "sha256:e1e781f43e2e39446a4acf91ea953d8302e69e0c7d954d5c09842c5b3611dc3e"
     }
   }
 }

@@ -92,7 +92,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.2",
-      "digest": "sha256:d2d4674c7ce31540f813952d8f0a44686e366606c9e4acd23206084d0c40b391"
+      "digest": "sha256:0d27cb4c1f3aa40ee1279bec9eebfea3ac09174a1852d2c48e911f452a79a6f9"
     }
   }
 }

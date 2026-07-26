@@ -128,7 +128,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/sales:1.2.5",
-      "digest": "sha256:3b9346183bc71349a08d48d96ecd7eeec15800b931bce6108badeca687f58a27"
+      "digest": "sha256:bbeffa42c2011157a4dffd6bfbf5858d6767c769454ed78b26db106bea803b2f"
     }
   }
 }

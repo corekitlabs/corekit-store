@@ -24,7 +24,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.2",
-      "digest": "sha256:06d93ff1fa91a4d0b86eb5ad6c73d2a9291908cca68503ca6bcec4c355835a5a"
+      "digest": "sha256:14d9df0cd67cf008fd7ff313a578fa38e79849bc6ca19add570afc882fd337df"
     }
   }
 }

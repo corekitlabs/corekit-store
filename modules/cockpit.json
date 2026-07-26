@@ -16,7 +16,7 @@
     },
     "1.1.2": {
       "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.2",
-      "digest": "sha256:caec1d2b4cb86106b692ff6748f62961de9255aeff8c76c33cbfde8f5c283973"
+      "digest": "sha256:6d368d42d51bda8c12af75702d252d0adbdce1803c770284743429b18a87a3fe"
     }
   }
 }
