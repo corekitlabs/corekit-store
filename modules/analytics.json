@@ -1,101 +1,123 @@
 {
- "id": "analytics",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "0.1.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
-   "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
-  },
-  "0.2.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ],
-    "workerWorkflows": [
-     "analytics_query"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.0",
-   "digest": "sha256:d2b1378f792609f0666e634a49e27ac8c5b90d5bd068f55d1ddd50bc3d89ce49"
-  },
-  "0.2.1": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ],
-    "workerWorkflows": [
-     "analytics_query"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.1",
-   "digest": "sha256:10ba99299f5c9e01becbfa55e828553d6d5067ab0acf0b69bdc9e088171d29ed"
-  },
-  "0.2.2": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ],
-    "workerWorkflows": [
-     "analytics_query"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.2",
-   "digest": "sha256:78be75b5be4706c9e67dc969851d612c592c1aeb6da9b2aafe7b6aa6b46f3f13"
-  },
-  "0.3.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ],
-    "workerWorkflows": [
-     "analytics_query",
-     "analytics_scan",
-     "analytics_convert"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.3.0",
-   "digest": "sha256:97b7af73cc351f2c455eead2b42be6094ca41e41c70ec6eae790c925c8fcf975"
-  },
-  "0.4.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ],
-    "workerWorkflows": [
-     "analytics_query",
-     "analytics_scan",
-     "analytics_convert",
-     "analytics_publish"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.4.0",
-   "digest": "sha256:39d032bdaf1e947888c5c4d507a53b0c72c9a7b137d4f41f5ed8828ce07a74b9"
-  },
-  "0.5.0": {
-   "capabilities": {
-    "flowSteps": [
-     "create_entity"
-    ],
-    "workerWorkflows": [
-     "analytics_query",
-     "analytics_scan",
-     "analytics_convert",
-     "analytics_convert_xlsx",
-     "analytics_publish",
-     "analytics_refresh",
-     "analytics_mirror"
-    ],
-    "workerSkills": [
-     "excel-convert"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/analytics:0.5.0",
-   "digest": "sha256:7f9186bd4dff4190e3a36bf46adec391df8eca81b6baa424383b8bc3ab339860"
+  "id": "analytics",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "0.1.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.1.0",
+      "digest": "sha256:543c99e5ea1d2c55fce2fd94962835767b32180cea7b32f0392073804f858b4e"
+    },
+    "0.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.0",
+      "digest": "sha256:d2b1378f792609f0666e634a49e27ac8c5b90d5bd068f55d1ddd50bc3d89ce49"
+    },
+    "0.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.1",
+      "digest": "sha256:10ba99299f5c9e01becbfa55e828553d6d5067ab0acf0b69bdc9e088171d29ed"
+    },
+    "0.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.2.2",
+      "digest": "sha256:78be75b5be4706c9e67dc969851d612c592c1aeb6da9b2aafe7b6aa6b46f3f13"
+    },
+    "0.3.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query",
+          "analytics_scan",
+          "analytics_convert"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.3.0",
+      "digest": "sha256:97b7af73cc351f2c455eead2b42be6094ca41e41c70ec6eae790c925c8fcf975"
+    },
+    "0.4.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query",
+          "analytics_scan",
+          "analytics_convert",
+          "analytics_publish"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.4.0",
+      "digest": "sha256:39d032bdaf1e947888c5c4d507a53b0c72c9a7b137d4f41f5ed8828ce07a74b9"
+    },
+    "0.5.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query",
+          "analytics_scan",
+          "analytics_convert",
+          "analytics_convert_xlsx",
+          "analytics_publish",
+          "analytics_refresh",
+          "analytics_mirror"
+        ],
+        "workerSkills": [
+          "excel-convert"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.5.0",
+      "digest": "sha256:7f9186bd4dff4190e3a36bf46adec391df8eca81b6baa424383b8bc3ab339860"
+    },
+    "0.6.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity"
+        ],
+        "workerWorkflows": [
+          "analytics_query",
+          "analytics_scan",
+          "analytics_convert",
+          "analytics_convert_xlsx",
+          "analytics_publish",
+          "analytics_refresh",
+          "analytics_mirror"
+        ],
+        "workerSkills": [
+          "excel-convert",
+          "analytics-analyst"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/analytics:0.6.0",
+      "digest": "sha256:2165eb4ef15040e1940cda3cb346ae9ee7662651950a24c0b684e21402f3fe9f"
+    }
   }
- }
 }
