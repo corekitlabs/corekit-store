@@ -1,0 +1,10 @@
+{
+  "id": "datasources",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "0.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/datasources:0.1.0",
+      "digest": "sha256:0dda3d96bf8ed9912a1c5cbfe6e7c42b327762f36fa09c1664c1659d756ddd4e"
+    }
+  }
+}
