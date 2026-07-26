@@ -94,6 +94,20 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/rental:1.5.0",
       "digest": "sha256:dfe38cc787516c9546cd7f64a138cc29198f01621ffdd84ee89c50e9691f73f7"
+    },
+    "1.6.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "update_entity",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/rental:1.6.0",
+      "digest": "sha256:991402607a4c54db16131c1fc9ee5a86272d8c8528cee93daf6c346797f5f463"
     }
   }
 }

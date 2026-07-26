@@ -84,6 +84,21 @@
     "1.3.2": {
       "oci": "ghcr.io/corekitlabs/modules/dam:1.3.2",
       "digest": "sha256:9ea0a8d521b69ec5712ae920306f64f435918bca7eb8acb277b74f9fe622c85d"
+    },
+    "1.4.0": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "media",
+          "notify",
+          "update_entity",
+          "user_input",
+          "wait"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/dam:1.4.0",
+      "digest": "sha256:63d070f6753a776747c3a03fc0caf3e53ebfade149d5ca61d66ce638fe28fb2d"
     }
   }
 }

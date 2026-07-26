@@ -8,6 +8,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/store:1.0.1",
       "digest": "sha256:f6adb2d85edd3e44f837f998a04cf8d4e0ae590bda5b22fcbfbfe9194e034268"
+    },
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/store:1.1.0",
+      "digest": "sha256:1b6ee9aad4a51c8ce95b484240905bde6614f965d7a750cdcbc6a1348cb02309"
     }
   }
 }

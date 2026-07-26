@@ -16,6 +16,17 @@
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/docs-default:1.1.1",
       "digest": "sha256:3d624bab5da7964cfa5771e8d201f8a956061b9cca431f6170bb6d3a4567b168"
+    },
+    "1.2.0": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/docs-default:1.2.0",
+      "digest": "sha256:ff38f852991492d0d26a8637052c87a73dc7e12dac23a0f1b301b8a6ccecd288"
     }
   }
 }
