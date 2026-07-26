@@ -42,6 +42,36 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.0",
       "digest": "sha256:43e150a9975c64acb95e3e820559c8afb45fc0cf96738f5148ad5c35bbae73a2"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "media",
+          "wait"
+        ],
+        "workerWorkflows": [
+          "media_cascade_chapter",
+          "media_cascade_scene",
+          "media_scaffold",
+          "media_scaffold_chapter",
+          "media_scaffold_scene",
+          "media_produce",
+          "media_produce_scene",
+          "media_produce_video",
+          "media_produce_note",
+          "media_create_merges",
+          "media_create_videos",
+          "media_create_video_scene",
+          "media_merge_story",
+          "media_merge_video",
+          "media_finalize",
+          "media_set_status",
+          "media_dashboard"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.1",
+      "digest": "sha256:7272248bbd674009c93b37c1582551db17b7a0313bf403dd218118cb5b2502bd"
     }
   }
 }

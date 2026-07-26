@@ -32,6 +32,20 @@
     "1.2.1": {
       "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.1",
       "digest": "sha256:4056018ef4af748d3923efc33ecb008048c9b62eb596028e90e2eee43ac804d0"
+    },
+    "1.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "media",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.2",
+      "digest": "sha256:2453733da8d19660a52c1cf196230de94eb217aefbd50221d1497319f5972449"
     }
   }
 }

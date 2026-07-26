@@ -18,6 +18,15 @@
   "0.9.2": {
    "oci": "ghcr.io/corekitlabs/modules/demo:0.9.2",
    "digest": "sha256:31012dddb490fad5cf919256fc41d04439e6d56484a6011a6a7c16f0e6695343"
+  },
+  "0.9.3": {
+   "capabilities": {
+    "workerSkills": [
+     "echo-demo"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/demo:0.9.3",
+   "digest": "sha256:679690471ad781d83161ac8e9c313567c16f79c18e253b4461763d27dbe9bc78"
   }
  }
 }

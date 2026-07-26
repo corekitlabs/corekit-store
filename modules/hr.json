@@ -29,6 +29,18 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/hr:1.1.0",
       "digest": "sha256:e29d5cd8d2725ed53004259f7364f0735dbcfe6b9b92fb7278d01e7e6cd64a7b"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/hr:1.1.1",
+      "digest": "sha256:2c047b21c8eb84d0a8a135b3fe32693744a708b1b54cd7c532ee3941effd28e8"
     }
   }
 }

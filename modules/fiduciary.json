@@ -32,6 +32,21 @@
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.1",
       "digest": "sha256:a0b62eb9640eb9dd8486be132c1adda153f982c65736b7f77e2764f3d254f1c4"
+    },
+    "1.1.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "mail_send",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.2",
+      "digest": "sha256:b566e7594990c0599e012758b993b0661585c15a577bb4c9c1685654516e1337"
     }
   }
 }

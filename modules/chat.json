@@ -14,6 +14,15 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/chat:1.1.0",
       "digest": "sha256:47cf5c4dec3ba49dfd8447c5fd2e3fa66cd0e6e272c8d433a5ea07619ad5ad3a"
+    },
+    "1.1.1": {
+      "capabilities": {
+        "workerWorkflows": [
+          "chat_turn"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/chat:1.1.1",
+      "digest": "sha256:2ef64f99c1435a19804b4716098aa4aa98dd4d047930493bf303bd16ec32ff88"
     }
   }
 }

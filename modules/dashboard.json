@@ -13,6 +13,10 @@
     "1.0.2": {
       "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.2",
       "digest": "sha256:fdd9741d34943c4126514d9ee581629acb898a15cd51b30110de277d24c10ccf"
+    },
+    "1.0.3": {
+      "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.3",
+      "digest": "sha256:d8b09e799d4d06ee6689d826b9747ae0728d39c5a1c285c2ef1f2060485ce368"
     }
   }
 }

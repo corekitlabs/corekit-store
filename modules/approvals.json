@@ -46,6 +46,22 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.0",
       "digest": "sha256:37392c31420b7b9343f08fa292027b587dc31c6033d76490a02c335dfa81385c"
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify",
+          "script",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "resolve-approval-stages"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.1",
+      "digest": "sha256:dfe8ee1ad11fde7e89d736509745c8b8fbb4972e5b24dd7beb71e0d54c4cf50e"
     }
   }
 }

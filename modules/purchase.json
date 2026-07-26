@@ -50,6 +50,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.0",
       "digest": "sha256:adcee91ed8cd897932dd9d1e6d2c029f977d4d2bfbda86cf6389e782764dc1fb"
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.1",
+      "digest": "sha256:af4c0b49e4dc36a55d82ff1ca15bb4d836c15b002c76f89301c4613b527d7690"
     }
   }
 }

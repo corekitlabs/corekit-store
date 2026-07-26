@@ -33,6 +33,23 @@
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.1",
       "digest": "sha256:4bbbf92d9f459a4c854c2b1c063cab2f286f2edef7f245df93707e098ba6a441"
+    },
+    "1.1.2": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "scrape",
+          "wait"
+        ],
+        "workerWorkflows": [
+          "scrape_find_source",
+          "analyze_enrich",
+          "analyze_synthesize",
+          "analyze_validate"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.2",
+      "digest": "sha256:a4a33fd0105df93c9910ce6279b03b4a2c7545fa7a9a4cec7dcc468f3314d332"
     }
   }
 }

@@ -13,6 +13,18 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.0",
       "digest": "sha256:1d0e823e9828b71271e50a755ef2b16181179675f61a74a2d9c5cf1450b9872f"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "http",
+          "notify",
+          "update_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.1",
+      "digest": "sha256:398f516f5501f847db646e6b861881b6557ea48408022f9c69221fb79b8f65d6"
     }
   }
 }

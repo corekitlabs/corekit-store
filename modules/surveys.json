@@ -91,6 +91,16 @@
     "1.2.2": {
       "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.2",
       "digest": "sha256:2c95c46e8689003364df7b6c963761156969ce2d281ffed36e5bccc4c49b00e8"
+    },
+    "1.2.3": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.3",
+      "digest": "sha256:cdb5da775a72edc94a588d3d1b12d476195be88b837320b01bc78185105d29a1"
     }
   }
 }

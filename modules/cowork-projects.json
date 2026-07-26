@@ -48,6 +48,33 @@
     "1.1.1": {
       "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.1",
       "digest": "sha256:da48ee9dc6f769ee64c4deb9a1d3c680e81884076b5ff8b01a5228c6d3bafede"
+    },
+    "1.1.2": {
+      "capabilities": {
+        "flowSteps": [
+          "analyze",
+          "code",
+          "create_entity",
+          "dispatch",
+          "gateway",
+          "notify",
+          "pause",
+          "wait"
+        ],
+        "workerWorkflows": [
+          "code_implement",
+          "code_review",
+          "code_setup_repo",
+          "code_github_sync",
+          "code_github_sync_batch",
+          "analyze_architect",
+          "analyze_architecture",
+          "analyze_planning",
+          "dispatch_apply_backlog"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.2",
+      "digest": "sha256:25dfb63010b7606a69a4f77e27f08eb3fb4e0ba806b854c63a485e86ce0e885b"
     }
   }
 }

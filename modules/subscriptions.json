@@ -15,6 +15,16 @@
     "1.0.1": {
       "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.1",
       "digest": "sha256:da7a5f9019c880795137481ec3973c2782906eb9951651ad47812fa3758ee588"
+    },
+    "1.0.2": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.2",
+      "digest": "sha256:06d93ff1fa91a4d0b86eb5ad6c73d2a9291908cca68503ca6bcec4c355835a5a"
     }
   }
 }

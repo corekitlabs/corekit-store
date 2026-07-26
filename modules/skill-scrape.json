@@ -15,6 +15,20 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.0.0",
       "digest": "sha256:7b467a175253514ef1604375c8b6ebef4a538b2510628d8743036480d9b2ef40"
+    },
+    "1.0.1": {
+      "capabilities": {
+        "workerSkills": [
+          "docling-convert",
+          "social-gallerydl"
+        ],
+        "workerWorkflows": [
+          "content_scrape",
+          "scrape_document"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.0.1",
+      "digest": "sha256:b92c7aba2625bd61597dba7a2b7762a31ec453ad2cf7672f942eaac0ee07b382"
     }
   }
 }
