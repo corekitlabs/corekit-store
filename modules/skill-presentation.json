@@ -25,6 +25,18 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.0.1",
       "digest": "sha256:f94f5e81a50214c7741812aab92608f104f093f34f7baa54384a105fc1d3fe26"
+    },
+    "1.1.0": {
+      "capabilities": {
+        "workerSkills": [
+          "presentation-render"
+        ],
+        "workerWorkflows": [
+          "media_render_presentation"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.1.0",
+      "digest": "sha256:7075a3bb47eab79016c93f22b888a2083b0ba0e73a1c08ff79f98d44c1bebe40"
     }
   }
 }
