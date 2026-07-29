@@ -4007,6 +4007,24 @@
       }
     }
   },
+  "skill-presentation": {
+    "id": "skill-presentation",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "workerSkills": [
+            "presentation-render"
+          ],
+          "workerWorkflows": [
+            "media_render_presentation"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.0.0",
+        "digest": "sha256:bd5369b5062e52c701594659350730b7698fb6c0e2f6fef3fb345dba70ddd497"
+      }
+    }
+  },
   "skill-scrape": {
     "id": "skill-scrape",
     "repo": "https://github.com/corekitlabs/corekit-modules",
@@ -4622,24 +4640,6 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/utility:1.1.3",
         "digest": "sha256:c98e0438329f2e6fcb30909f8977537c89c124bccf41468047f262a24436f900"
-      }
-    }
-  },
-  "skill-presentation": {
-    "id": "skill-presentation",
-    "repo": "https://github.com/corekitlabs/corekit-modules",
-    "versions": {
-      "1.0.0": {
-        "capabilities": {
-          "workerSkills": [
-            "presentation-render"
-          ],
-          "workerWorkflows": [
-            "media_render_presentation"
-          ]
-        },
-        "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.0.0",
-        "digest": "sha256:bd5369b5062e52c701594659350730b7698fb6c0e2f6fef3fb345dba70ddd497"
       }
     }
   }
