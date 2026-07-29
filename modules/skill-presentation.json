@@ -1,0 +1,18 @@
+{
+  "id": "skill-presentation",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "workerSkills": [
+          "presentation-render"
+        ],
+        "workerWorkflows": [
+          "media_render_presentation"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.0.0",
+      "digest": "sha256:bd5369b5062e52c701594659350730b7698fb6c0e2f6fef3fb345dba70ddd497"
+    }
+  }
+}

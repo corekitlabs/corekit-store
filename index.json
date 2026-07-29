@@ -1627,6 +1627,21 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/dam:1.4.0",
         "digest": "sha256:63d070f6753a776747c3a03fc0caf3e53ebfade149d5ca61d66ce638fe28fb2d"
+      },
+      "1.5.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity",
+            "user_input",
+            "wait"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.5.0",
+        "digest": "sha256:23e4d7b63e2ea8755ece0dc6d53ff3f6d86039b69b6ccabdce137124e575af71"
       }
     }
   },
@@ -4607,6 +4622,24 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/utility:1.1.3",
         "digest": "sha256:c98e0438329f2e6fcb30909f8977537c89c124bccf41468047f262a24436f900"
+      }
+    }
+  },
+  "skill-presentation": {
+    "id": "skill-presentation",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "workerSkills": [
+            "presentation-render"
+          ],
+          "workerWorkflows": [
+            "media_render_presentation"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.0.0",
+        "digest": "sha256:bd5369b5062e52c701594659350730b7698fb6c0e2f6fef3fb345dba70ddd497"
       }
     }
   }
