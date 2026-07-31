@@ -1711,6 +1711,24 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/dam:1.5.1",
         "digest": "sha256:1ab80483e5016655671d1a957085755eebb0cabf737b1b4a415dd2ea95db4f61"
+      },
+      "1.5.2": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "dam_upload",
+            "find_entity",
+            "media",
+            "notify",
+            "update_entity",
+            "user_input",
+            "wait",
+            "tool:corekit-tools.pdf.merge",
+            "tool:corekit-tools.archive.zip"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.5.2",
+        "digest": "sha256:6ea9b19043d76021bab5c0ead9e7340f91dc17596211fc284820ae984f5d3adc"
       }
     }
   },
