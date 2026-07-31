@@ -35,6 +35,19 @@
     "0.9.5": {
       "oci": "ghcr.io/corekitlabs/modules/demo:0.9.5",
       "digest": "sha256:d92fc0bb5f8c6fd5a5d72efdc076172f9ce81a22620fcdf757f50c05a1d132f8"
+    },
+    "0.9.7": {
+      "capabilities": {
+        "workerSkills": [
+          "echo-demo"
+        ],
+        "flowSteps": [
+          "tool:corekit-tools.*",
+          "dam_upload"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/demo:0.9.7",
+      "digest": "sha256:efca941ca319cce750b5b0cab55cb97b370b72e0a5058965fdd3a44465e12940"
     }
   }
 }
