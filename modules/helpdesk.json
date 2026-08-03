@@ -191,6 +191,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.3.0",
       "digest": "sha256:29def5b3bc79c6096d91c14102acb68a79b929e985d839e83757723f409926c1"
+    },
+    "1.4.0": {
+      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.0",
+      "digest": "sha256:8b3d308dc9ba7fe259ddd28aac9290f42c7e7ec1eae3e6073cb047cfe6307888"
     }
   }
 }
