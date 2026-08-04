@@ -4630,6 +4630,10 @@
       "1.3.0": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.3.0",
         "digest": "sha256:a15a7f043f22c3f027b7cb480fc537da9e700a3f41c4cf56344e7e2474b239c3"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.4.0",
+        "digest": "sha256:a0d0a4cfd321c8afea696dfd1f00f2acda435d6450b50af8e5f45195cc9d81ec"
       }
     }
   },
