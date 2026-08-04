@@ -2033,6 +2033,10 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/events:1.5.0",
         "digest": "sha256:6a54cb885cafd7743e04a4ff02080365f482cdd38755777a1441f99b3a1d8f63"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/events:1.6.0",
+        "digest": "sha256:ce9548c19659e0721d9184e21f8e8bf101f848a4760854db4d502a639462c731"
       }
     }
   },
