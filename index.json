@@ -289,6 +289,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.6.0",
         "digest": "sha256:bd73724ac1bb03253c4a044eab35d332d9991bdad36b494092e8b4b2d171c2e2"
+      },
+      "1.7.0": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.7.0",
+        "digest": "sha256:aa5a139a94266430e810b4e062b0542f5097475ba455193743db729e2217377a"
       }
     }
   },
