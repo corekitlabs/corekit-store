@@ -1737,6 +1737,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/dam:1.5.2",
         "digest": "sha256:6ea9b19043d76021bab5c0ead9e7340f91dc17596211fc284820ae984f5d3adc"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.6.0",
+        "digest": "sha256:e158408ebd41446368bf8a923e7d92f53249e43e070bae5ebbfb866012d4a3d6"
       }
     }
   },
