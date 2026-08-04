@@ -1,51 +1,55 @@
 {
-  "id": "contacts",
-  "repo": "https://github.com/corekitlabs/corekit-modules",
-  "versions": {
-    "1.1.0": {
-      "capabilities": {
-        "flowSteps": [
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/contacts:1.1.0",
-      "digest": "sha256:f98cfb7f64fb4c55591d03c334821ce67d339f95dd2a2e829486cee24fd21f19"
-    },
-    "1.2.0": {
-      "capabilities": {
-        "flowSteps": [
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "media",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.0",
-      "digest": "sha256:48830029ee9020b24d3af17993d1a07072266a279ba40bb5268bfef72b6f5abc"
-    },
-    "1.2.1": {
-      "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.1",
-      "digest": "sha256:4056018ef4af748d3923efc33ecb008048c9b62eb596028e90e2eee43ac804d0"
-    },
-    "1.2.2": {
-      "capabilities": {
-        "flowSteps": [
-          "dam_upload",
-          "document_generate",
-          "find_entity",
-          "media",
-          "notify",
-          "update_entity"
-        ]
-      },
-      "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.2",
-      "digest": "sha256:d22b70d54500351c496e8006ddf3406d95a91ac00163b626c48b8a8ab5741c7e"
-    }
+ "id": "contacts",
+ "repo": "https://github.com/corekitlabs/corekit-modules",
+ "versions": {
+  "1.1.0": {
+   "capabilities": {
+    "flowSteps": [
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/contacts:1.1.0",
+   "digest": "sha256:f98cfb7f64fb4c55591d03c334821ce67d339f95dd2a2e829486cee24fd21f19"
+  },
+  "1.2.0": {
+   "capabilities": {
+    "flowSteps": [
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "media",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.0",
+   "digest": "sha256:48830029ee9020b24d3af17993d1a07072266a279ba40bb5268bfef72b6f5abc"
+  },
+  "1.2.1": {
+   "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.1",
+   "digest": "sha256:4056018ef4af748d3923efc33ecb008048c9b62eb596028e90e2eee43ac804d0"
+  },
+  "1.2.2": {
+   "capabilities": {
+    "flowSteps": [
+     "dam_upload",
+     "document_generate",
+     "find_entity",
+     "media",
+     "notify",
+     "update_entity"
+    ]
+   },
+   "oci": "ghcr.io/corekitlabs/modules/contacts:1.2.2",
+   "digest": "sha256:d22b70d54500351c496e8006ddf3406d95a91ac00163b626c48b8a8ab5741c7e"
+  },
+  "1.3.0": {
+   "oci": "ghcr.io/corekitlabs/modules/contacts:1.3.0",
+   "digest": "sha256:e52b1d29650a5b06b94d2a460bdb0ddbba28c701680ed66012e6c85948af0a9f"
   }
+ }
 }
