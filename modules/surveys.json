@@ -1,110 +1,114 @@
 {
- "id": "surveys",
- "repo": "https://github.com/corekitlabs/corekit-modules",
- "versions": {
-  "1.1.0": {
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.0",
-   "digest": "sha256:90d81f72a1219e32b22d8aed7bafb21f893d0766495f8a9273a4f6c7659f3565",
-   "requires": {
-    "corekit": ">=1.0",
-    "app-core": ">=2.2"
-   },
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ],
-    "ui": true
-   }
-  },
-  "1.1.1": {
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.1",
-   "digest": "sha256:165c8c194be068260375c66bd4d69d50b653102188acf7b90df8131611dec838",
-   "requires": {
-    "corekit": ">=1.0",
-    "app-core": ">=2.2"
-   },
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ],
-    "ui": true
-   }
-  },
-  "1.1.2": {
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.2",
-   "digest": "sha256:886a3845402a1ea3476b848b4478e06c7d99cc52924901e9a4a4cb871f4d3283",
-   "requires": {
-    "corekit": ">=1.0",
-    "app-core": ">=2.2"
-   },
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ],
-    "ui": true
-   }
-  },
-  "1.1.3": {
-   "requires": {
-    "corekit": ">=1.0",
-    "app-core": ">=2.2"
-   },
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ],
-    "ui": true
-   },
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.3",
-   "digest": "sha256:5ac76886629df57eb3be317184f172f0ab1b8c68626435635f2e1e8691e83181"
-  },
-  "1.2.0": {
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.0",
-   "digest": "sha256:3e026160e718ae6d9d560097db18929d67b83f007ff088bc0962364c1c81241f",
-   "requires": {
-    "corekit": ">=1.0",
-    "app-core": ">=2.2"
-   },
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ],
-    "ui": true
-   }
-  },
-  "1.2.1": {
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ],
-    "ui": true
-   },
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.1",
-   "digest": "sha256:7de655be96edbeae34fe08608518687bcf0e6cade7c702ab9cadd29559e9fb17"
-  },
-  "1.2.2": {
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.2",
-   "digest": "sha256:2c95c46e8689003364df7b6c963761156969ce2d281ffed36e5bccc4c49b00e8"
-  },
-  "1.2.3": {
-   "capabilities": {
-    "flowSteps": [
-     "find_entity",
-     "notify"
-    ]
-   },
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.3",
-   "digest": "sha256:8ebc40c395209d85f0abfbd6b1ef7d2903b24c3fbaa654bf58c83a2d6633237d"
-  },
-  "1.3.0": {
-   "oci": "ghcr.io/corekitlabs/modules/surveys:1.3.0",
-   "digest": "sha256:a15a7f043f22c3f027b7cb480fc537da9e700a3f41c4cf56344e7e2474b239c3"
+  "id": "surveys",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.0",
+      "digest": "sha256:90d81f72a1219e32b22d8aed7bafb21f893d0766495f8a9273a4f6c7659f3565",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      }
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.1",
+      "digest": "sha256:165c8c194be068260375c66bd4d69d50b653102188acf7b90df8131611dec838",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      }
+    },
+    "1.1.2": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.2",
+      "digest": "sha256:886a3845402a1ea3476b848b4478e06c7d99cc52924901e9a4a4cb871f4d3283",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      }
+    },
+    "1.1.3": {
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      },
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.1.3",
+      "digest": "sha256:5ac76886629df57eb3be317184f172f0ab1b8c68626435635f2e1e8691e83181"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.0",
+      "digest": "sha256:3e026160e718ae6d9d560097db18929d67b83f007ff088bc0962364c1c81241f",
+      "requires": {
+        "corekit": ">=1.0",
+        "app-core": ">=2.2"
+      },
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      }
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ],
+        "ui": true
+      },
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.1",
+      "digest": "sha256:7de655be96edbeae34fe08608518687bcf0e6cade7c702ab9cadd29559e9fb17"
+    },
+    "1.2.2": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.2",
+      "digest": "sha256:2c95c46e8689003364df7b6c963761156969ce2d281ffed36e5bccc4c49b00e8"
+    },
+    "1.2.3": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.2.3",
+      "digest": "sha256:8ebc40c395209d85f0abfbd6b1ef7d2903b24c3fbaa654bf58c83a2d6633237d"
+    },
+    "1.3.0": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.3.0",
+      "digest": "sha256:a15a7f043f22c3f027b7cb480fc537da9e700a3f41c4cf56344e7e2474b239c3"
+    },
+    "1.4.0": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.4.0",
+      "digest": "sha256:a0d0a4cfd321c8afea696dfd1f00f2acda435d6450b50af8e5f45195cc9d81ec"
+    }
   }
- }
 }
