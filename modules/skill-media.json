@@ -75,6 +75,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/skill-media:1.2.1",
       "digest": "sha256:eba7efd980f27749325ee32f78c818eed1b3fbcba648064e1b7dc2ea65c3f25a"
+    },
+    "1.3.0": {
+      "oci": "ghcr.io/corekitlabs/modules/skill-media:1.3.0",
+      "digest": "sha256:a03de13c791ac5e10a10a3ce63c6818d703f8b2f288bc0f8abeed4e02e751e88"
     }
   }
 }
