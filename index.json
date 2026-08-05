@@ -1145,6 +1145,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.2",
         "digest": "sha256:4e34b1c0fd4b21080996a88d973c9d304bd2a5378611244cfd47e2d3450b8914"
+      },
+      "1.1.3": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.3",
+        "digest": "sha256:55426521361722f0b3f41618162023e7469d0e5e5a7f93730070bee1f7e3241b"
       }
     }
   },
@@ -1200,6 +1204,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.2",
         "digest": "sha256:f634c76c0d927b8ed9ac31756d0b628059f20fcd52bd0c4347b34f75037595e9"
+      },
+      "1.1.3": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.3",
+        "digest": "sha256:a2c7b3d644effc8cf5591c6c8dfaad0869f957398ebe7f613fa14aa66804a294"
       }
     }
   },
@@ -1298,6 +1306,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.2",
         "digest": "sha256:0d27cb4c1f3aa40ee1279bec9eebfea3ac09174a1852d2c48e911f452a79a6f9"
+      },
+      "1.1.3": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.3",
+        "digest": "sha256:d3e78fe11754b8386ad4355107ef96f5c59c75cecf84cf821df559c86be52cdc"
       }
     }
   },
@@ -1375,6 +1387,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.1",
         "digest": "sha256:b9e36848cb764fd89637d386c9b0b693cf57fd718e2ddd9e56b44b48e6233d04"
+      },
+      "1.1.2": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.2",
+        "digest": "sha256:67d712657ef081c84248964c12e01eca86be9560d413257825c70eba38b287d5"
       }
     }
   },
@@ -1503,6 +1519,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.4",
         "digest": "sha256:2c01ec060124795176879068a5cebae7c9661ad1f25c4876ea40ace59ca68978"
+      },
+      "1.4.5": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.5",
+        "digest": "sha256:db9db6ab3ef7a73554025a6d1a044ac84235eb156e8dc2bfc14035603369765f"
       }
     }
   },
@@ -1753,6 +1773,10 @@
       "1.6.0": {
         "oci": "ghcr.io/corekitlabs/modules/dam:1.6.0",
         "digest": "sha256:e158408ebd41446368bf8a923e7d92f53249e43e070bae5ebbfb866012d4a3d6"
+      },
+      "1.6.1": {
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.6.1",
+        "digest": "sha256:7bef7002235b812a3e81ac687a9c7c3bf8e7931587ffc6d07e57e5d377b7ee40"
       }
     }
   },
@@ -2515,6 +2539,10 @@
       "1.4.1": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.4.1",
         "digest": "sha256:ab2663e11e0c2cda8a57be13033d250b9eb6ae1ccd351dbf3a1a8a5b46d29d9f"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.5.0",
+        "digest": "sha256:f145f3cfb858e198c03c1d892f92ef57b2480231271d2e61fa1fb3ee77a47b7a"
       }
     }
   },
@@ -3707,6 +3735,10 @@
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.3",
         "digest": "sha256:512b34baaeb9e494d08c440c38b14e1ccb5ac2503ff5666f3cb9a581e048cd15"
+      },
+      "1.1.4": {
+        "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.4",
+        "digest": "sha256:fcec680a338d85be99fdfef12f13722e2f75f7791d67934e20d34332f1b75f79"
       }
     }
   },
@@ -4714,6 +4746,10 @@
       "1.5.3": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.3",
         "digest": "sha256:590c2e238031e7b0faac817e5165973d031fea84a74df3b001256c4e6f26d577"
+      },
+      "1.5.4": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.4",
+        "digest": "sha256:0e18aae02a8f7f278a0a0e7e53f6ef7fad84c4cc7d153371d765302bd85178ec"
       }
     }
   },
