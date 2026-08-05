@@ -33,6 +33,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/datasources:0.3.0",
       "digest": "sha256:7b36b077e6a459408649b42984cc97022510450a53f937f56f925ecd18825638"
+    },
+    "0.6.0": {
+      "capabilities": {
+        "flowSteps": [
+          "source_sync",
+          "notify",
+          "find_entity",
+          "for",
+          "create_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/datasources:0.6.0",
+      "digest": "sha256:4be2755a2173370d25c1bf4b7d7d3aa971df413cf8f1b8107d07835a88c987eb"
     }
   },
   "latest": "0.2.1"
