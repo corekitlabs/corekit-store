@@ -1067,8 +1067,56 @@
         "digest": "sha256:be38a39f9614e5dc0433b23a2e5f7ca072d8f374b56d215d378e0cfd6cd553fe"
       },
       "1.5.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "keycloak_create_user",
+            "notify",
+            "submit_user_input",
+            "tenant_import",
+            "transform",
+            "update_entity",
+            "user_input"
+          ],
+          "workerSkills": [
+            "yaml-analytics",
+            "yaml-entity",
+            "yaml-flow",
+            "yaml-form",
+            "yaml-options",
+            "yaml-view"
+          ]
+        },
         "oci": "ghcr.io/corekitlabs/modules/core:1.5.0",
         "digest": "sha256:405ee8bfc262faaf6801681d046e68c55e528a05f6777ecca525306ea3c4ac65"
+      },
+      "1.5.1": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "keycloak_create_user",
+            "notify",
+            "submit_user_input",
+            "tenant_import",
+            "transform",
+            "update_entity",
+            "user_input"
+          ],
+          "workerSkills": [
+            "yaml-analytics",
+            "yaml-entity",
+            "yaml-flow",
+            "yaml-form",
+            "yaml-options",
+            "yaml-view"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/core:1.5.1",
+        "digest": "sha256:02bfe0ed419267359db02dce1f483a39a411942e1902b0681a3b165823ca0716"
       }
     }
   },
@@ -1819,8 +1867,28 @@
         "digest": "sha256:aeb56ffeda6da9d12855cf4c34fa4b5dbd3063e711aa77936922a335fc043526"
       },
       "0.2.1": {
+        "capabilities": {
+          "flowSteps": [
+            "source_sync",
+            "notify",
+            "find_entity",
+            "for"
+          ]
+        },
         "oci": "ghcr.io/corekitlabs/modules/datasources:0.2.1",
         "digest": "sha256:635f16174c5d44f4079e29ac1f11fb0fc8e86234babd2806b08b7e313873e155"
+      },
+      "0.3.0": {
+        "capabilities": {
+          "flowSteps": [
+            "source_sync",
+            "notify",
+            "find_entity",
+            "for"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/datasources:0.3.0",
+        "digest": "sha256:7b36b077e6a459408649b42984cc97022510450a53f937f56f925ecd18825638"
       }
     },
     "latest": "0.2.1"
@@ -1877,8 +1945,30 @@
         "digest": "sha256:efca941ca319cce750b5b0cab55cb97b370b72e0a5058965fdd3a44465e12940"
       },
       "0.10.0": {
+        "capabilities": {
+          "workerSkills": [
+            "echo-demo"
+          ],
+          "flowSteps": [
+            "tool:corekit-tools.*",
+            "dam_upload"
+          ]
+        },
         "oci": "ghcr.io/corekitlabs/modules/demo:0.10.0",
         "digest": "sha256:2009679b2dc27a5a28f2061ec93c587760675d4208461945f8fd638c71c75f10"
+      },
+      "0.11.0": {
+        "capabilities": {
+          "workerSkills": [
+            "echo-demo"
+          ],
+          "flowSteps": [
+            "tool:corekit-tools.*",
+            "dam_upload"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/demo:0.11.0",
+        "digest": "sha256:00fa9f6139d0f9df27254a02a3f1e12b32bee09f2531f8f19e4198dd7241f5a8"
       }
     }
   },
