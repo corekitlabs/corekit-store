@@ -195,6 +195,10 @@
     "1.4.0": {
       "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.0",
       "digest": "sha256:8b3d308dc9ba7fe259ddd28aac9290f42c7e7ec1eae3e6073cb047cfe6307888"
+    },
+    "1.4.1": {
+      "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.1",
+      "digest": "sha256:1d52802f3a12e92d8769cd27a57f6c84b6e0a17dec88277d7704a09787ed0b05"
     }
   }
 }

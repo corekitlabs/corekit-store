@@ -100,6 +100,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.2",
       "digest": "sha256:197430e4de086f960c069ad5b845c2dc5f188fd27f66edceaff447bc0e0417a4"
+    },
+    "1.1.3": {
+      "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.3",
+      "digest": "sha256:512b34baaeb9e494d08c440c38b14e1ccb5ac2503ff5666f3cb9a581e048cd15"
     }
   }
 }
