@@ -50,8 +50,30 @@
       "digest": "sha256:efca941ca319cce750b5b0cab55cb97b370b72e0a5058965fdd3a44465e12940"
     },
     "0.10.0": {
+      "capabilities": {
+        "workerSkills": [
+          "echo-demo"
+        ],
+        "flowSteps": [
+          "tool:corekit-tools.*",
+          "dam_upload"
+        ]
+      },
       "oci": "ghcr.io/corekitlabs/modules/demo:0.10.0",
       "digest": "sha256:2009679b2dc27a5a28f2061ec93c587760675d4208461945f8fd638c71c75f10"
+    },
+    "0.11.0": {
+      "capabilities": {
+        "workerSkills": [
+          "echo-demo"
+        ],
+        "flowSteps": [
+          "tool:corekit-tools.*",
+          "dam_upload"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/demo:0.11.0",
+      "digest": "sha256:00fa9f6139d0f9df27254a02a3f1e12b32bee09f2531f8f19e4198dd7241f5a8"
     }
   }
 }
