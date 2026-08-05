@@ -508,6 +508,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/core:1.4.2",
       "digest": "sha256:be38a39f9614e5dc0433b23a2e5f7ca072d8f374b56d215d378e0cfd6cd553fe"
+    },
+    "1.5.0": {
+      "oci": "ghcr.io/corekitlabs/modules/core:1.5.0",
+      "digest": "sha256:405ee8bfc262faaf6801681d046e68c55e528a05f6777ecca525306ea3c4ac65"
     }
   }
 }
