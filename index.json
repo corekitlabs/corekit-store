@@ -4232,6 +4232,10 @@
       "1.3.1": {
         "oci": "ghcr.io/corekitlabs/modules/skill-media:1.3.1",
         "digest": "sha256:a35e51bada79bb150d4c35a4117f229a37a80200b82dc915529e41b752497060"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/skill-media:1.4.0",
+        "digest": "sha256:65d60c3af3df6dffe3c930bf74e3cca79d727f15b295cdc902a60127b33668ed"
       }
     }
   },
@@ -4698,6 +4702,10 @@
       "1.5.1": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.1",
         "digest": "sha256:87b8270d77c635794518094747fc747b8c3e5a5b649b20d896ee58e171d0e91a"
+      },
+      "1.5.2": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.2",
+        "digest": "sha256:81c9114d8844ff5f632c10d59ddd484921b48e1af8f1772a4cc7ae767b0130b0"
       }
     }
   },
