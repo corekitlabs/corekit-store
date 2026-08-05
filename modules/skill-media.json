@@ -83,6 +83,10 @@
     "1.3.1": {
       "oci": "ghcr.io/corekitlabs/modules/skill-media:1.3.1",
       "digest": "sha256:a35e51bada79bb150d4c35a4117f229a37a80200b82dc915529e41b752497060"
+    },
+    "1.4.0": {
+      "oci": "ghcr.io/corekitlabs/modules/skill-media:1.4.0",
+      "digest": "sha256:65d60c3af3df6dffe3c930bf74e3cca79d727f15b295cdc902a60127b33668ed"
     }
   }
 }
