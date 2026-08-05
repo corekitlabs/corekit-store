@@ -123,6 +123,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.4",
       "digest": "sha256:2c01ec060124795176879068a5cebae7c9661ad1f25c4876ea40ace59ca68978"
+    },
+    "1.4.5": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.5",
+      "digest": "sha256:db9db6ab3ef7a73554025a6d1a044ac84235eb156e8dc2bfc14035603369765f"
     }
   }
 }
