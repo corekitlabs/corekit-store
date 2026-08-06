@@ -1,0 +1,17 @@
+{
+  "id": "reference-data",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.0.0": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "create_entity",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/reference-data:1.0.0",
+      "digest": "sha256:f8daf2179322b80b696b82ead9c03b08e536f4a969d4020b7cbd32e040f28f60"
+    }
+  }
+}
