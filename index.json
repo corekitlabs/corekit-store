@@ -1924,6 +1924,19 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/datasources:0.6.0",
         "digest": "sha256:4be2755a2173370d25c1bf4b7d7d3aa971df413cf8f1b8107d07835a88c987eb"
+      },
+      "0.7.0": {
+        "capabilities": {
+          "flowSteps": [
+            "source_sync",
+            "notify",
+            "find_entity",
+            "for",
+            "create_entity"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/datasources:0.7.0",
+        "digest": "sha256:f356e305958480480b99fa9bcfdaad1fed96c3a6bc0fd2d8970c08907e047ad1"
       }
     },
     "latest": "0.2.1"
@@ -4046,6 +4059,23 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.1",
         "digest": "sha256:c14e5298b6cad00d4734857c669c39bd707d598425c4673ff61201ccbd0affc4"
+      }
+    }
+  },
+  "reference-data": {
+    "id": "reference-data",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.0.0": {
+        "capabilities": {
+          "flowSteps": [
+            "find_entity",
+            "create_entity",
+            "notify"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/reference-data:1.0.0",
+        "digest": "sha256:f8daf2179322b80b696b82ead9c03b08e536f4a969d4020b7cbd32e040f28f60"
       }
     }
   },
