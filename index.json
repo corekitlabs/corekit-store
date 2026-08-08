@@ -1165,6 +1165,20 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/core:1.5.2",
         "digest": "sha256:4ce9c0e31ada4f993bf67fc61a08335686d940fc5437a71836f14dbcb72db152"
+      },
+      "1.5.3": {
+        "capabilities": {
+          "workerSkills": [
+            "yaml-analytics",
+            "yaml-entity",
+            "yaml-flow",
+            "yaml-form",
+            "yaml-options",
+            "yaml-view"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/core:1.5.3",
+        "digest": "sha256:5cd39c2b400cb3b83dec69a6e1b65317c92cde1efb579a2c898fc93fd7c76908"
       }
     }
   },
@@ -2715,6 +2729,24 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.5.0",
         "digest": "sha256:f145f3cfb858e198c03c1d892f92ef57b2480231271d2e61fa1fb3ee77a47b7a"
+      },
+      "1.6.0": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "keycloak_create_user",
+            "notify",
+            "submit_user_input",
+            "tenant_import",
+            "transform",
+            "update_entity",
+            "user_input"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.6.0",
+        "digest": "sha256:dc512a02c9e963eafc058be65edb1cc8d0c5c03386c99341c84ace93cfe411a1"
       }
     }
   },
