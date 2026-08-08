@@ -1139,6 +1139,32 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/core:1.5.1",
         "digest": "sha256:02bfe0ed419267359db02dce1f483a39a411942e1902b0681a3b165823ca0716"
+      },
+      "1.5.2": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity",
+            "find_entity",
+            "for",
+            "keycloak_create_user",
+            "notify",
+            "submit_user_input",
+            "tenant_import",
+            "transform",
+            "update_entity",
+            "user_input"
+          ],
+          "workerSkills": [
+            "yaml-analytics",
+            "yaml-entity",
+            "yaml-flow",
+            "yaml-form",
+            "yaml-options",
+            "yaml-view"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/core:1.5.2",
+        "digest": "sha256:4ce9c0e31ada4f993bf67fc61a08335686d940fc5437a71836f14dbcb72db152"
       }
     }
   },
