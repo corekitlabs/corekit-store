@@ -185,6 +185,28 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/analytics:0.7.2",
         "digest": "sha256:173a13e5c6c9c61be6bc2aacb4649cd627d9e6de6fcbef19a74ffbe3957c4817"
+      },
+      "0.7.3": {
+        "capabilities": {
+          "flowSteps": [
+            "create_entity"
+          ],
+          "workerWorkflows": [
+            "analytics_query",
+            "analytics_scan",
+            "analytics_convert",
+            "analytics_convert_xlsx",
+            "analytics_publish",
+            "analytics_refresh",
+            "analytics_mirror"
+          ],
+          "workerSkills": [
+            "excel-convert",
+            "analytics-analyst"
+          ]
+        },
+        "oci": "ghcr.io/corekitlabs/modules/analytics:0.7.3",
+        "digest": "sha256:08389ab9a5e180a3508af4bf58175fafcd1a92a215ac3240d5b30a5c6468928e"
       }
     }
   },
@@ -353,6 +375,10 @@
       "1.9.2": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.2",
         "digest": "sha256:fb1d7f35c5426f44ef5547ae60b33f86fbe6bd0f3706032ff86d5f99ea2afb79"
+      },
+      "1.9.3": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.3",
+        "digest": "sha256:da9b93fca0303b2c07f8329a850c0f738ccbb7b9bd2068923396f4dde0ea31b4"
       }
     }
   },
