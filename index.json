@@ -383,6 +383,10 @@
       "1.9.4": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.4",
         "digest": "sha256:6ae3363e969adbd7da984f67d9be4420b5b9a132ffbc07daee7cf0b4664889e2"
+      },
+      "1.9.5": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.5",
+        "digest": "sha256:ae369a70c3faacdcbb7dd4ddb6caffa0201cc2f562f555de83de9a06be8c6d35"
       }
     }
   },
@@ -4625,6 +4629,10 @@
       "1.8.3": {
         "oci": "ghcr.io/corekitlabs/modules/rental:1.8.3",
         "digest": "sha256:9bcdafa35b735ac8f671fb652eaff08c4c5416c32788322c06b97f3474e6e49e"
+      },
+      "1.8.4": {
+        "oci": "ghcr.io/corekitlabs/modules/rental:1.8.4",
+        "digest": "sha256:c5e9b3ac041ce66a830ba58359691ab7993a5f3902a8f79fca34f17be2ebcd43"
       }
     }
   },
