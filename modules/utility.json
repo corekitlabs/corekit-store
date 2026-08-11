@@ -117,7 +117,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/utility:1.1.4",
-      "digest": "sha256:b515c87485c5a5f5a6a6071d874f529ff1fc75621168117ff61da56f6d29d0c4\"^[[0m"
+      "digest": "sha256:b515c87485c5a5f5a6a6071d874f529ff1fc75621168117ff61da56f6d29d0c4"
     }
   }
 }

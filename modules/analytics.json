@@ -183,7 +183,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/analytics:0.7.2",
-      "digest": "sha256:173a13e5c6c9c61be6bc2aacb4649cd627d9e6de6fcbef19a74ffbe3957c4817\"^[[0m"
+      "digest": "sha256:173a13e5c6c9c61be6bc2aacb4649cd627d9e6de6fcbef19a74ffbe3957c4817"
     }
   }
 }

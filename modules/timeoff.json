@@ -54,7 +54,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/timeoff:1.1.2",
-      "digest": "sha256:b67cc88071418d9493981a46699da33f0c0916797f3ee125a58b24e434f32b14\"^[[0m"
+      "digest": "sha256:b67cc88071418d9493981a46699da33f0c0916797f3ee125a58b24e434f32b14"
     }
   }
 }

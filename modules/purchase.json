@@ -75,7 +75,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.2",
-      "digest": "sha256:6ca1904e0a2b183701306b33639d4c5cb5e6a69175b8b5ad1870cc37b81ddfad\"^[[0m"
+      "digest": "sha256:6ca1904e0a2b183701306b33639d4c5cb5e6a69175b8b5ad1870cc37b81ddfad"
     }
   }
 }

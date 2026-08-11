@@ -120,7 +120,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.3.4",
-      "digest": "sha256:b61cf6598bbef75536d0d8f06d17267a1c52d205276d48666dbbc8880cd7bbbb\"^[[0m"
+      "digest": "sha256:b61cf6598bbef75536d0d8f06d17267a1c52d205276d48666dbbc8880cd7bbbb"
     }
   }
 }

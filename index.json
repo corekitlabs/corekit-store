@@ -184,7 +184,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/analytics:0.7.2",
-        "digest": "sha256:173a13e5c6c9c61be6bc2aacb4649cd627d9e6de6fcbef19a74ffbe3957c4817\"^[[0m"
+        "digest": "sha256:173a13e5c6c9c61be6bc2aacb4649cd627d9e6de6fcbef19a74ffbe3957c4817"
       }
     }
   },
@@ -352,7 +352,7 @@
       },
       "1.9.2": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.2",
-        "digest": "sha256:fb1d7f35c5426f44ef5547ae60b33f86fbe6bd0f3706032ff86d5f99ea2afb79\"^[[0m"
+        "digest": "sha256:fb1d7f35c5426f44ef5547ae60b33f86fbe6bd0f3706032ff86d5f99ea2afb79"
       }
     }
   },
@@ -435,7 +435,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.2",
-        "digest": "sha256:ad0ba5472f8317eac70b36476ee2304482b7c5af067891f100ee5d0c3009d592\"^[[0m"
+        "digest": "sha256:ad0ba5472f8317eac70b36476ee2304482b7c5af067891f100ee5d0c3009d592"
       }
     }
   },
@@ -491,7 +491,7 @@
       },
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/catalog:1.1.3",
-        "digest": "sha256:2c8d60024bd40158060d20b64b9197effaa30174a3167e9547317a2ea09ea1bd\"^[[0m"
+        "digest": "sha256:2c8d60024bd40158060d20b64b9197effaa30174a3167e9547317a2ea09ea1bd"
       }
     }
   },
@@ -545,7 +545,7 @@
       },
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.3",
-        "digest": "sha256:490d06dd72b9722d1492523bc4946e7271552a2cf10b5f941b8c451eab8ed8af\"^[[0m"
+        "digest": "sha256:490d06dd72b9722d1492523bc4946e7271552a2cf10b5f941b8c451eab8ed8af"
       }
     }
   },
@@ -604,7 +604,7 @@
       },
       "1.3.1": {
         "oci": "ghcr.io/corekitlabs/modules/contacts:1.3.1",
-        "digest": "sha256:dc8fbd55304f6f13161e865692596135d89dcba5bf2dba81d43ad04f0c0d86df\"^[[0m"
+        "digest": "sha256:dc8fbd55304f6f13161e865692596135d89dcba5bf2dba81d43ad04f0c0d86df"
       }
     }
   },
@@ -1260,7 +1260,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/core:1.5.5",
-        "digest": "sha256:ab5ee78a01b59e2d7d846ef83a714a579c6f3e3aefb6360832c99abae5b1ac5a\"^[[0m"
+        "digest": "sha256:ab5ee78a01b59e2d7d846ef83a714a579c6f3e3aefb6360832c99abae5b1ac5a"
       }
     }
   },
@@ -1722,7 +1722,7 @@
       },
       "1.4.6": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.6",
-        "digest": "sha256:cd600ecb3373a27051ceea2c7212a6e40f4bb35f33bdfaaac33ba541db6ff62e\"^[[0m"
+        "digest": "sha256:cd600ecb3373a27051ceea2c7212a6e40f4bb35f33bdfaaac33ba541db6ff62e"
       }
     }
   },
@@ -1825,7 +1825,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/customer:1.2.2",
-        "digest": "sha256:ee24684f9036563ac9b43f24f54d60b7d1fc152b6ee124389e8cdb1775ce0c01\"^[[0m"
+        "digest": "sha256:ee24684f9036563ac9b43f24f54d60b7d1fc152b6ee124389e8cdb1775ce0c01"
       }
     }
   },
@@ -1995,7 +1995,7 @@
       },
       "1.6.3": {
         "oci": "ghcr.io/corekitlabs/modules/dam:1.6.3",
-        "digest": "sha256:943003a0e383cff3418cba2d90a1b6162befbf16afc5fe053ea1737fbcbb8659\"^[[0m"
+        "digest": "sha256:943003a0e383cff3418cba2d90a1b6162befbf16afc5fe053ea1737fbcbb8659"
       }
     }
   },
@@ -2094,7 +2094,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/datasources:0.7.1",
-        "digest": "sha256:9557e7e7b4ff94637de4a2c1bf809cf9578189a01c7457297b1d441b6f157e06\"^[[0m"
+        "digest": "sha256:9557e7e7b4ff94637de4a2c1bf809cf9578189a01c7457297b1d441b6f157e06"
       }
     },
     "latest": "0.2.1"
@@ -2217,7 +2217,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/docs-default:1.2.1",
-        "digest": "sha256:3ab4ccfea4d53c045aa6ca4691807440c0de2247432ecf0ec5cc0de62ce68ca0\"^[[0m"
+        "digest": "sha256:3ab4ccfea4d53c045aa6ca4691807440c0de2247432ecf0ec5cc0de62ce68ca0"
       }
     }
   },
@@ -2269,7 +2269,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/docs:1.2.1",
-        "digest": "sha256:fc14abe4fede61c5358ab9a681d243207a4d7cb79f1523d18b4ab81abc706629\"^[[0m"
+        "digest": "sha256:fc14abe4fede61c5358ab9a681d243207a4d7cb79f1523d18b4ab81abc706629"
       }
     }
   },
@@ -2324,7 +2324,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/employee:1.3.2",
-        "digest": "sha256:aa2a96b74418a9c1090368471aaab7ce312bde21c33268b5eb9a5178f33faa06\"^[[0m"
+        "digest": "sha256:aa2a96b74418a9c1090368471aaab7ce312bde21c33268b5eb9a5178f33faa06"
       }
     }
   },
@@ -2436,7 +2436,7 @@
       },
       "1.8.2": {
         "oci": "ghcr.io/corekitlabs/modules/events:1.8.2",
-        "digest": "sha256:52e14ba19fff3ce71659f3934e4713f9900d7589405a513383b48826cec93d71\"^[[0m"
+        "digest": "sha256:52e14ba19fff3ce71659f3934e4713f9900d7589405a513383b48826cec93d71"
       }
     }
   },
@@ -2500,7 +2500,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.6",
-        "digest": "sha256:bd6e1470ca44605be500b55db4285dcecc90395d79bff02c9f9983e4971087a1\"^[[0m"
+        "digest": "sha256:bd6e1470ca44605be500b55db4285dcecc90395d79bff02c9f9983e4971087a1"
       }
     }
   },
@@ -2682,7 +2682,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.3.4",
-        "digest": "sha256:b61cf6598bbef75536d0d8f06d17267a1c52d205276d48666dbbc8880cd7bbbb\"^[[0m"
+        "digest": "sha256:b61cf6598bbef75536d0d8f06d17267a1c52d205276d48666dbbc8880cd7bbbb"
       }
     }
   },
@@ -2856,7 +2856,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.8",
-        "digest": "sha256:5c1241f244d7c3c55c82cd1c77ee5ef9c19896b0769afe215d374233e98ee7fd\"^[[0m"
+        "digest": "sha256:5c1241f244d7c3c55c82cd1c77ee5ef9c19896b0769afe215d374233e98ee7fd"
       }
     }
   },
@@ -2974,7 +2974,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/flow:1.6.2",
-        "digest": "sha256:f40bf742505e050d0f320c949ac0e2e845d0ad7beffba5f6fe909aeed914bac7\"^[[0m"
+        "digest": "sha256:f40bf742505e050d0f320c949ac0e2e845d0ad7beffba5f6fe909aeed914bac7"
       }
     }
   },
@@ -3182,7 +3182,7 @@
       },
       "1.4.2": {
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.2",
-        "digest": "sha256:029917bf5073b28e37a8471e37b5db584b958a7300e82d00a61ac4bfee79b359\"^[[0m"
+        "digest": "sha256:029917bf5073b28e37a8471e37b5db584b958a7300e82d00a61ac4bfee79b359"
       }
     }
   },
@@ -3240,7 +3240,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/hr:1.1.2",
-        "digest": "sha256:b5f90820fc224dc948e80b4084b040775d0b501e3d4697d25c833f35320eff6b\"^[[0m"
+        "digest": "sha256:b5f90820fc224dc948e80b4084b040775d0b501e3d4697d25c833f35320eff6b"
       }
     }
   },
@@ -3614,7 +3614,7 @@
       },
       "1.13.3": {
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.13.3",
-        "digest": "sha256:1c34cee337040a2681deb90a12643f42cceecf922538d81d0bb84d8820bd4839\"^[[0m"
+        "digest": "sha256:1c34cee337040a2681deb90a12643f42cceecf922538d81d0bb84d8820bd4839"
       }
     }
   },
@@ -3675,7 +3675,7 @@
       },
       "1.2.2": {
         "oci": "ghcr.io/corekitlabs/modules/inventory:1.2.2",
-        "digest": "sha256:1c26a7cc257940925707866138fd060c6b035b78806c790fc8e9d9b4e8071894\"^[[0m"
+        "digest": "sha256:1c26a7cc257940925707866138fd060c6b035b78806c790fc8e9d9b4e8071894"
       }
     }
   },
@@ -3765,7 +3765,7 @@
       },
       "1.2.1": {
         "oci": "ghcr.io/corekitlabs/modules/invoicing:1.2.1",
-        "digest": "sha256:6d576e28b1a7c83f67abf0001352df28e6d5ee6d5efa34b4a1ebd7ec69eb3ca1\"^[[0m"
+        "digest": "sha256:6d576e28b1a7c83f67abf0001352df28e6d5ee6d5efa34b4a1ebd7ec69eb3ca1"
       }
     }
   },
@@ -3876,7 +3876,7 @@
       },
       "1.4.2": {
         "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.2",
-        "digest": "sha256:394a3d974a35665621049cb27ff9cde53c1f7a3ed6bc9be42991fd1786be2a09\"^[[0m"
+        "digest": "sha256:394a3d974a35665621049cb27ff9cde53c1f7a3ed6bc9be42991fd1786be2a09"
       }
     }
   },
@@ -3898,7 +3898,7 @@
       },
       "1.0.3": {
         "oci": "ghcr.io/corekitlabs/modules/locations:1.0.3",
-        "digest": "sha256:78a0e7f2bbed520873f9c7af1fc523434d2794b58dbfa47a57fa2a71f0b4c965\"^[[0m"
+        "digest": "sha256:78a0e7f2bbed520873f9c7af1fc523434d2794b58dbfa47a57fa2a71f0b4c965"
       }
     }
   },
@@ -4012,7 +4012,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/logistics:1.3.1",
-        "digest": "sha256:7b149715c7de5f6b98be8df6df9321a06ae69efad880aed02182de01e421deae\"^[[0m"
+        "digest": "sha256:7b149715c7de5f6b98be8df6df9321a06ae69efad880aed02182de01e421deae"
       }
     }
   },
@@ -4039,7 +4039,7 @@
       },
       "1.0.4": {
         "oci": "ghcr.io/corekitlabs/modules/mail:1.0.4",
-        "digest": "sha256:1bba03395c9a2d988e0cb39d715dd810f1477aa6ff73a5e0d266cab91d8a6dc5\"^[[0m"
+        "digest": "sha256:1bba03395c9a2d988e0cb39d715dd810f1477aa6ff73a5e0d266cab91d8a6dc5"
       }
     }
   },
@@ -4128,7 +4128,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/maintenance:1.1.2",
-        "digest": "sha256:bb5eaab3cc3bd05e2154abea319cb22023d32a80bba5f6a5a40f3b5468b20e4e\"^[[0m"
+        "digest": "sha256:bb5eaab3cc3bd05e2154abea319cb22023d32a80bba5f6a5a40f3b5468b20e4e"
       }
     }
   },
@@ -4245,7 +4245,7 @@
       },
       "1.1.5": {
         "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.5",
-        "digest": "sha256:5f9b0d3a972b1f53b1a94d5036b90da7b8b84c1a0d5a0037d487eea21833f738\"^[[0m"
+        "digest": "sha256:5f9b0d3a972b1f53b1a94d5036b90da7b8b84c1a0d5a0037d487eea21833f738"
       }
     }
   },
@@ -4315,7 +4315,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/planning:1.1.2",
-        "digest": "sha256:26513024d41602f9eeb1d7ef213cfdb4621d400e4d1d75b06783ff133f57c901\"^[[0m"
+        "digest": "sha256:26513024d41602f9eeb1d7ef213cfdb4621d400e4d1d75b06783ff133f57c901"
       }
     }
   },
@@ -4444,7 +4444,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.2",
-        "digest": "sha256:6ca1904e0a2b183701306b33639d4c5cb5e6a69175b8b5ad1870cc37b81ddfad\"^[[0m"
+        "digest": "sha256:6ca1904e0a2b183701306b33639d4c5cb5e6a69175b8b5ad1870cc37b81ddfad"
       }
     }
   },
@@ -4590,7 +4590,7 @@
       },
       "1.8.2": {
         "oci": "ghcr.io/corekitlabs/modules/rental:1.8.2",
-        "digest": "sha256:4d6cc3122bb98f980fb30ccad8442004f015614917fecee53b247c1c7c8251bc\"^[[0m"
+        "digest": "sha256:4d6cc3122bb98f980fb30ccad8442004f015614917fecee53b247c1c7c8251bc"
       }
     }
   },
@@ -4736,7 +4736,7 @@
       },
       "1.3.2": {
         "oci": "ghcr.io/corekitlabs/modules/sales:1.3.2",
-        "digest": "sha256:18db442ed579239e75e3364a847cdce5ac53682e126591a6b5fd20e278b89fa0\"^[[0m"
+        "digest": "sha256:18db442ed579239e75e3364a847cdce5ac53682e126591a6b5fd20e278b89fa0"
       }
     }
   },
@@ -5115,7 +5115,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/stock:2.4.1",
-        "digest": "sha256:a939fc2ba6aa55020554ed225212b146a8b5d944d7cc62074f931128204e3c67\"^[[0m"
+        "digest": "sha256:a939fc2ba6aa55020554ed225212b146a8b5d944d7cc62074f931128204e3c67"
       }
     }
   },
@@ -5176,7 +5176,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.3",
-        "digest": "sha256:a71215caf018e0eaf5c895a7e18a1cd71a3846fd9395d10042d0b2eb565999b2\"^[[0m"
+        "digest": "sha256:a71215caf018e0eaf5c895a7e18a1cd71a3846fd9395d10042d0b2eb565999b2"
       }
     }
   },
@@ -5202,7 +5202,7 @@
       },
       "1.0.4": {
         "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.4",
-        "digest": "sha256:1245abf56d7f5c0cbc13d7b31fca8213781ec953fc913b1b04dbfdc77aba3aea\"^[[0m"
+        "digest": "sha256:1245abf56d7f5c0cbc13d7b31fca8213781ec953fc913b1b04dbfdc77aba3aea"
       }
     }
   },
@@ -5344,7 +5344,7 @@
       },
       "1.5.5": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.5",
-        "digest": "sha256:3f37065d625940ba634a65cb023b5646a46bac3eddf55d1998375d2200ec4a51\"^[[0m"
+        "digest": "sha256:3f37065d625940ba634a65cb023b5646a46bac3eddf55d1998375d2200ec4a51"
       }
     }
   },
@@ -5404,7 +5404,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/timeoff:1.1.2",
-        "digest": "sha256:b67cc88071418d9493981a46699da33f0c0916797f3ee125a58b24e434f32b14\"^[[0m"
+        "digest": "sha256:b67cc88071418d9493981a46699da33f0c0916797f3ee125a58b24e434f32b14"
       }
     }
   },
@@ -5474,7 +5474,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.2",
-        "digest": "sha256:3f4f7a5eccd68f68931f5b0c3a278acc87ee826c6d0a9d9fca6210e31f810205\"^[[0m"
+        "digest": "sha256:3f4f7a5eccd68f68931f5b0c3a278acc87ee826c6d0a9d9fca6210e31f810205"
       }
     }
   },
@@ -5597,7 +5597,7 @@
           ]
         },
         "oci": "ghcr.io/corekitlabs/modules/utility:1.1.4",
-        "digest": "sha256:b515c87485c5a5f5a6a6071d874f529ff1fc75621168117ff61da56f6d29d0c4\"^[[0m"
+        "digest": "sha256:b515c87485c5a5f5a6a6071d874f529ff1fc75621168117ff61da56f6d29d0c4"
       }
     }
   }

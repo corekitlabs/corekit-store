@@ -136,7 +136,7 @@
     },
     "1.5.5": {
       "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.5",
-      "digest": "sha256:3f37065d625940ba634a65cb023b5646a46bac3eddf55d1998375d2200ec4a51\"^[[0m"
+      "digest": "sha256:3f37065d625940ba634a65cb023b5646a46bac3eddf55d1998375d2200ec4a51"
     }
   }
 }

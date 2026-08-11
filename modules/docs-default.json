@@ -37,7 +37,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/docs-default:1.2.1",
-      "digest": "sha256:3ab4ccfea4d53c045aa6ca4691807440c0de2247432ecf0ec5cc0de62ce68ca0\"^[[0m"
+      "digest": "sha256:3ab4ccfea4d53c045aa6ca4691807440c0de2247432ecf0ec5cc0de62ce68ca0"
     }
   }
 }

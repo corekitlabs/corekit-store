@@ -106,7 +106,7 @@
     },
     "1.8.2": {
       "oci": "ghcr.io/corekitlabs/modules/events:1.8.2",
-      "digest": "sha256:52e14ba19fff3ce71659f3934e4713f9900d7589405a513383b48826cec93d71\"^[[0m"
+      "digest": "sha256:52e14ba19fff3ce71659f3934e4713f9900d7589405a513383b48826cec93d71"
     }
   }
 }

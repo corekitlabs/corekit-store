@@ -84,7 +84,7 @@
     },
     "1.2.1": {
       "oci": "ghcr.io/corekitlabs/modules/invoicing:1.2.1",
-      "digest": "sha256:6d576e28b1a7c83f67abf0001352df28e6d5ee6d5efa34b4a1ebd7ec69eb3ca1\"^[[0m"
+      "digest": "sha256:6d576e28b1a7c83f67abf0001352df28e6d5ee6d5efa34b4a1ebd7ec69eb3ca1"
     }
   }
 }

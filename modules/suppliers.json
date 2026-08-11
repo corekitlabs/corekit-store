@@ -20,7 +20,7 @@
     },
     "1.0.4": {
       "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.4",
-      "digest": "sha256:1245abf56d7f5c0cbc13d7b31fca8213781ec953fc913b1b04dbfdc77aba3aea\"^[[0m"
+      "digest": "sha256:1245abf56d7f5c0cbc13d7b31fca8213781ec953fc913b1b04dbfdc77aba3aea"
     }
   }
 }

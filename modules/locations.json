@@ -16,7 +16,7 @@
     },
     "1.0.3": {
       "oci": "ghcr.io/corekitlabs/modules/locations:1.0.3",
-      "digest": "sha256:78a0e7f2bbed520873f9c7af1fc523434d2794b58dbfa47a57fa2a71f0b4c965\"^[[0m"
+      "digest": "sha256:78a0e7f2bbed520873f9c7af1fc523434d2794b58dbfa47a57fa2a71f0b4c965"
     }
   }
 }

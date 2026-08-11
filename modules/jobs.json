@@ -105,7 +105,7 @@
     },
     "1.4.2": {
       "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.2",
-      "digest": "sha256:394a3d974a35665621049cb27ff9cde53c1f7a3ed6bc9be42991fd1786be2a09\"^[[0m"
+      "digest": "sha256:394a3d974a35665621049cb27ff9cde53c1f7a3ed6bc9be42991fd1786be2a09"
     }
   }
 }

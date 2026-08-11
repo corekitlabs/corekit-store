@@ -112,7 +112,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/flow:1.6.2",
-      "digest": "sha256:f40bf742505e050d0f320c949ac0e2e845d0ad7beffba5f6fe909aeed914bac7\"^[[0m"
+      "digest": "sha256:f40bf742505e050d0f320c949ac0e2e845d0ad7beffba5f6fe909aeed914bac7"
     }
   }
 }

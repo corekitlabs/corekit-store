@@ -130,7 +130,7 @@
     },
     "1.4.6": {
       "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.6",
-      "digest": "sha256:cd600ecb3373a27051ceea2c7212a6e40f4bb35f33bdfaaac33ba541db6ff62e\"^[[0m"
+      "digest": "sha256:cd600ecb3373a27051ceea2c7212a6e40f4bb35f33bdfaaac33ba541db6ff62e"
     }
   }
 }

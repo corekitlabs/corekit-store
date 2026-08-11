@@ -99,7 +99,7 @@
         ]
       },
       "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.8",
-      "digest": "sha256:5c1241f244d7c3c55c82cd1c77ee5ef9c19896b0769afe215d374233e98ee7fd\"^[[0m"
+      "digest": "sha256:5c1241f244d7c3c55c82cd1c77ee5ef9c19896b0769afe215d374233e98ee7fd"
     }
   }
 }
