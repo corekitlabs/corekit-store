@@ -175,6 +175,10 @@
     "1.9.5": {
       "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.5",
       "digest": "sha256:ae369a70c3faacdcbb7dd4ddb6caffa0201cc2f562f555de83de9a06be8c6d35"
+    },
+    "1.9.6": {
+      "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.6",
+      "digest": "sha256:40da10d89f96dc8d52527b483089eb5108603c03b6efef14f2e71b7273469eb4"
     }
   }
 }
