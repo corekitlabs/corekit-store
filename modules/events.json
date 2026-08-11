@@ -103,6 +103,10 @@
     "1.8.1": {
       "oci": "ghcr.io/corekitlabs/modules/events:1.8.1",
       "digest": "sha256:5d2aaf76c0f1fe243ac142748e8e66e136218619822a197c306698b277d59194"
+    },
+    "1.8.2": {
+      "oci": "ghcr.io/corekitlabs/modules/events:1.8.2",
+      "digest": "sha256:52e14ba19fff3ce71659f3934e4713f9900d7589405a513383b48826cec93d71\"^[[0m"
     }
   }
 }

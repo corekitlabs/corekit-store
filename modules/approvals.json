@@ -62,6 +62,22 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.1",
       "digest": "sha256:90e335f04b498800711b35df72498a56cf5b9e53bb516080d9468f0a29a9a954"
+    },
+    "1.2.2": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "notify",
+          "script",
+          "update_entity",
+          "user_input"
+        ],
+        "scripts": [
+          "resolve-approval-stages"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.2",
+      "digest": "sha256:ad0ba5472f8317eac70b36476ee2304482b7c5af067891f100ee5d0c3009d592\"^[[0m"
     }
   }
 }

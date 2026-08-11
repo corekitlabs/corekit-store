@@ -53,6 +53,18 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.1",
       "digest": "sha256:80ca18f4c6b50cee43717ef1f53fdfee184efa3604582affdd2bff24a82c17af"
+    },
+    "1.1.2": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "find_entity",
+          "for",
+          "notify"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.2",
+      "digest": "sha256:3f4f7a5eccd68f68931f5b0c3a278acc87ee826c6d0a9d9fca6210e31f810205\"^[[0m"
     }
   }
 }

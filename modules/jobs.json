@@ -102,6 +102,10 @@
     "1.4.1": {
       "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.1",
       "digest": "sha256:3edd675dd332b8109861733126cf718cd9c93e81c49a623c407071a7244cb8fd"
+    },
+    "1.4.2": {
+      "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.2",
+      "digest": "sha256:394a3d974a35665621049cb27ff9cde53c1f7a3ed6bc9be42991fd1786be2a09\"^[[0m"
     }
   }
 }

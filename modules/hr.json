@@ -41,6 +41,18 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/hr:1.1.1",
       "digest": "sha256:9795485f9c64e451ba9bf7aac48f233055e4d094d7fc65dc4917e37427fcf128"
+    },
+    "1.1.2": {
+      "capabilities": {
+        "flowSteps": [
+          "dam_upload",
+          "document_generate",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/hr:1.1.2",
+      "digest": "sha256:b5f90820fc224dc948e80b4084b040775d0b501e3d4697d25c833f35320eff6b\"^[[0m"
     }
   }
 }

@@ -59,6 +59,19 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/datasources:0.7.0",
       "digest": "sha256:f356e305958480480b99fa9bcfdaad1fed96c3a6bc0fd2d8970c08907e047ad1"
+    },
+    "0.7.1": {
+      "capabilities": {
+        "flowSteps": [
+          "source_sync",
+          "notify",
+          "find_entity",
+          "for",
+          "create_entity"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/datasources:0.7.1",
+      "digest": "sha256:9557e7e7b4ff94637de4a2c1bf809cf9578189a01c7457297b1d441b6f157e06\"^[[0m"
     }
   },
   "latest": "0.2.1"

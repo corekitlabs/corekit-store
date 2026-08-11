@@ -120,6 +120,10 @@
     "1.8.1": {
       "oci": "ghcr.io/corekitlabs/modules/rental:1.8.1",
       "digest": "sha256:adab58e1947097dbd9acf9de07c16be8f4ddb43c1ec2b90b3e85b31771aa12e7"
+    },
+    "1.8.2": {
+      "oci": "ghcr.io/corekitlabs/modules/rental:1.8.2",
+      "digest": "sha256:4d6cc3122bb98f980fb30ccad8442004f015614917fecee53b247c1c7c8251bc\"^[[0m"
     }
   }
 }

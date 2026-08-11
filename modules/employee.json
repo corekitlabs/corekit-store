@@ -39,6 +39,17 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/employee:1.3.1",
       "digest": "sha256:bdc25d76291e64d310ffe957a4cc662da557020d5235a6f5f43abd12027dd301"
+    },
+    "1.3.2": {
+      "capabilities": {
+        "flowSteps": [
+          "find_entity",
+          "for",
+          "geocode"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/employee:1.3.2",
+      "digest": "sha256:aa2a96b74418a9c1090368471aaab7ce312bde21c33268b5eb9a5178f33faa06\"^[[0m"
     }
   }
 }

@@ -161,6 +161,10 @@
     "1.6.2": {
       "oci": "ghcr.io/corekitlabs/modules/dam:1.6.2",
       "digest": "sha256:94259dfb2b666b052eb39cf8fa471d03f446010cdbe3bbad73ccc586d8a4748c"
+    },
+    "1.6.3": {
+      "oci": "ghcr.io/corekitlabs/modules/dam:1.6.3",
+      "digest": "sha256:943003a0e383cff3418cba2d90a1b6162befbf16afc5fe053ea1737fbcbb8659\"^[[0m"
     }
   }
 }

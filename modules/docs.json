@@ -33,6 +33,20 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/docs:1.2.0",
       "digest": "sha256:4a13de833c67e5adc2f9444cbbe1ede7ec456b24524896df973c8cd0f1bcdcc1"
+    },
+    "1.2.1": {
+      "capabilities": {
+        "flowSteps": [
+          "create_entity",
+          "dam_upload",
+          "document_generate",
+          "find_entity",
+          "notify",
+          "user_input"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/docs:1.2.1",
+      "digest": "sha256:fc14abe4fede61c5358ab9a681d243207a4d7cb79f1523d18b4ab81abc706629\"^[[0m"
     }
   }
 }
