@@ -391,6 +391,10 @@
       "1.9.6": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.6",
         "digest": "sha256:40da10d89f96dc8d52527b483089eb5108603c03b6efef14f2e71b7273469eb4"
+      },
+      "1.9.7": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.7",
+        "digest": "sha256:359caee3be42f49514c97e49487a47e6495d17cbf5ebceca55240de98f310f0f"
       }
     }
   },
@@ -4641,6 +4645,10 @@
       "1.8.5": {
         "oci": "ghcr.io/corekitlabs/modules/rental:1.8.5",
         "digest": "sha256:1ec62c16f05f3766a2206deb19e13d1ed28b6e80b702c95641bb4c904077fd80"
+      },
+      "1.8.6": {
+        "oci": "ghcr.io/corekitlabs/modules/rental:1.8.6",
+        "digest": "sha256:7cc62cf287c0813dc56fc1f211689d6a92647f70c17516004b72840dc24afafc"
       }
     }
   },
