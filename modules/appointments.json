@@ -167,6 +167,10 @@
     "1.9.3": {
       "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.3",
       "digest": "sha256:da9b93fca0303b2c07f8329a850c0f738ccbb7b9bd2068923396f4dde0ea31b4"
+    },
+    "1.9.4": {
+      "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.4",
+      "digest": "sha256:6ae3363e969adbd7da984f67d9be4420b5b9a132ffbc07daee7cf0b4664889e2"
     }
   }
 }
