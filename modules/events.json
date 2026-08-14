@@ -107,6 +107,11 @@
     "1.8.2": {
       "oci": "ghcr.io/corekitlabs/modules/events:1.8.2",
       "digest": "sha256:52e14ba19fff3ce71659f3934e4713f9900d7589405a513383b48826cec93d71"
+    },
+    "1.8.3": {
+      "oci": "ghcr.io/corekitlabs/modules/events:1.8.3",
+      "digest": "sha256:86d8b9185f12c7d319f0b280380c6479bf9accdf6cc4633e595346ba5a81f472"
     }
-  }
+  },
+  "latest": "1.8.3"
 }
