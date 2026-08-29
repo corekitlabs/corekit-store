@@ -1349,6 +1349,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/core:1.5.8",
         "digest": "sha256:ad2b7217aac3e693f8a0dfd0a96949392156d768b258eb22e9ae01cd4d486f79"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.6.0",
+        "digest": "sha256:20fa8c6cd4f16030d9cf055579d7a4dab44dea3c8a5e99dbcbfe3aa7322a66df"
       }
     }
   },
@@ -1919,6 +1923,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/customer:1.2.2",
         "digest": "sha256:ee24684f9036563ac9b43f24f54d60b7d1fc152b6ee124389e8cdb1775ce0c01"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/customer:1.3.0",
+        "digest": "sha256:245500dfb9173abbe0170e82799257f68e58ffd1984b91de26a9fd3e79132c4a"
       }
     }
   },
@@ -2448,6 +2456,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/employee:1.3.2",
         "digest": "sha256:aa2a96b74418a9c1090368471aaab7ce312bde21c33268b5eb9a5178f33faa06"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/employee:1.4.0",
+        "digest": "sha256:aa22b75b359b8e9523a6f61588483b3ceceb46dbbb18862d5933f2857e98850c"
       }
     }
   },
@@ -4045,6 +4057,10 @@
       "1.0.3": {
         "oci": "ghcr.io/corekitlabs/modules/locations:1.0.3",
         "digest": "sha256:78a0e7f2bbed520873f9c7af1fc523434d2794b58dbfa47a57fa2a71f0b4c965"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/locations:1.1.0",
+        "digest": "sha256:f6bd2626e49dd7dc9acbeba69bfb2f2f0c3923d52fbb48a49b9d57612670098c"
       }
     }
   },
@@ -5773,6 +5789,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/utility:1.1.4",
         "digest": "sha256:b515c87485c5a5f5a6a6071d874f529ff1fc75621168117ff61da56f6d29d0c4"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/utility:1.2.0",
+        "digest": "sha256:6d79c025079bdee293d6d2b181786e170fea6004c13ba12c13c9acf9cd674ae5"
       }
     }
   }
