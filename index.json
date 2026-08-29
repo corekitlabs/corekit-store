@@ -1446,6 +1446,11 @@
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.3",
         "digest": "sha256:55426521361722f0b3f41618162023e7469d0e5e5a7f93730070bee1f7e3241b"
+      },
+      "1.1.4": {
+        "capabilities": null,
+        "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.4",
+        "digest": "sha256:604792b8656c882ed5b98182b2deca5f67c447f492153db1e0c5e9ba583c9df4"
       }
     }
   },
@@ -1505,6 +1510,11 @@
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.3",
         "digest": "sha256:a2c7b3d644effc8cf5591c6c8dfaad0869f957398ebe7f613fa14aa66804a294"
+      },
+      "1.1.4": {
+        "capabilities": null,
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.4",
+        "digest": "sha256:ebd44956c036dee83770f85247ec13cddd17c92ef2f6aa14746b615e3f0b1ca0"
       }
     }
   },
@@ -1607,6 +1617,11 @@
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.3",
         "digest": "sha256:d3e78fe11754b8386ad4355107ef96f5c59c75cecf84cf821df559c86be52cdc"
+      },
+      "1.1.4": {
+        "capabilities": null,
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.4",
+        "digest": "sha256:91b61a0a4d2cf1ae4f827e4a84186d61cc23ff896d0e5d3dac7faeb8244ce604"
       }
     }
   },
@@ -1688,6 +1703,11 @@
       "1.1.2": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.2",
         "digest": "sha256:67d712657ef081c84248964c12e01eca86be9560d413257825c70eba38b287d5"
+      },
+      "1.1.3": {
+        "capabilities": null,
+        "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.3",
+        "digest": "sha256:45e115442139999bf4a24e3079164b8fc553a13d66c3c31713556e5a0b964aef"
       }
     }
   },
