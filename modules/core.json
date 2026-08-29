@@ -642,6 +642,20 @@
       },
       "digest": "sha256:4ae877a625f017f76ea866e1c635447f06f00947fcc6562eedab8c2de079f4f6",
       "oci": "ghcr.io/corekitlabs/modules/core:1.5.6"
+    },
+    "1.5.7": {
+      "capabilities": {
+        "workerSkills": [
+          "yaml-analytics",
+          "yaml-entity",
+          "yaml-flow",
+          "yaml-form",
+          "yaml-options",
+          "yaml-view"
+        ]
+      },
+      "oci": "ghcr.io/corekitlabs/modules/core:1.5.7",
+      "digest": "sha256:322fb18a835262bea9fb200a723f81c777f1fdbd8e0b5aeffe345b6f9f9a1d71"
     }
   }
 }
