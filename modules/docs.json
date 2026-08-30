@@ -47,6 +47,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/docs:1.2.1",
       "digest": "sha256:fc14abe4fede61c5358ab9a681d243207a4d7cb79f1523d18b4ab81abc706629"
+    },
+    "1.2.2": {
+      "oci": "ghcr.io/corekitlabs/modules/docs:1.2.2",
+      "digest": "sha256:bb24e235f541e621de5acc31130a586ef81df7f816e66609db546535c9b52686"
     }
   }
 }

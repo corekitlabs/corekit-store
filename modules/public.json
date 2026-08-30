@@ -33,6 +33,10 @@
     "1.0.3": {
       "oci": "ghcr.io/corekitlabs/modules/public:1.0.3",
       "digest": "sha256:de7da40fbe10b8b740e9e0cfe296be74628adfca3cbd6e90afb8fec63bcfef3b"
+    },
+    "1.0.4": {
+      "oci": "ghcr.io/corekitlabs/modules/public:1.0.4",
+      "digest": "sha256:75ec8e9dc431ef7b1ca62e3c39428b7f4b84cdc5f2f5b2187ba00df1500188a1"
     }
   }
 }
