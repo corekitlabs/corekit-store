@@ -3427,6 +3427,10 @@
       "1.4.2": {
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.2",
         "digest": "sha256:029917bf5073b28e37a8471e37b5db584b958a7300e82d00a61ac4bfee79b359"
+      },
+      "1.4.3": {
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.3",
+        "digest": "sha256:05f8235b8ddfea6a17a6f26cb984cf9b08bb9bd4dc70a9da965de422de3f7d22"
       }
     }
   },
@@ -5662,6 +5666,10 @@
       "1.5.5": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.5",
         "digest": "sha256:3f37065d625940ba634a65cb023b5646a46bac3eddf55d1998375d2200ec4a51"
+      },
+      "1.5.6": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.6",
+        "digest": "sha256:f37a1070e5547ee121019ce374d23762d6ca2a12a618d2fb3e25bfb9bebc9548"
       }
     }
   },
