@@ -2982,6 +2982,10 @@
       "1.1.4": {
         "oci": "ghcr.io/corekitlabs/modules/finance:1.1.4",
         "digest": "sha256:90d4f336301cf1f89fb076ed47d3b214cd411859d051bb6ef61768b0293b2790"
+      },
+      "1.1.5": {
+        "oci": "ghcr.io/corekitlabs/modules/finance:1.1.5",
+        "digest": "sha256:65cd8bd1f571be622e14b79c601968a4e6a48f72966b8022c11846a4ecfa2ae0"
       }
     }
   },
