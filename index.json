@@ -3219,6 +3219,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/flow:1.6.3",
         "digest": "sha256:33237c397363d21c477dbc8ae76526a31d45c1badeacda55e2df834547693ade"
+      },
+      "1.6.4": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.6.4",
+        "digest": "sha256:8eae8892eb4563cd6ce30f59bddd68e08262a7957b513ee76ce475af1a63ac1b"
       }
     }
   },
@@ -4652,6 +4656,10 @@
       "1.0.4": {
         "oci": "ghcr.io/corekitlabs/modules/public:1.0.4",
         "digest": "sha256:75ec8e9dc431ef7b1ca62e3c39428b7f4b84cdc5f2f5b2187ba00df1500188a1"
+      },
+      "1.0.5": {
+        "oci": "ghcr.io/corekitlabs/modules/public:1.0.5",
+        "digest": "sha256:b03d6fda52067c072196934585e7b5869f77846e816ba04f48e2a8e066d9d711"
       }
     }
   },
