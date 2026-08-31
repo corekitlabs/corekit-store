@@ -5995,6 +5995,10 @@
       "1.2.2": {
         "oci": "ghcr.io/corekitlabs/modules/utility:1.2.2",
         "digest": "sha256:2044ac834b720c26a44bd0f01162b8d56d1d8ce32424d9fa18afdab5595f1d2b"
+      },
+      "1.2.3": {
+        "oci": "ghcr.io/corekitlabs/modules/utility:1.2.3",
+        "digest": "sha256:8460d3b065a000c4bba06575dc5a5fa885bab269827b9a816fe9c3d318a1d0b2"
       }
     }
   }
