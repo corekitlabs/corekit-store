@@ -72,6 +72,10 @@
     "1.1.5": {
       "oci": "ghcr.io/corekitlabs/modules/finance:1.1.5",
       "digest": "sha256:65cd8bd1f571be622e14b79c601968a4e6a48f72966b8022c11846a4ecfa2ae0"
+    },
+    "1.1.6": {
+      "oci": "ghcr.io/corekitlabs/modules/finance:1.1.6",
+      "digest": "sha256:91b9ddaf3fb0d0b542e24460d7778fb275be0f572e3b61664412370c00dc73b8"
     }
   }
 }
