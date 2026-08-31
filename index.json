@@ -399,6 +399,10 @@
       "1.9.8": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.8",
         "digest": "sha256:4647302ff39a343762403f5b6db4da2280911dffd25f10eacc0d0d699838cb5d"
+      },
+      "1.9.9": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.9",
+        "digest": "sha256:7f61c4c426fcfa2c86dea921de725222b85f0d0347bcfdc354ab19f0baad246a"
       }
     }
   },
@@ -656,6 +660,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/contacts:1.3.2",
         "digest": "sha256:187bb0cc46984edad932dac96ecd93441dba5f8ed799606a9b3d81e815daa158"
+      },
+      "1.3.3": {
+        "oci": "ghcr.io/corekitlabs/modules/contacts:1.3.3",
+        "digest": "sha256:4ffa6fac306f57f4bc016cd4e24e02e1cf6fc4cf2b9bf56625c2cdc297dadbdc"
       }
     }
   },
@@ -1378,6 +1386,10 @@
       "1.6.5": {
         "oci": "ghcr.io/corekitlabs/modules/core:1.6.5",
         "digest": "sha256:603dc3e9e5dc569889839a3a5306cea70c3fe25e4f298458a71033a651d6a102"
+      },
+      "1.6.6": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.6.6",
+        "digest": "sha256:3d406f96b86e5c71ec661942ec6f51c1c2861721517a9e4c609a5fa4f120059c"
       }
     }
   },
@@ -1865,6 +1877,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.7",
         "digest": "sha256:2c8669f70fdb7f659a6f9c7bc6059ce344638cfa33a73a857d804de4446ef19e"
+      },
+      "1.4.8": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.8",
+        "digest": "sha256:f2609116b27b6b5383ea604c386c2a6340826c80e753b225a14c344641d5f9eb"
       }
     }
   },
@@ -2368,6 +2384,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/demo:0.11.1",
         "digest": "sha256:aaa41297ddf87c40c06dd920f5270a6fec94bb7c564342092a0bbc2b87f03d2f"
+      },
+      "0.11.2": {
+        "oci": "ghcr.io/corekitlabs/modules/demo:0.11.2",
+        "digest": "sha256:53c61d08340ac45964525ef70b808e2597349c28ed55a8c2ce0b35d64ed8ec09"
       }
     }
   },
@@ -2662,6 +2682,10 @@
       "1.8.3": {
         "oci": "ghcr.io/corekitlabs/modules/events:1.8.3",
         "digest": "sha256:86d8b9185f12c7d319f0b280380c6479bf9accdf6cc4633e595346ba5a81f472"
+      },
+      "1.8.4": {
+        "oci": "ghcr.io/corekitlabs/modules/events:1.8.4",
+        "digest": "sha256:9dee0f736579d8b73bf5927dd1fd5ae36d4b58b43c1645f3356c7df3ffa4dc46"
       }
     },
     "latest": "1.8.3"
@@ -2795,6 +2819,10 @@
       "1.1.6": {
         "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.6",
         "digest": "sha256:2f0087270a822414abe3358032ccc353e1bbc8ce07d89b027008292334cd24c4"
+      },
+      "1.1.7": {
+        "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.7",
+        "digest": "sha256:b65a432489846685976eb12b16addf7dbdfe2e6b301b9ec1846e2495afc59514"
       }
     }
   },
@@ -3247,6 +3275,10 @@
       "1.6.4": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.6.4",
         "digest": "sha256:8eae8892eb4563cd6ce30f59bddd68e08262a7957b513ee76ce475af1a63ac1b"
+      },
+      "1.6.5": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.6.5",
+        "digest": "sha256:ac37a1c3aca7a39cd10fd3c279bac97be9ff25c33d3681edb745541debdb897e"
       }
     }
   },
@@ -3459,6 +3491,10 @@
       "1.4.3": {
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.3",
         "digest": "sha256:05f8235b8ddfea6a17a6f26cb984cf9b08bb9bd4dc70a9da965de422de3f7d22"
+      },
+      "1.4.4": {
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.4",
+        "digest": "sha256:5ad748e1eac0a2b43db462a82f57af9bcde14c2938b828fd59a45806979748e4"
       }
     }
   },
@@ -3529,6 +3565,10 @@
       "1.1.5": {
         "oci": "ghcr.io/corekitlabs/modules/hr:1.1.5",
         "digest": "sha256:6f319744ac9226b5d56ee6cca0cf19e8d7f2bd49e5f326da2d515ee72938ea12"
+      },
+      "1.1.6": {
+        "oci": "ghcr.io/corekitlabs/modules/hr:1.1.6",
+        "digest": "sha256:0f105b42e55501d905483968c764581699abb0e2bbb4098599ab4080858da4af"
       }
     }
   },
@@ -4185,6 +4225,10 @@
       "1.4.2": {
         "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.2",
         "digest": "sha256:394a3d974a35665621049cb27ff9cde53c1f7a3ed6bc9be42991fd1786be2a09"
+      },
+      "1.4.3": {
+        "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.3",
+        "digest": "sha256:94ee6406798b971396da190319d5c4a45c588bfe8b668e323fc5e94794843c88"
       }
     }
   },
@@ -4967,6 +5011,10 @@
       "1.8.9": {
         "oci": "ghcr.io/corekitlabs/modules/rental:1.8.9",
         "digest": "sha256:9c5d37fb105ee1a157e0eb01b022d31076c2b24a3dd2963b1b4c09d49e04b8d3"
+      },
+      "1.8.10": {
+        "oci": "ghcr.io/corekitlabs/modules/rental:1.8.10",
+        "digest": "sha256:ebae55c858b1dddd4d310ca934729aa6d20b6a3816a2d56ed87e13b77a9e6984"
       }
     },
     "latest": "1.8.9"
