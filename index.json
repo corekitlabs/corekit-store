@@ -207,6 +207,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/analytics:0.7.3",
         "digest": "sha256:08389ab9a5e180a3508af4bf58175fafcd1a92a215ac3240d5b30a5c6468928e"
+      },
+      "0.8.0": {
+        "oci": "ghcr.io/corekitlabs/modules/analytics:0.8.0",
+        "digest": "sha256:1e3d060e3f6ea961e903a1220f76935aeecbceef88386b76fa37f8c9d96d3503"
       }
     }
   },
@@ -403,6 +407,10 @@
       "1.9.9": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.9.9",
         "digest": "sha256:7f61c4c426fcfa2c86dea921de725222b85f0d0347bcfdc354ab19f0baad246a"
+      },
+      "1.10.0": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.10.0",
+        "digest": "sha256:f2f231dd21ce32566035b147c1cbde5b5687e0cd54f709422426b1725c9bdb95"
       }
     }
   },
@@ -486,6 +494,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/approvals:1.2.2",
         "digest": "sha256:ad0ba5472f8317eac70b36476ee2304482b7c5af067891f100ee5d0c3009d592"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/approvals:1.3.0",
+        "digest": "sha256:1673438613e27bac79930d8626817a938f173d80967c5e8e4865f42cccf345a7"
       }
     }
   },
@@ -516,6 +528,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.1",
         "digest": "sha256:d34c725c12dcbffbfd95c61db76ea29a9c5f1a865233944ee2decc61978ea891"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/bexio:1.1.0",
+        "digest": "sha256:b0c802d6954cbca37b3bf96927c4a9b6089c04aca71c9d119f19d408e0666b3b"
       }
     }
   },
@@ -542,6 +558,10 @@
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/catalog:1.1.3",
         "digest": "sha256:2c8d60024bd40158060d20b64b9197effaa30174a3167e9547317a2ea09ea1bd"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/catalog:1.2.0",
+        "digest": "sha256:542f14e27ca2c796d1456648d60f0662b6885548b02c396d7975d02d12b1732c"
       }
     }
   },
@@ -570,6 +590,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/chat:1.1.1",
         "digest": "sha256:80c6944d902bf049fa3368922253d6d7681210c59d64112eee7567295752c3ed"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/chat:1.2.0",
+        "digest": "sha256:3a466eb8435c0293d5823d4b89b2a6d6b174a816b0429bd2b092a6d40167b162"
       }
     }
   },
@@ -596,6 +620,10 @@
       "1.1.3": {
         "oci": "ghcr.io/corekitlabs/modules/cockpit:1.1.3",
         "digest": "sha256:490d06dd72b9722d1492523bc4946e7271552a2cf10b5f941b8c451eab8ed8af"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cockpit:1.2.0",
+        "digest": "sha256:7fcaba9e52c89cbbae6fb361967d2e08c914f766c3c8bb4e26ec3ee85dde6842"
       }
     }
   },
@@ -664,6 +692,10 @@
       "1.3.3": {
         "oci": "ghcr.io/corekitlabs/modules/contacts:1.3.3",
         "digest": "sha256:4ffa6fac306f57f4bc016cd4e24e02e1cf6fc4cf2b9bf56625c2cdc297dadbdc"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/contacts:1.4.0",
+        "digest": "sha256:d5b3101d14854ff9243e1f146a279465c2b1d7c16b5fa3bc7a047e3ec9fde90c"
       }
     }
   },
@@ -687,6 +719,10 @@
       "1.1.1": {
         "oci": "ghcr.io/corekitlabs/modules/contracts:1.1.1",
         "digest": "sha256:f9eecb0640d6f7151702053bf1a8756a0b0867cd8f7d5291d667e6d105373984"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/contracts:1.2.0",
+        "digest": "sha256:521848dec7dcec5f7d832c8371d4056c03d385e9e6941249dd26cfbf42ee8917"
       }
     }
   },
@@ -1394,6 +1430,10 @@
       "1.6.7": {
         "oci": "ghcr.io/corekitlabs/modules/core:1.6.7",
         "digest": "sha256:831ece7618cd037448415eadd1032be1a4df7810d4ef8cbd7c728ea772256ee0"
+      },
+      "1.7.0": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.7.0",
+        "digest": "sha256:999116de5266f91e07469d0ec6f41840e0088325bccd6e2472082bcaba4ced5a"
       }
     }
   },
@@ -1483,6 +1523,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.4",
         "digest": "sha256:604792b8656c882ed5b98182b2deca5f67c447f492153db1e0c5e9ba583c9df4"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.2.0",
+        "digest": "sha256:20834735c0c3e9765b6b2cf921c571fac6c507fb45611a1e1f6de3659bb369df"
       }
     }
   },
@@ -1547,6 +1591,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.1.4",
         "digest": "sha256:ebd44956c036dee83770f85247ec13cddd17c92ef2f6aa14746b615e3f0b1ca0"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.0",
+        "digest": "sha256:9301ca312e262db484ab1964ff17fe4cc4624057b75f75153428fd27a8315c7d"
       }
     }
   },
@@ -1654,6 +1702,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.1.4",
         "digest": "sha256:91b61a0a4d2cf1ae4f827e4a84186d61cc23ff896d0e5d3dac7faeb8244ce604"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.2.0",
+        "digest": "sha256:78ea39c754d439c9e15f7ac1dcb04cee0b9b2adf884511e5c93ef4f2b05b9dda"
       }
     }
   },
@@ -1740,6 +1792,10 @@
         "capabilities": null,
         "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.1.3",
         "digest": "sha256:45e115442139999bf4a24e3079164b8fc553a13d66c3c31713556e5a0b964aef"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-stories:1.2.0",
+        "digest": "sha256:374fff55883839b16d9ff9850adcc15fd6332f1981465bb5e3a7eb28713e9c26"
       }
     }
   },
@@ -1889,6 +1945,10 @@
       "1.4.9": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.4.9",
         "digest": "sha256:7f877a7f7267aea58b654b93de9bd08422c8b691316087a771a0efd2c9999c75"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.5.0",
+        "digest": "sha256:c1a9199d9dd5eab3b4befcc2fc368c84c975c1cfab417dd21900fe54247f5a6a"
       }
     }
   },
@@ -1945,6 +2005,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/crm:1.2.1",
         "digest": "sha256:0eb13dca2590b7dfc3e582597dfcdaa192bf2126de155745b54a99c4c9966453"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/crm:1.3.0",
+        "digest": "sha256:bb296df6bf280dc809cab7d211e782b7d1e2d188665d93766c12b56c11b9b127"
       }
     }
   },
@@ -1996,6 +2060,10 @@
       "1.3.0": {
         "oci": "ghcr.io/corekitlabs/modules/customer:1.3.0",
         "digest": "sha256:245500dfb9173abbe0170e82799257f68e58ffd1984b91de26a9fd3e79132c4a"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/customer:1.4.0",
+        "digest": "sha256:000e452daa2426e9fbb4554d7e22d8c868fd77e445302619665e76e288b76e06"
       }
     }
   },
@@ -2174,6 +2242,10 @@
       "1.6.5": {
         "oci": "ghcr.io/corekitlabs/modules/dam:1.6.5",
         "digest": "sha256:5f18a520f8d130d4abe5713ece6b98b713bbe2f02bf4ea822115024b6ae1d211"
+      },
+      "1.7.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.7.0",
+        "digest": "sha256:38018c38f2aeb28d54c102dd73fffe12a668c4f12bd65396fad4ddcf37cbcedb"
       }
     }
   },
@@ -2196,6 +2268,10 @@
       "1.0.3": {
         "oci": "ghcr.io/corekitlabs/modules/dashboard:1.0.3",
         "digest": "sha256:ee14318a03622feff35d80cfbfe1be8ec964431ebab90ca562f1ed8198bc33c7"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dashboard:1.1.0",
+        "digest": "sha256:aafd00ec0f3ae991eef65e270a8149ea4f0103464af46681f6b79d21b488262f"
       }
     }
   },
@@ -2299,6 +2375,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/datasources:0.7.3",
         "digest": "sha256:dec03359988763f9eb6526b9846a57f2b7bc39e3efddf44aa0c7231ca8f8134a"
+      },
+      "0.8.0": {
+        "oci": "ghcr.io/corekitlabs/modules/datasources:0.8.0",
+        "digest": "sha256:c5b4c5cebf7f17f449c5aedb37eb0d9da935176802c3cd6317ee095dd849c16f"
       }
     },
     "latest": "0.2.1"
@@ -2396,6 +2476,10 @@
       "0.11.2": {
         "oci": "ghcr.io/corekitlabs/modules/demo:0.11.2",
         "digest": "sha256:53c61d08340ac45964525ef70b808e2597349c28ed55a8c2ce0b35d64ed8ec09"
+      },
+      "0.12.0": {
+        "oci": "ghcr.io/corekitlabs/modules/demo:0.12.0",
+        "digest": "sha256:b40791dd0fec1de2ae9278af5e1893ee2ef7263d92762a814072d29cb1db8521"
       }
     }
   },
@@ -2455,6 +2539,10 @@
       "1.2.5": {
         "oci": "ghcr.io/corekitlabs/modules/docs-default:1.2.5",
         "digest": "sha256:6554b851738a0dfc85e12a07385201a203c882bb2ed52943f695080378dd25a1"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/docs-default:1.3.0",
+        "digest": "sha256:b99264cbffe8140fd652f3e05e2e25dddc5449dfe1fa9ff549dac07c63b9fa62"
       }
     }
   },
@@ -2515,6 +2603,10 @@
       "1.2.3": {
         "oci": "ghcr.io/corekitlabs/modules/docs:1.2.3",
         "digest": "sha256:b47ca42b3779f36a4da2747ae4a38b7e9fd063b3e0c5cead12982a5d7ede1f8c"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/docs:1.3.0",
+        "digest": "sha256:0e5ed92f09349d331822a46004f6c8748fa1ecd9cbe1b116c23e7ef2c2f32a40"
       }
     }
   },
@@ -2574,6 +2666,10 @@
       "1.4.0": {
         "oci": "ghcr.io/corekitlabs/modules/employee:1.4.0",
         "digest": "sha256:aa22b75b359b8e9523a6f61588483b3ceceb46dbbb18862d5933f2857e98850c"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/employee:1.5.0",
+        "digest": "sha256:887e14d2d48015b21b98e04859e4b66c8fa5fe2725b9ab50d43bf3d25815ba81"
       }
     }
   },
@@ -2694,6 +2790,10 @@
       "1.8.4": {
         "oci": "ghcr.io/corekitlabs/modules/events:1.8.4",
         "digest": "sha256:9dee0f736579d8b73bf5927dd1fd5ae36d4b58b43c1645f3356c7df3ffa4dc46"
+      },
+      "1.9.0": {
+        "oci": "ghcr.io/corekitlabs/modules/events:1.9.0",
+        "digest": "sha256:dda5b2279b7b33eb64fcd7964c0ed1073b5aabbb544e016cbc7181f0fa400d27"
       }
     },
     "latest": "1.8.3"
@@ -2759,6 +2859,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.6",
         "digest": "sha256:bd6e1470ca44605be500b55db4285dcecc90395d79bff02c9f9983e4971087a1"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/expenses:1.1.0",
+        "digest": "sha256:fe55d79992ca7670dbb8fc49e865272613d8bc6d183d7b900d45bd5e89a82272"
       }
     }
   },
@@ -2831,6 +2935,10 @@
       "1.1.7": {
         "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.1.7",
         "digest": "sha256:b65a432489846685976eb12b16addf7dbdfe2e6b301b9ec1846e2495afc59514"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.2.0",
+        "digest": "sha256:379260217160e32ef91f7fd2c4a9d2790ddc240a589ce98e03159610657ebbf5"
       }
     }
   },
@@ -2957,6 +3065,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.3.4",
         "digest": "sha256:b61cf6598bbef75536d0d8f06d17267a1c52d205276d48666dbbc8880cd7bbbb"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.4.0",
+        "digest": "sha256:a4d8698f77d64023fe006675b4c7a2d8e1ef955eb7f3503f005151b77b400e0c"
       }
     }
   },
@@ -3038,6 +3150,10 @@
       "1.1.6": {
         "oci": "ghcr.io/corekitlabs/modules/finance:1.1.6",
         "digest": "sha256:91b9ddaf3fb0d0b542e24460d7778fb275be0f572e3b61664412370c00dc73b8"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/finance:1.2.0",
+        "digest": "sha256:55f11cbb8e15e86fb9f955790ee07f987b6758b235b2dfee0037e14b6d0e943b"
       }
     }
   },
@@ -3143,6 +3259,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.8",
         "digest": "sha256:5c1241f244d7c3c55c82cd1c77ee5ef9c19896b0769afe215d374233e98ee7fd"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/fleet:1.2.0",
+        "digest": "sha256:92fe7acbb37969fd53c740de345912d7f4bbb8b65ee352851a6b1c0d4643fc81"
       }
     }
   },
@@ -3287,6 +3407,10 @@
       "1.6.5": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.6.5",
         "digest": "sha256:ac37a1c3aca7a39cd10fd3c279bac97be9ff25c33d3681edb745541debdb897e"
+      },
+      "1.7.0": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.7.0",
+        "digest": "sha256:9ff57ac46af4027de75c45042ea3c647b01d56987b4e0239781c439ffde4c59e"
       }
     }
   },
@@ -3503,6 +3627,10 @@
       "1.4.4": {
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.4.4",
         "digest": "sha256:5ad748e1eac0a2b43db462a82f57af9bcde14c2938b828fd59a45806979748e4"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.5.0",
+        "digest": "sha256:70ed69569c483781f3c352032403fbe300549a74c82bf79c25041a2588c693be"
       }
     }
   },
@@ -3577,6 +3705,10 @@
       "1.1.6": {
         "oci": "ghcr.io/corekitlabs/modules/hr:1.1.6",
         "digest": "sha256:0f105b42e55501d905483968c764581699abb0e2bbb4098599ab4080858da4af"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/hr:1.2.0",
+        "digest": "sha256:c0c63c902c97eaa6d1b674d0266d2548de08f034fd121cf19f2f456bc9839314"
       }
     }
   },
@@ -3967,6 +4099,10 @@
       "1.13.7": {
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.13.7",
         "digest": "sha256:3bdb0afc98efee7897e4f66c19d39061c7b2aef177103ebb0af8b7cf0b04ea3e"
+      },
+      "1.14.0": {
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.14.0",
+        "digest": "sha256:588bfeb0dbd892a19ae72a0fdd193fc8c8943f5430f0fe047e56e8b5a4011fa2"
       }
     }
   },
@@ -4028,6 +4164,10 @@
       "1.2.2": {
         "oci": "ghcr.io/corekitlabs/modules/inventory:1.2.2",
         "digest": "sha256:1c26a7cc257940925707866138fd060c6b035b78806c790fc8e9d9b4e8071894"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/inventory:1.3.0",
+        "digest": "sha256:88a8f6f84fa3eb97ef0a215e18134b08f6d144f57c784424557b376ad055a654"
       }
     }
   },
@@ -4122,6 +4262,10 @@
       "1.2.2": {
         "oci": "ghcr.io/corekitlabs/modules/invoicing:1.2.2",
         "digest": "sha256:8ffb39e5c8d3006ede4a1e3837b7b94dbb967fce63b59f2c2f690c83da78a14d"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/invoicing:1.3.0",
+        "digest": "sha256:73e045f3b1664297ffbe6a346891b1de55f97f06a08912080d702f4b2f180302"
       }
     }
   },
@@ -4237,6 +4381,10 @@
       "1.4.3": {
         "oci": "ghcr.io/corekitlabs/modules/jobs:1.4.3",
         "digest": "sha256:94ee6406798b971396da190319d5c4a45c588bfe8b668e323fc5e94794843c88"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/jobs:1.5.0",
+        "digest": "sha256:9961dcbcfa830e1c32bd5b232e532f86fcc9388e833f03180132f2e842233b05"
       }
     }
   },
@@ -4263,6 +4411,10 @@
       "1.1.0": {
         "oci": "ghcr.io/corekitlabs/modules/locations:1.1.0",
         "digest": "sha256:f6bd2626e49dd7dc9acbeba69bfb2f2f0c3923d52fbb48a49b9d57612670098c"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/locations:1.2.0",
+        "digest": "sha256:b8f6fe0fcef5a9da1bb852921762023f19461cb51174c40cf9f4cc708cfbf0f4"
       }
     }
   },
@@ -4389,6 +4541,10 @@
       "1.3.4": {
         "oci": "ghcr.io/corekitlabs/modules/logistics:1.3.4",
         "digest": "sha256:06fd3cf8b80f670809534e1f053dc83ff651f0231aa3a37fcd8c6f58cde283f7"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/logistics:1.4.0",
+        "digest": "sha256:8a1d1aabe9575ec8027028bf0ded1c5bfe359819c94d1209f8737a32db1dc1a2"
       }
     }
   },
@@ -4416,6 +4572,10 @@
       "1.0.4": {
         "oci": "ghcr.io/corekitlabs/modules/mail:1.0.4",
         "digest": "sha256:1bba03395c9a2d988e0cb39d715dd810f1477aa6ff73a5e0d266cab91d8a6dc5"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/mail:1.1.0",
+        "digest": "sha256:8206fb841964f5a2ded91fe2eb0a090ad85b4f8ed21042384671551ba3b1c7f7"
       }
     }
   },
@@ -4505,6 +4665,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/maintenance:1.1.2",
         "digest": "sha256:bb5eaab3cc3bd05e2154abea319cb22023d32a80bba5f6a5a40f3b5468b20e4e"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/maintenance:1.2.0",
+        "digest": "sha256:fcb2555046e58f8995ba286fb25543d187d7676da5c5133ba82a03d0382ec178"
       }
     }
   },
@@ -4630,6 +4794,10 @@
       "1.1.7": {
         "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.7",
         "digest": "sha256:cab891469fd99ead3acd41eb7cfec1810a9ef0054eaddfe37193f1a8ae0c7ee7"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/mortgage:1.2.0",
+        "digest": "sha256:f55fe1f635e122fd3a8178ed595668ed5213d577064650157aefb6436541844c"
       }
     }
   },
@@ -4700,6 +4868,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/planning:1.1.2",
         "digest": "sha256:26513024d41602f9eeb1d7ef213cfdb4621d400e4d1d75b06783ff133f57c901"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/planning:1.2.0",
+        "digest": "sha256:bd8ac4af77520e1e4ab762ad0ed5c5db93eabaa385c9c210053ab3495a337ff3"
       }
     }
   },
@@ -4714,6 +4886,10 @@
       "1.1.1": {
         "oci": "ghcr.io/corekitlabs/modules/platform:1.1.1",
         "digest": "sha256:e1e781f43e2e39446a4acf91ea953d8302e69e0c7d954d5c09842c5b3611dc3e"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/platform:1.2.0",
+        "digest": "sha256:20947ceee9384032efc2ee7a74e334f22309b1a1667a1e051032c91b0ece04bd"
       }
     }
   },
@@ -4764,6 +4940,10 @@
       "1.0.6": {
         "oci": "ghcr.io/corekitlabs/modules/public:1.0.6",
         "digest": "sha256:62f6b85b5da579b9e295f74e0577f1c9c816a8543784cdbd3de2e5766c37d054"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/public:1.1.0",
+        "digest": "sha256:70ae43ff6eb0fd43e08fc3677d23c6dc93ac596f7a086d1cae8203899f0e33fe"
       }
     }
   },
@@ -4845,6 +5025,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/purchase:1.2.2",
         "digest": "sha256:6ca1904e0a2b183701306b33639d4c5cb5e6a69175b8b5ad1870cc37b81ddfad"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/purchase:1.3.0",
+        "digest": "sha256:28a372a607d7a61e620098d9070af7d00ae44941662c822498fc93eea348ce59"
       }
     }
   },
@@ -4862,6 +5046,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/reference-data:1.0.0",
         "digest": "sha256:f8daf2179322b80b696b82ead9c03b08e536f4a969d4020b7cbd32e040f28f60"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/reference-data:1.1.0",
+        "digest": "sha256:24c32f368c0fb6795132acbe75668ce9aa9402cc811f604175ebf12c4ed99943"
       }
     }
   },
@@ -5023,6 +5211,10 @@
       "1.8.10": {
         "oci": "ghcr.io/corekitlabs/modules/rental:1.8.10",
         "digest": "sha256:ebae55c858b1dddd4d310ca934729aa6d20b6a3816a2d56ed87e13b77a9e6984"
+      },
+      "1.9.0": {
+        "oci": "ghcr.io/corekitlabs/modules/rental:1.9.0",
+        "digest": "sha256:638e0ef8567a3a198689f5a1b7a39880a40713afc34189aa80783b2537d6ed1d"
       }
     },
     "latest": "1.8.9"
@@ -5174,6 +5366,10 @@
       "1.3.3": {
         "oci": "ghcr.io/corekitlabs/modules/sales:1.3.3",
         "digest": "sha256:97ad15907e444fdcb19cb9243fa1587672206243cf9ef08386fca05705a09ec2"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/sales:1.4.0",
+        "digest": "sha256:3a64aa7478c98d078dd239956b75ff865ebd804dcc43d5a472abd12931b7b625"
       }
     }
   },
@@ -5266,6 +5462,10 @@
       "1.4.0": {
         "oci": "ghcr.io/corekitlabs/modules/skill-media:1.4.0",
         "digest": "sha256:65d60c3af3df6dffe3c930bf74e3cca79d727f15b295cdc902a60127b33668ed"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/skill-media:1.5.0",
+        "digest": "sha256:d3b458ec22c48ca39910835d2569efa79c637a4958ec1dcd2d095d4685c901fc"
       }
     }
   },
@@ -5308,6 +5508,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.1.0",
         "digest": "sha256:7075a3bb47eab79016c93f22b888a2083b0ba0e73a1c08ff79f98d44c1bebe40"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.2.0",
+        "digest": "sha256:67ccf21105d33f4f3d988a639831e13856d37d9c19ca17db03fe19bbe1e6c226"
       }
     }
   },
@@ -5342,6 +5546,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.0.1",
         "digest": "sha256:5949237764b2b22be35777529ce6a55356c0f8cf7d79dab8b64fe7538be98675"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.1.0",
+        "digest": "sha256:a7151ad43995e57eafc29d728a0138036544040077939f3df202b9e018acf5bf"
       }
     }
   },
@@ -5553,6 +5761,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/stock:2.4.1",
         "digest": "sha256:a939fc2ba6aa55020554ed225212b146a8b5d944d7cc62074f931128204e3c67"
+      },
+      "2.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/stock:2.5.0",
+        "digest": "sha256:1a418ba305ea323c7ff13228f5cfb23a48e3b64e65670f3c8d4d15f5d2cc5e46"
       }
     }
   },
@@ -5574,6 +5786,10 @@
       "1.1.1": {
         "oci": "ghcr.io/corekitlabs/modules/store:1.1.1",
         "digest": "sha256:275b80214c20faedbe0a70230793c91d0db500be9455eb01235386cae194a500"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/store:1.2.0",
+        "digest": "sha256:f2461cb43c6cd8a8a4b8cf5793d7881125590879de76e51f91c3e583cc30f3fe"
       }
     }
   },
@@ -5614,6 +5830,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.0.3",
         "digest": "sha256:a71215caf018e0eaf5c895a7e18a1cd71a3846fd9395d10042d0b2eb565999b2"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/subscriptions:1.1.0",
+        "digest": "sha256:4d080be9f8f90ba62e2b430a40118032e89cc70d241efb90322c0e514405444c"
       }
     }
   },
@@ -5640,6 +5860,10 @@
       "1.0.4": {
         "oci": "ghcr.io/corekitlabs/modules/suppliers:1.0.4",
         "digest": "sha256:1245abf56d7f5c0cbc13d7b31fca8213781ec953fc913b1b04dbfdc77aba3aea"
+      },
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/suppliers:1.1.0",
+        "digest": "sha256:8fcb448f2a672ce58cd6e8e57fea36a21ff4d2b59b145787837c0abfac46db1d"
       }
     }
   },
@@ -5786,6 +6010,10 @@
       "1.5.6": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.5.6",
         "digest": "sha256:f37a1070e5547ee121019ce374d23762d6ca2a12a618d2fb3e25bfb9bebc9548"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.6.0",
+        "digest": "sha256:e8ba49fe56a40928da0f1f41e74fc71b1ac383b77641b0ed36474c3e54d3d84b"
       }
     }
   },
@@ -5846,6 +6074,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/timeoff:1.1.2",
         "digest": "sha256:b67cc88071418d9493981a46699da33f0c0916797f3ee125a58b24e434f32b14"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/timeoff:1.2.0",
+        "digest": "sha256:dc054af3b1bb202971aca7487032376b68ae27bd91f07b770ce3632e23adb41b"
       }
     }
   },
@@ -5916,6 +6148,10 @@
         },
         "oci": "ghcr.io/corekitlabs/modules/timesheet:1.1.2",
         "digest": "sha256:3f4f7a5eccd68f68931f5b0c3a278acc87ee826c6d0a9d9fca6210e31f810205"
+      },
+      "1.2.0": {
+        "oci": "ghcr.io/corekitlabs/modules/timesheet:1.2.0",
+        "digest": "sha256:daebd1933e07809143af9c2e3c51fe98ad7cb8e6327188d108303e12c1a107dc"
       }
     }
   },
@@ -6055,6 +6291,20 @@
       "1.2.3": {
         "oci": "ghcr.io/corekitlabs/modules/utility:1.2.3",
         "digest": "sha256:8460d3b065a000c4bba06575dc5a5fa885bab269827b9a816fe9c3d318a1d0b2"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/utility:1.3.0",
+        "digest": "sha256:1989a586f150448ea5176f6625e6ee1420e4ac3afc0824d290d10519a5fcc45e"
+      }
+    }
+  },
+  "words": {
+    "id": "words",
+    "repo": "https://github.com/corekitlabs/corekit-modules",
+    "versions": {
+      "1.1.0": {
+        "oci": "ghcr.io/corekitlabs/modules/words:1.1.0",
+        "digest": "sha256:fd6c424dca0d97bd779c17a98995a30e0f04d03ac6514b88f28f744172d9b96c"
       }
     }
   }
