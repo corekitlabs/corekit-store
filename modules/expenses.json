@@ -59,6 +59,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/expenses:1.0.6",
       "digest": "sha256:bd6e1470ca44605be500b55db4285dcecc90395d79bff02c9f9983e4971087a1"
+    },
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/expenses:1.1.0",
+      "digest": "sha256:fe55d79992ca7670dbb8fc49e865272613d8bc6d183d7b900d45bd5e89a82272"
     }
   }
 }

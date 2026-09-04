@@ -156,6 +156,10 @@
     "1.8.10": {
       "oci": "ghcr.io/corekitlabs/modules/rental:1.8.10",
       "digest": "sha256:ebae55c858b1dddd4d310ca934729aa6d20b6a3816a2d56ed87e13b77a9e6984"
+    },
+    "1.9.0": {
+      "oci": "ghcr.io/corekitlabs/modules/rental:1.9.0",
+      "digest": "sha256:638e0ef8567a3a198689f5a1b7a39880a40713afc34189aa80783b2537d6ed1d"
     }
   },
   "latest": "1.8.9"

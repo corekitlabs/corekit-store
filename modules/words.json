@@ -1,0 +1,10 @@
+{
+  "id": "words",
+  "repo": "https://github.com/corekitlabs/corekit-modules",
+  "versions": {
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/words:1.1.0",
+      "digest": "sha256:fd6c424dca0d97bd779c17a98995a30e0f04d03ac6514b88f28f744172d9b96c"
+    }
+  }
+}

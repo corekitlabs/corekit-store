@@ -84,6 +84,10 @@
       "capabilities": null,
       "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.1.4",
       "digest": "sha256:604792b8656c882ed5b98182b2deca5f67c447f492153db1e0c5e9ba583c9df4"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.2.0",
+      "digest": "sha256:20834735c0c3e9765b6b2cf921c571fac6c507fb45611a1e1f6de3659bb369df"
     }
   }
 }

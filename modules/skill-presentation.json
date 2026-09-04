@@ -37,6 +37,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.1.0",
       "digest": "sha256:7075a3bb47eab79016c93f22b888a2083b0ba0e73a1c08ff79f98d44c1bebe40"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/skill-presentation:1.2.0",
+      "digest": "sha256:67ccf21105d33f4f3d988a639831e13856d37d9c19ca17db03fe19bbe1e6c226"
     }
   }
 }

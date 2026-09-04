@@ -23,6 +23,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/chat:1.1.1",
       "digest": "sha256:80c6944d902bf049fa3368922253d6d7681210c59d64112eee7567295752c3ed"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/chat:1.2.0",
+      "digest": "sha256:3a466eb8435c0293d5823d4b89b2a6d6b174a816b0429bd2b092a6d40167b162"
     }
   }
 }

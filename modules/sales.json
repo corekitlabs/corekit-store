@@ -145,6 +145,10 @@
     "1.3.3": {
       "oci": "ghcr.io/corekitlabs/modules/sales:1.3.3",
       "digest": "sha256:97ad15907e444fdcb19cb9243fa1587672206243cf9ef08386fca05705a09ec2"
+    },
+    "1.4.0": {
+      "oci": "ghcr.io/corekitlabs/modules/sales:1.4.0",
+      "digest": "sha256:3a64aa7478c98d078dd239956b75ff865ebd804dcc43d5a472abd12931b7b625"
     }
   }
 }

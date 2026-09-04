@@ -25,6 +25,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/bexio:1.0.1",
       "digest": "sha256:d34c725c12dcbffbfd95c61db76ea29a9c5f1a865233944ee2decc61978ea891"
+    },
+    "1.1.0": {
+      "oci": "ghcr.io/corekitlabs/modules/bexio:1.1.0",
+      "digest": "sha256:b0c802d6954cbca37b3bf96927c4a9b6089c04aca71c9d119f19d408e0666b3b"
     }
   }
 }

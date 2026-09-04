@@ -98,6 +98,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/datasources:0.7.3",
       "digest": "sha256:dec03359988763f9eb6526b9846a57f2b7bc39e3efddf44aa0c7231ca8f8134a"
+    },
+    "0.8.0": {
+      "oci": "ghcr.io/corekitlabs/modules/datasources:0.8.0",
+      "digest": "sha256:c5b4c5cebf7f17f449c5aedb37eb0d9da935176802c3cd6317ee095dd849c16f"
     }
   },
   "latest": "0.2.1"

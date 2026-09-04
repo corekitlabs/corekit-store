@@ -100,6 +100,10 @@
       },
       "oci": "ghcr.io/corekitlabs/modules/fleet:1.1.8",
       "digest": "sha256:5c1241f244d7c3c55c82cd1c77ee5ef9c19896b0769afe215d374233e98ee7fd"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/fleet:1.2.0",
+      "digest": "sha256:92fe7acbb37969fd53c740de345912d7f4bbb8b65ee352851a6b1c0d4643fc81"
     }
   }
 }

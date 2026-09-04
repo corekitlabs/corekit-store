@@ -120,6 +120,10 @@
     "1.1.7": {
       "oci": "ghcr.io/corekitlabs/modules/mortgage:1.1.7",
       "digest": "sha256:cab891469fd99ead3acd41eb7cfec1810a9ef0054eaddfe37193f1a8ae0c7ee7"
+    },
+    "1.2.0": {
+      "oci": "ghcr.io/corekitlabs/modules/mortgage:1.2.0",
+      "digest": "sha256:f55fe1f635e122fd3a8178ed595668ed5213d577064650157aefb6436541844c"
     }
   }
 }

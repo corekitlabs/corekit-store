@@ -121,6 +121,10 @@
     "1.3.4": {
       "oci": "ghcr.io/corekitlabs/modules/logistics:1.3.4",
       "digest": "sha256:06fd3cf8b80f670809534e1f053dc83ff651f0231aa3a37fcd8c6f58cde283f7"
+    },
+    "1.4.0": {
+      "oci": "ghcr.io/corekitlabs/modules/logistics:1.4.0",
+      "digest": "sha256:8a1d1aabe9575ec8027028bf0ded1c5bfe359819c94d1209f8737a32db1dc1a2"
     }
   }
 }
