@@ -411,6 +411,10 @@
       "1.10.0": {
         "oci": "ghcr.io/corekitlabs/modules/appointments:1.10.0",
         "digest": "sha256:f2f231dd21ce32566035b147c1cbde5b5687e0cd54f709422426b1725c9bdb95"
+      },
+      "1.10.1": {
+        "oci": "ghcr.io/corekitlabs/modules/appointments:1.10.1",
+        "digest": "sha256:36e77a4caf2d3fd7a18a042369a8bbb273060fddc4af539c0135d27f7425c22a"
       }
     }
   },
@@ -2794,6 +2798,10 @@
       "1.9.0": {
         "oci": "ghcr.io/corekitlabs/modules/events:1.9.0",
         "digest": "sha256:dda5b2279b7b33eb64fcd7964c0ed1073b5aabbb544e016cbc7181f0fa400d27"
+      },
+      "1.9.1": {
+        "oci": "ghcr.io/corekitlabs/modules/events:1.9.1",
+        "digest": "sha256:0064710854967d869c4b2045ce06bbdd58cfa36d244664410f26cd0462b33e42"
       }
     },
     "latest": "1.8.3"
@@ -2939,6 +2947,10 @@
       "1.2.0": {
         "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.2.0",
         "digest": "sha256:379260217160e32ef91f7fd2c4a9d2790ddc240a589ce98e03159610657ebbf5"
+      },
+      "1.2.1": {
+        "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.2.1",
+        "digest": "sha256:e71d27dae9a443a462fea1e47697064edc5ef9a879833bc384dbbc45cbe0a0b3"
       }
     }
   },
@@ -3631,6 +3643,10 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.5.0",
         "digest": "sha256:70ed69569c483781f3c352032403fbe300549a74c82bf79c25041a2588c693be"
+      },
+      "1.5.1": {
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.5.1",
+        "digest": "sha256:e3d4f2db0d859241ae01fbdc9290126a9f8c041d9fd28ba6ca63a162e57fbd47"
       }
     }
   },
@@ -4103,6 +4119,10 @@
       "1.14.0": {
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.14.0",
         "digest": "sha256:588bfeb0dbd892a19ae72a0fdd193fc8c8943f5430f0fe047e56e8b5a4011fa2"
+      },
+      "1.14.1": {
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.14.1",
+        "digest": "sha256:3a53a27e50baca9b2c43fc6d5209040ae161dd60b1682eeb1382f85ac69a90e3"
       }
     }
   },
@@ -4385,6 +4405,10 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/jobs:1.5.0",
         "digest": "sha256:9961dcbcfa830e1c32bd5b232e532f86fcc9388e833f03180132f2e842233b05"
+      },
+      "1.5.1": {
+        "oci": "ghcr.io/corekitlabs/modules/jobs:1.5.1",
+        "digest": "sha256:be53527eb5bcc554b094904f6dadec965ab42814700962293ac43006eb3fe666"
       }
     }
   },
@@ -4798,6 +4822,10 @@
       "1.2.0": {
         "oci": "ghcr.io/corekitlabs/modules/mortgage:1.2.0",
         "digest": "sha256:f55fe1f635e122fd3a8178ed595668ed5213d577064650157aefb6436541844c"
+      },
+      "1.2.1": {
+        "oci": "ghcr.io/corekitlabs/modules/mortgage:1.2.1",
+        "digest": "sha256:17ff4f8d42d2e4f3ff1e486fc0900be92ff001812b8a61c1e9c13c65aef6186a"
       }
     }
   },
@@ -5215,6 +5243,10 @@
       "1.9.0": {
         "oci": "ghcr.io/corekitlabs/modules/rental:1.9.0",
         "digest": "sha256:638e0ef8567a3a198689f5a1b7a39880a40713afc34189aa80783b2537d6ed1d"
+      },
+      "1.9.3": {
+        "oci": "ghcr.io/corekitlabs/modules/rental:1.9.3",
+        "digest": "sha256:61fbb4a43bcc19c3631f77dbad0555d83cdb3c7debc2c2214fc09028ad2f3db4"
       }
     },
     "latest": "1.8.9"
@@ -5370,6 +5402,10 @@
       "1.4.0": {
         "oci": "ghcr.io/corekitlabs/modules/sales:1.4.0",
         "digest": "sha256:3a64aa7478c98d078dd239956b75ff865ebd804dcc43d5a472abd12931b7b625"
+      },
+      "1.4.1": {
+        "oci": "ghcr.io/corekitlabs/modules/sales:1.4.1",
+        "digest": "sha256:8bbea64b8db215873b7e977eba6c5e991b103be876e80f00df154ad95f0233a1"
       }
     }
   },
@@ -6014,6 +6050,10 @@
       "1.6.0": {
         "oci": "ghcr.io/corekitlabs/modules/surveys:1.6.0",
         "digest": "sha256:e8ba49fe56a40928da0f1f41e74fc71b1ac383b77641b0ed36474c3e54d3d84b"
+      },
+      "1.6.2": {
+        "oci": "ghcr.io/corekitlabs/modules/surveys:1.6.2",
+        "digest": "sha256:ea1dc894fddcb275ae65caffd313db10d54f3edcb04ca1fdab63c9cdf806438d"
       }
     }
   },
