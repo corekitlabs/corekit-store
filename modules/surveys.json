@@ -145,6 +145,10 @@
     "1.6.0": {
       "oci": "ghcr.io/corekitlabs/modules/surveys:1.6.0",
       "digest": "sha256:e8ba49fe56a40928da0f1f41e74fc71b1ac383b77641b0ed36474c3e54d3d84b"
+    },
+    "1.6.2": {
+      "oci": "ghcr.io/corekitlabs/modules/surveys:1.6.2",
+      "digest": "sha256:ea1dc894fddcb275ae65caffd313db10d54f3edcb04ca1fdab63c9cdf806438d"
     }
   }
 }

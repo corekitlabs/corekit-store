@@ -119,6 +119,10 @@
     "1.9.0": {
       "oci": "ghcr.io/corekitlabs/modules/events:1.9.0",
       "digest": "sha256:dda5b2279b7b33eb64fcd7964c0ed1073b5aabbb544e016cbc7181f0fa400d27"
+    },
+    "1.9.1": {
+      "oci": "ghcr.io/corekitlabs/modules/events:1.9.1",
+      "digest": "sha256:0064710854967d869c4b2045ce06bbdd58cfa36d244664410f26cd0462b33e42"
     }
   },
   "latest": "1.8.3"

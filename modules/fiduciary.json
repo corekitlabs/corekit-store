@@ -71,6 +71,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.2.0",
       "digest": "sha256:379260217160e32ef91f7fd2c4a9d2790ddc240a589ce98e03159610657ebbf5"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/fiduciary:1.2.1",
+      "digest": "sha256:e71d27dae9a443a462fea1e47697064edc5ef9a879833bc384dbbc45cbe0a0b3"
     }
   }
 }
