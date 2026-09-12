@@ -97,6 +97,10 @@
     "1.3.1": {
       "oci": "ghcr.io/corekitlabs/modules/invoicing:1.3.1",
       "digest": "sha256:0f086a9e135ddaa46721be7f9117ba02a7884cd975de02aad2dc2be7c8c61ca3"
+    },
+    "1.3.2": {
+      "oci": "ghcr.io/corekitlabs/modules/invoicing:1.3.2",
+      "digest": "sha256:fe546bcb9b07c7acdb6653ecbc5a574f4b9a4170efb678671477c4c4f7909ac1"
     }
   }
 }
