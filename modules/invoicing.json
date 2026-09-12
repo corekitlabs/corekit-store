@@ -105,6 +105,10 @@
     "1.4.0": {
       "oci": "ghcr.io/corekitlabs/modules/invoicing:1.4.0",
       "digest": "sha256:66fb9786c3c46dbb604210ba5d3cef5fd9f799430a77c6b7bebdd0213ca9c55e"
+    },
+    "1.5.0": {
+      "oci": "ghcr.io/corekitlabs/modules/invoicing:1.5.0",
+      "digest": "sha256:b672f105b4ea65afc8baf0df8acac864f1fba9ba23ba3f75d056fc85aafadfc2"
     }
   }
 }
