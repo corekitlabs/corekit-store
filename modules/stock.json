@@ -214,6 +214,10 @@
     "2.5.1": {
       "oci": "ghcr.io/corekitlabs/modules/stock:2.5.1",
       "digest": "sha256:f2b46814770dbd41c9c0ef84245aef960ca875d6c44bbb202bba0b8674e9a194"
+    },
+    "2.5.2": {
+      "oci": "ghcr.io/corekitlabs/modules/stock:2.5.2",
+      "digest": "sha256:82cb18981bd4ba33de5845d1cfff686b19caf5f36a9c6f2cd2006983d7272112"
     }
   }
 }
