@@ -59,6 +59,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/timeoff:1.2.0",
       "digest": "sha256:dc054af3b1bb202971aca7487032376b68ae27bd91f07b770ce3632e23adb41b"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/timeoff:1.2.1",
+      "digest": "sha256:6f09b2544d41b4278c49b36cdfd79248af3e42f8dde9e710b24debf5d53d350b"
     }
   }
 }

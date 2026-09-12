@@ -88,6 +88,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/maintenance:1.2.0",
       "digest": "sha256:fcb2555046e58f8995ba286fb25543d187d7676da5c5133ba82a03d0382ec178"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/maintenance:1.2.1",
+      "digest": "sha256:e8493fec99e239810627db7b9c9d6d4a987e5c5d6dc65224c3e47f4705b490b7"
     }
   }
 }

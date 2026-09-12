@@ -118,6 +118,10 @@
     "1.5.1": {
       "oci": "ghcr.io/corekitlabs/modules/jobs:1.5.1",
       "digest": "sha256:be53527eb5bcc554b094904f6dadec965ab42814700962293ac43006eb3fe666"
+    },
+    "1.5.2": {
+      "oci": "ghcr.io/corekitlabs/modules/jobs:1.5.2",
+      "digest": "sha256:666dd1725868ad1226e2b2c67459008ed08a9f62c0ccca88dfd7b59cc0e35da3"
     }
   }
 }

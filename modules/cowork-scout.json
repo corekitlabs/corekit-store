@@ -106,6 +106,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.2.0",
       "digest": "sha256:78ea39c754d439c9e15f7ac1dcb04cee0b9b2adf884511e5c93ef4f2b05b9dda"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.2.1",
+      "digest": "sha256:b96acdc7178ae0912d350ee4806b5ce7f41b8f3a51c36ecc1a4a7cf9d8af30f7"
     }
   }
 }

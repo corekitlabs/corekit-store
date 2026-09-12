@@ -104,6 +104,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/fleet:1.2.0",
       "digest": "sha256:92fe7acbb37969fd53c740de345912d7f4bbb8b65ee352851a6b1c0d4643fc81"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/fleet:1.2.1",
+      "digest": "sha256:464869c8af59dcc1c3bfc4b810e5a2fdea71e1f090e21cf8e11deda88b11d17f"
     }
   }
 }

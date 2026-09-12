@@ -22,6 +22,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/contracts:1.2.0",
       "digest": "sha256:521848dec7dcec5f7d832c8371d4056c03d385e9e6941249dd26cfbf42ee8917"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/contracts:1.2.1",
+      "digest": "sha256:414cdb60be08232e120ebffb86c193907fe6f49717737079538fe5c719a7253f"
     }
   }
 }

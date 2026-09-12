@@ -125,6 +125,10 @@
     "1.4.0": {
       "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.4.0",
       "digest": "sha256:a4d8698f77d64023fe006675b4c7a2d8e1ef955eb7f3503f005151b77b400e0c"
+    },
+    "1.4.1": {
+      "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.4.1",
+      "digest": "sha256:2383b28a2f7a66f250e0fed4c1b0df5a616855568925774533bf0d0f6a6a1eb8"
     }
   }
 }

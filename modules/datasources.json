@@ -102,6 +102,10 @@
     "0.8.0": {
       "oci": "ghcr.io/corekitlabs/modules/datasources:0.8.0",
       "digest": "sha256:c5b4c5cebf7f17f449c5aedb37eb0d9da935176802c3cd6317ee095dd849c16f"
+    },
+    "0.8.1": {
+      "oci": "ghcr.io/corekitlabs/modules/datasources:0.8.1",
+      "digest": "sha256:f954dc010adc23e73ab43a9a4fbd9c151f210a0710f5dd915eee03dff0b79952"
     }
   },
   "latest": "0.2.1"

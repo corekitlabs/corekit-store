@@ -69,6 +69,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/planning:1.2.0",
       "digest": "sha256:bd8ac4af77520e1e4ab762ad0ed5c5db93eabaa385c9c210053ab3495a337ff3"
+    },
+    "1.2.1": {
+      "oci": "ghcr.io/corekitlabs/modules/planning:1.2.1",
+      "digest": "sha256:ac39cecf1ac6ffc14e22a6062a51604ccea88f6d2e9f74c6e2537869857f4c3b"
     }
   }
 }

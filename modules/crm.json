@@ -55,6 +55,10 @@
     "1.3.0": {
       "oci": "ghcr.io/corekitlabs/modules/crm:1.3.0",
       "digest": "sha256:bb296df6bf280dc809cab7d211e782b7d1e2d188665d93766c12b56c11b9b127"
+    },
+    "1.3.1": {
+      "oci": "ghcr.io/corekitlabs/modules/crm:1.3.1",
+      "digest": "sha256:673e19e42fa5acb3ccc7890b8561b55b531b1fed687f898b1f95c0fb67d11f54"
     }
   }
 }

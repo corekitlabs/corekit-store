@@ -69,6 +69,10 @@
     "1.2.0": {
       "oci": "ghcr.io/corekitlabs/modules/timesheet:1.2.0",
       "digest": "sha256:daebd1933e07809143af9c2e3c51fe98ad7cb8e6327188d108303e12c1a107dc"
+    },
+    "1.3.0": {
+      "oci": "ghcr.io/corekitlabs/modules/timesheet:1.3.0",
+      "digest": "sha256:cfe80f620680681ea8c052fc44d3a8452142604d494979963f5dc65ea6ce8aca"
     }
   }
 }
