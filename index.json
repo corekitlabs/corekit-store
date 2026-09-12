@@ -4374,6 +4374,10 @@
       "1.3.2": {
         "oci": "ghcr.io/corekitlabs/modules/invoicing:1.3.2",
         "digest": "sha256:fe546bcb9b07c7acdb6653ecbc5a574f4b9a4170efb678671477c4c4f7909ac1"
+      },
+      "1.4.0": {
+        "oci": "ghcr.io/corekitlabs/modules/invoicing:1.4.0",
+        "digest": "sha256:66fb9786c3c46dbb604210ba5d3cef5fd9f799430a77c6b7bebdd0213ca9c55e"
       }
     }
   },
@@ -6348,6 +6352,10 @@
       "1.3.1": {
         "oci": "ghcr.io/corekitlabs/modules/timesheet:1.3.1",
         "digest": "sha256:aa3865c8419b0d61b5a909be13236862b477aa6f726763b888091b9c3ea85383"
+      },
+      "1.3.2": {
+        "oci": "ghcr.io/corekitlabs/modules/timesheet:1.3.2",
+        "digest": "sha256:e19d16a9730424adf0c56658b561aead322c7725ef384c9cb1645e75b43cece6"
       }
     }
   },
