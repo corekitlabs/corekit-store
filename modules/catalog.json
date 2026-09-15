@@ -37,6 +37,11 @@
     "1.2.3": {
       "oci": "ghcr.io/corekitlabs/modules/catalog:1.2.3",
       "digest": "sha256:31a965aa9247e5cc92df85c857f3bee4fd364b3c7c5a2f97c6307cd689b35b85"
+    },
+    "1.2.4": {
+      "oci": "ghcr.io/corekitlabs/modules/catalog:1.2.4",
+      "digest": "sha256:c00dd02281ae8ff843a6475db9049324c3ee0d963880474c8c09f59ca266b1f5"
     }
-  }
+  },
+  "latest": "1.2.4"
 }

@@ -1,11 +1,15 @@
 {
   "id": "calendars",
   "repo": "https://github.com/corekitlabs/corekit-modules",
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "versions": {
     "1.0.0": {
       "oci": "ghcr.io/corekitlabs/modules/calendars:1.0.0",
       "digest": "sha256:ddbff13018b711a55aa27ba90ba40ac61e9d9ff7298bfbe65d2c891ef2c525ca"
+    },
+    "1.0.1": {
+      "oci": "ghcr.io/corekitlabs/modules/calendars:1.0.1",
+      "digest": "sha256:5583006568787e88e1d0e72d72238e2c5c153e266aff4e27cdeaab65e23d9d29"
     }
   }
 }
