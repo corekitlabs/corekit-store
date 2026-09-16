@@ -2903,9 +2903,13 @@
       "1.9.2": {
         "oci": "ghcr.io/corekitlabs/modules/events:1.9.2",
         "digest": "sha256:faf71848c53abf2337b8ba027d62b2d93a3cdf0bc32fc53679e4e9f1959c2ba6"
+      },
+      "1.9.3": {
+        "oci": "ghcr.io/corekitlabs/modules/events:1.9.3",
+        "digest": "sha256:9855564dbeaf9f617f2f45480bc635c5546b102296848f8638fc9303fa450176"
       }
     },
-    "latest": "1.8.3"
+    "latest": "1.9.3"
   },
   "expenses": {
     "id": "expenses",
