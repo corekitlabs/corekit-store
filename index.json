@@ -2331,6 +2331,10 @@
       "1.7.1": {
         "oci": "ghcr.io/corekitlabs/modules/dam:1.7.1",
         "digest": "sha256:4aadca042bc5552e98ce23afc222c2041b4c1a733eb8b7881b2af26daffbb412"
+      },
+      "1.8.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.8.0",
+        "digest": "sha256:88bcd55595482056117fe0ae35aba4c63cfd4914c2bdd0e810f65f4007ac80fb"
       }
     }
   },
