@@ -33,6 +33,11 @@
     "1.1.0": {
       "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.1.0",
       "digest": "sha256:a7151ad43995e57eafc29d728a0138036544040077939f3df202b9e018acf5bf"
+    },
+    "1.1.1": {
+      "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.1.1",
+      "digest": "sha256:04db4d8516eab9ee83c8c9e07a672d8f9645d580524eade244c9dea0e7581654"
     }
-  }
+  },
+  "latest": "1.1.1"
 }
