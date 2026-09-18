@@ -5775,7 +5775,7 @@
       },
       "1.1.1": {
         "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.1.1",
-        "digest": "sha256:04db4d8516eab9ee83c8c9e07a672d8f9645d580524eade244c9dea0e7581654"
+        "digest": "sha256:eec6aa6497b69a65acd5fed3844850fdde7e785d136430009afc03ffe24ae397"
       }
     },
     "latest": "1.1.1"
