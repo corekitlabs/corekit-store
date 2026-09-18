@@ -5776,9 +5776,13 @@
       "1.1.1": {
         "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.1.1",
         "digest": "sha256:eec6aa6497b69a65acd5fed3844850fdde7e785d136430009afc03ffe24ae397"
+      },
+      "1.1.2": {
+        "oci": "ghcr.io/corekitlabs/modules/skill-scrape:1.1.2",
+        "digest": "sha256:4f96d08799fb1382ff4845cc300c784517688f558bf3ecf34415cfbbc024c755"
       }
     },
-    "latest": "1.1.1"
+    "latest": "1.1.2"
   },
   "stock": {
     "id": "stock",
