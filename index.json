@@ -1592,6 +1592,10 @@
       "1.2.1": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.2.1",
         "digest": "sha256:5760bc55cf45949c8985ae318fb51dbf1926c686f5c0d5bcec26ea80b2c54c2c"
+      },
+      "1.2.2": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-projects:1.2.2",
+        "digest": "sha256:151cd4f769ebfe0175cf633e51e29e6ff040acae3258c03b581056723398c9bf"
       }
     }
   },
@@ -1779,6 +1783,10 @@
       "1.2.1": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.2.1",
         "digest": "sha256:b96acdc7178ae0912d350ee4806b5ce7f41b8f3a51c36ecc1a4a7cf9d8af30f7"
+      },
+      "1.2.2": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-scout:1.2.2",
+        "digest": "sha256:3520bc40c71f2b1280db95901061730be968012d9af386b1a111d0475ea4e447"
       }
     }
   },
@@ -2026,6 +2034,10 @@
       "1.5.1": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.5.1",
         "digest": "sha256:94446e8686a158dbcca7fc54036bb3e9ae1148a16de11298388dcddac2f5b96c"
+      },
+      "1.5.2": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.5.2",
+        "digest": "sha256:5ddf3e340ff04d99159aacf1acf24973e425f3547ae3261f8ba0a10a58cb0a10"
       }
     }
   },
