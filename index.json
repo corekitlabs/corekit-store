@@ -1668,8 +1668,13 @@
       "1.2.1": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.1",
         "digest": "sha256:30381b785d3f3b3187bce859c101bce28f9a34f39a2f28b3dbdc1d5f130b8cfc"
+      },
+      "1.2.2": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.2",
+        "digest": "sha256:e52d6718a5bcaa10fa1858987ec08e53ce4d3b45cea6b9f4f0ae7549c1966df3"
       }
-    }
+    },
+    "latest": "1.2.2"
   },
   "cowork-scout": {
     "id": "cowork-scout",
