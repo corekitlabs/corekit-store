@@ -160,6 +160,10 @@
     "1.6.0": {
       "oci": "ghcr.io/corekitlabs/modules/cowork:1.6.0",
       "digest": "sha256:3f06da10b742437b827096014a499e7178e8045363f4af0571b58730afb7e236"
+    },
+    "1.7.0": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork:1.7.0",
+      "digest": "sha256:23a63d4b80b81fda4b22908d88def0d316ac8447de07e3d9cc73dc5bf540baae"
     }
   }
 }

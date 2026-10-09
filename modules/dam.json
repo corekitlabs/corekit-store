@@ -189,6 +189,10 @@
     "1.8.1": {
       "oci": "ghcr.io/corekitlabs/modules/dam:1.8.1",
       "digest": "sha256:ef149e37809c45d54c0f9bcffbbe323dfd21e7cb80cc65fffbc99d76500fd5d2"
+    },
+    "1.8.2": {
+      "oci": "ghcr.io/corekitlabs/modules/dam:1.8.2",
+      "digest": "sha256:87f8441405a35b0d918bf3e97a8ab0bb765c157afb3a4d4e416618dfe6724fa3"
     }
   }
 }
