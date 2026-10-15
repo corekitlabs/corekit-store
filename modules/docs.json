@@ -75,6 +75,10 @@
     "1.5.1": {
       "oci": "ghcr.io/corekitlabs/modules/docs:1.5.1",
       "digest": "sha256:4a20681395604b8fbb26f0f76ed35640a464929763b306d6f4922ad080ef1015"
+    },
+    "1.6.0": {
+      "oci": "ghcr.io/corekitlabs/modules/docs:1.6.0",
+      "digest": "sha256:09ae0b5d21000efb209cd2becc6c729a6dfbd0b6b759ed4329191b0c49c4006c"
     }
   }
 }
