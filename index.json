@@ -2067,6 +2067,10 @@
       "1.7.0": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.7.0",
         "digest": "sha256:23a63d4b80b81fda4b22908d88def0d316ac8447de07e3d9cc73dc5bf540baae"
+      },
+      "1.7.1": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.7.1",
+        "digest": "sha256:cedc7808d44a7aa103139bfdf7ddfb995e11842fe453bccd0eec3b99dfee4504"
       }
     }
   },
@@ -3629,6 +3633,10 @@
       "1.7.1": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.7.1",
         "digest": "sha256:e7d3fefc205315572d3e2c8484291423b9c6d322f57711e134e019797efe6634"
+      },
+      "1.7.2": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.7.2",
+        "digest": "sha256:2dda6822abae35e03c6b28f3c349bc4929320eb85fb66ef820abfe7c39d80ef0"
       }
     }
   },
