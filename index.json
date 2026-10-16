@@ -673,6 +673,10 @@
       "1.2.0": {
         "oci": "ghcr.io/corekitlabs/modules/cockpit:1.2.0",
         "digest": "sha256:7fcaba9e52c89cbbae6fb361967d2e08c914f766c3c8bb4e26ec3ee85dde6842"
+      },
+      "1.3.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cockpit:1.3.0",
+        "digest": "sha256:a1c2837e98f07a54a903377f9d41b1512f9728efcaa402eda2d5900b3f77c33f"
       }
     }
   },
@@ -1511,6 +1515,10 @@
       "1.7.6": {
         "oci": "ghcr.io/corekitlabs/modules/core:1.7.6",
         "digest": "sha256:660710399d5e3180189e56bb1565e55f492ff7a753d118fa54b94dd096dbbe8f"
+      },
+      "1.7.8": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.7.8",
+        "digest": "sha256:e5b04ce9bcb8a7cafb9648e79c5d3c037895828cfcb1008097933851e9d27dc4"
       }
     }
   },
@@ -2071,6 +2079,10 @@
       "1.7.1": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.7.1",
         "digest": "sha256:cedc7808d44a7aa103139bfdf7ddfb995e11842fe453bccd0eec3b99dfee4504"
+      },
+      "1.9.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.9.0",
+        "digest": "sha256:137224fd140b01d4b8c290bff144952f648eb9dba0e55ecf911df6043f2ba0a7"
       }
     }
   },
@@ -3637,6 +3649,10 @@
       "1.7.2": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.7.2",
         "digest": "sha256:2dda6822abae35e03c6b28f3c349bc4929320eb85fb66ef820abfe7c39d80ef0"
+      },
+      "1.7.4": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.7.4",
+        "digest": "sha256:4598679c4bdfe2a495fa1a210c7dba7958f4f82559a916a7587f1093cf8d95e0"
       }
     }
   },
