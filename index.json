@@ -1535,6 +1535,10 @@
       "1.7.9": {
         "oci": "ghcr.io/corekitlabs/modules/core:1.7.9",
         "digest": "sha256:bf0fd76b0238b7f3f50b1383095940b1488345f1a78383946f379724e837fb39"
+      },
+      "1.7.10": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.7.10",
+        "digest": "sha256:f964446f10dacddb899e9e68d179459dde39a45f76b6a4bd416173afb0d3d908"
       }
     }
   },
@@ -2103,6 +2107,10 @@
       "1.9.1": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.9.1",
         "digest": "sha256:4b98cc5e7c992009fc2d5b24086b33cafa9efbbb0c40c312de8008a9c801f6e1"
+      },
+      "1.10.0": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.10.0",
+        "digest": "sha256:168145a74d7294cf8920741a0437e3b744ca5e887d91c295584717c61637cde2"
       }
     }
   },
