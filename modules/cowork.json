@@ -180,6 +180,10 @@
     "1.10.0": {
       "oci": "ghcr.io/corekitlabs/modules/cowork:1.10.0",
       "digest": "sha256:168145a74d7294cf8920741a0437e3b744ca5e887d91c295584717c61637cde2"
+    },
+    "1.10.1": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork:1.10.1",
+      "digest": "sha256:d2188efc1de27c22f841456f42b99d0ebc1ccd7e0bbcdf668f1f8614d2f7cafd"
     }
   }
 }

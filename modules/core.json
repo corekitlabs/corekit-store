@@ -742,6 +742,10 @@
     "1.7.10": {
       "oci": "ghcr.io/corekitlabs/modules/core:1.7.10",
       "digest": "sha256:f964446f10dacddb899e9e68d179459dde39a45f76b6a4bd416173afb0d3d908"
+    },
+    "1.7.11": {
+      "oci": "ghcr.io/corekitlabs/modules/core:1.7.11",
+      "digest": "sha256:22f972604dc617165f9ec7aa89b048403a54939cbca37b5a60f383ac68ba2581"
     }
   }
 }
