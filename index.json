@@ -1539,6 +1539,10 @@
       "1.7.10": {
         "oci": "ghcr.io/corekitlabs/modules/core:1.7.10",
         "digest": "sha256:f964446f10dacddb899e9e68d179459dde39a45f76b6a4bd416173afb0d3d908"
+      },
+      "1.7.11": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.7.11",
+        "digest": "sha256:22f972604dc617165f9ec7aa89b048403a54939cbca37b5a60f383ac68ba2581"
       }
     }
   },
@@ -2111,6 +2115,10 @@
       "1.10.0": {
         "oci": "ghcr.io/corekitlabs/modules/cowork:1.10.0",
         "digest": "sha256:168145a74d7294cf8920741a0437e3b744ca5e887d91c295584717c61637cde2"
+      },
+      "1.10.1": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork:1.10.1",
+        "digest": "sha256:d2188efc1de27c22f841456f42b99d0ebc1ccd7e0bbcdf668f1f8614d2f7cafd"
       }
     }
   },
@@ -2440,6 +2448,10 @@
       "1.11.0": {
         "oci": "ghcr.io/corekitlabs/modules/dam:1.11.0",
         "digest": "sha256:3060bd2aa87b1c690d845fad559cb4c46af97a674342862f86170a8654964832"
+      },
+      "1.12.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.12.0",
+        "digest": "sha256:1a75af81919775b981b82b2bc76ae9561537e1bb4cc76bce6ae697a7ca92b1e9"
       }
     }
   },
@@ -2837,6 +2849,10 @@
       "1.6.0": {
         "oci": "ghcr.io/corekitlabs/modules/docs:1.6.0",
         "digest": "sha256:09ae0b5d21000efb209cd2becc6c729a6dfbd0b6b759ed4329191b0c49c4006c"
+      },
+      "1.6.1": {
+        "oci": "ghcr.io/corekitlabs/modules/docs:1.6.1",
+        "digest": "sha256:c83c7053461b8dcd5bbd9d9442f6e6dd28aaba5b45a0b0ac2694b53426e8de37"
       }
     }
   },
@@ -3681,6 +3697,10 @@
       "1.7.4": {
         "oci": "ghcr.io/corekitlabs/modules/flow:1.7.4",
         "digest": "sha256:4598679c4bdfe2a495fa1a210c7dba7958f4f82559a916a7587f1093cf8d95e0"
+      },
+      "1.7.5": {
+        "oci": "ghcr.io/corekitlabs/modules/flow:1.7.5",
+        "digest": "sha256:97a42da1af0230d16e916b0d8742f0fb51b3eb873eee4b14531a49a5bbc4f5ac"
       }
     }
   },
@@ -5829,6 +5849,10 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/skill-media:1.5.0",
         "digest": "sha256:d3b458ec22c48ca39910835d2569efa79c637a4958ec1dcd2d095d4685c901fc"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/skill-media:1.6.0",
+        "digest": "sha256:5fc4d951038f16c5176ead39f0adeae2fc7f084b007b80b4f71aa064d499ddf6"
       }
     }
   },
