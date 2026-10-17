@@ -29,6 +29,10 @@
     "1.3.0": {
       "oci": "ghcr.io/corekitlabs/modules/cockpit:1.3.0",
       "digest": "sha256:a1c2837e98f07a54a903377f9d41b1512f9728efcaa402eda2d5900b3f77c33f"
+    },
+    "1.4.0": {
+      "oci": "ghcr.io/corekitlabs/modules/cockpit:1.4.0",
+      "digest": "sha256:dd0c27c4ae611288a7b2f30b0f21ea3728ea557b9cbe588b5bf13cbd4f781281"
     }
   }
 }
