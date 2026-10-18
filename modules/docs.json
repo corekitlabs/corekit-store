@@ -83,6 +83,10 @@
     "1.6.1": {
       "oci": "ghcr.io/corekitlabs/modules/docs:1.6.1",
       "digest": "sha256:c83c7053461b8dcd5bbd9d9442f6e6dd28aaba5b45a0b0ac2694b53426e8de37"
+    },
+    "1.6.2": {
+      "oci": "ghcr.io/corekitlabs/modules/docs:1.6.2",
+      "digest": "sha256:2c312af456ca1aa496afd355dfd88f7cd1588a72547e9ca0ea894d07c18008a3"
     }
   }
 }
