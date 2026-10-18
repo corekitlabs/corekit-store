@@ -31,6 +31,10 @@
     "1.2.1": {
       "oci": "ghcr.io/corekitlabs/modules/chat:1.2.1",
       "digest": "sha256:5f0774f4c30c0c5553ddeef4d6c7538c6cc1d4dddbcef4ec806f8d42a4da8b49"
+    },
+    "1.2.2": {
+      "oci": "ghcr.io/corekitlabs/modules/chat:1.2.2",
+      "digest": "sha256:33f7e1c647300fc19052dfb3f79847a5f23143350393c972b2913c842ca74ff4"
     }
   }
 }
