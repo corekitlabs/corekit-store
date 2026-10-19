@@ -773,6 +773,10 @@
       "1.4.0": {
         "oci": "ghcr.io/corekitlabs/modules/contacts:1.4.0",
         "digest": "sha256:d5b3101d14854ff9243e1f146a279465c2b1d7c16b5fa3bc7a047e3ec9fde90c"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/contacts:1.5.0",
+        "digest": "sha256:1107cf948f7e51e69f31f5b989575cf38d430f9c0d5034cb206aa93b929fe537"
       }
     }
   },
@@ -2270,6 +2274,10 @@
       "1.4.0": {
         "oci": "ghcr.io/corekitlabs/modules/customer:1.4.0",
         "digest": "sha256:000e452daa2426e9fbb4554d7e22d8c868fd77e445302619665e76e288b76e06"
+      },
+      "1.5.0": {
+        "oci": "ghcr.io/corekitlabs/modules/customer:1.5.0",
+        "digest": "sha256:f7ab19c15f02c16737a99991f52b0308447cecd66af6f31c942ac6e218f72525"
       }
     }
   },
