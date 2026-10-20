@@ -75,6 +75,10 @@
     "1.2.3": {
       "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.3",
       "digest": "sha256:e9b74d891b6e38466d0620f762a97d2aa696da7d6eedc9baa67cc516500e3e03"
+    },
+    "1.2.4": {
+      "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.4",
+      "digest": "sha256:40936b4de7c8ed541e164d5157f356d098ed33bdcc3518fec8b9da29e0765270"
     }
   },
   "latest": "1.2.2"
