@@ -1567,6 +1567,10 @@
       "1.7.13": {
         "oci": "ghcr.io/corekitlabs/modules/core:1.7.13",
         "digest": "sha256:75a80ccb26c1296bf6e010fd49d64ce9afa3aee414becd138d8dd8c0c5f0d7f3"
+      },
+      "1.8.0": {
+        "oci": "ghcr.io/corekitlabs/modules/core:1.8.0",
+        "digest": "sha256:8355e7fc7e8afc00f54adf8c092b6a9912cc4825837bd42631b78c874a5ed62b"
       }
     }
   },
@@ -1748,6 +1752,10 @@
       "1.2.3": {
         "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.3",
         "digest": "sha256:e9b74d891b6e38466d0620f762a97d2aa696da7d6eedc9baa67cc516500e3e03"
+      },
+      "1.2.4": {
+        "oci": "ghcr.io/corekitlabs/modules/cowork-research:1.2.4",
+        "digest": "sha256:40936b4de7c8ed541e164d5157f356d098ed33bdcc3518fec8b9da29e0765270"
       }
     },
     "latest": "1.2.2"
@@ -3985,6 +3993,10 @@
       "1.5.2": {
         "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.5.2",
         "digest": "sha256:faf3e4ca6388ae927bc90924ee46a31a1f2262761316ea189937ff504807787f"
+      },
+      "1.5.3": {
+        "oci": "ghcr.io/corekitlabs/modules/helpdesk:1.5.3",
+        "digest": "sha256:1685e6869c24ccfa9a22900b2480ba376633e7a9b1089f51c1554d7f0c6132be"
       }
     }
   },
