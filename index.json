@@ -3399,6 +3399,10 @@
       "1.4.1": {
         "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.4.1",
         "digest": "sha256:2383b28a2f7a66f250e0fed4c1b0df5a616855568925774533bf0d0f6a6a1eb8"
+      },
+      "1.4.2": {
+        "oci": "ghcr.io/corekitlabs/modules/fieldservice:1.4.2",
+        "digest": "sha256:89d18e74af691b1d73713358a9dfefa81affdd1911da0dc7eb5e63cf76782b2b"
       }
     }
   },
@@ -4477,6 +4481,10 @@
       "1.15.0": {
         "oci": "ghcr.io/corekitlabs/modules/insurance:1.15.0",
         "digest": "sha256:87409f48c035230829409b36ebdb607124adfd32f3d29d3202e62b00bf3a0e46"
+      },
+      "1.15.1": {
+        "oci": "ghcr.io/corekitlabs/modules/insurance:1.15.1",
+        "digest": "sha256:e49e2023dfdc83fc3dd4150ae35dbafb4dbf31d454e4ec03bb8ca4e2df63eeeb"
       }
     }
   },
@@ -5092,6 +5100,10 @@
       "1.2.1": {
         "oci": "ghcr.io/corekitlabs/modules/maintenance:1.2.1",
         "digest": "sha256:e8493fec99e239810627db7b9c9d6d4a987e5c5d6dc65224c3e47f4705b490b7"
+      },
+      "1.2.2": {
+        "oci": "ghcr.io/corekitlabs/modules/maintenance:1.2.2",
+        "digest": "sha256:dfea515e51197d0d0f6e43f33b96c9ea3e4590fdae1ff4928ce21941472c85b7"
       }
     }
   },
