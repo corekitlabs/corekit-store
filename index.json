@@ -626,6 +626,10 @@
       "1.2.5": {
         "oci": "ghcr.io/corekitlabs/modules/catalog:1.2.5",
         "digest": "sha256:a8a9d738a7a806317c4d504cc65117f425c7c5574aa9886c1c66274d62297379"
+      },
+      "1.2.6": {
+        "oci": "ghcr.io/corekitlabs/modules/catalog:1.2.6",
+        "digest": "sha256:5621c7561cc2814509edde434c39f3212d38b332d855761bcf1a498aa2a3c2ba"
       }
     },
     "latest": "1.2.4"
@@ -785,6 +789,10 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/contacts:1.5.0",
         "digest": "sha256:1107cf948f7e51e69f31f5b989575cf38d430f9c0d5034cb206aa93b929fe537"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/contacts:1.6.0",
+        "digest": "sha256:28d42c45830fce59ce818947e92692bd7a10afd23cee71b78ed330df8d35f8c6"
       }
     }
   },
@@ -2512,6 +2520,10 @@
       "1.12.0": {
         "oci": "ghcr.io/corekitlabs/modules/dam:1.12.0",
         "digest": "sha256:1a75af81919775b981b82b2bc76ae9561537e1bb4cc76bce6ae697a7ca92b1e9"
+      },
+      "1.13.0": {
+        "oci": "ghcr.io/corekitlabs/modules/dam:1.13.0",
+        "digest": "sha256:59897fd3a93c2bc8de650589d326d4611c5d929135af5aa4a1661e1771921c33"
       }
     }
   },
@@ -4692,6 +4704,10 @@
       "1.5.3": {
         "oci": "ghcr.io/corekitlabs/modules/invoicing:1.5.3",
         "digest": "sha256:f3f4bc5a861ad41cb2c2f2d088d349d4295493a69e1c5f637023ad6c8934bfa6"
+      },
+      "1.5.4": {
+        "oci": "ghcr.io/corekitlabs/modules/invoicing:1.5.4",
+        "digest": "sha256:f6b3af5fdfc0ddf1f3cf3cfbce30871f34f23ca0dd070cf1b65f43a62b622d10"
       }
     },
     "latest": "1.5.2"
@@ -5865,6 +5881,10 @@
       "1.4.3": {
         "oci": "ghcr.io/corekitlabs/modules/sales:1.4.3",
         "digest": "sha256:017a99d39c2ab6ea62857d7f1d5b4ae470ba9609c669eb3992ecb35e7a12a4fa"
+      },
+      "1.4.4": {
+        "oci": "ghcr.io/corekitlabs/modules/sales:1.4.4",
+        "digest": "sha256:f983d730bc7d95e277cec96b941330dd7c896c96d7b1bb5cef580b380a902420"
       }
     }
   },
