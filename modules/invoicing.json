@@ -113,6 +113,10 @@
     "1.5.2": {
       "oci": "ghcr.io/corekitlabs/modules/invoicing:1.5.2",
       "digest": "sha256:c2724ee0d52ad3463d492e3ed20c732db63371bc216f0f243c322b499e42c6fc"
+    },
+    "1.5.3": {
+      "oci": "ghcr.io/corekitlabs/modules/invoicing:1.5.3",
+      "digest": "sha256:f3f4bc5a861ad41cb2c2f2d088d349d4295493a69e1c5f637023ad6c8934bfa6"
     }
   },
   "latest": "1.5.2"
