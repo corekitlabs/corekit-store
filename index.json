@@ -2310,6 +2310,10 @@
       "1.5.0": {
         "oci": "ghcr.io/corekitlabs/modules/customer:1.5.0",
         "digest": "sha256:f7ab19c15f02c16737a99991f52b0308447cecd66af6f31c942ac6e218f72525"
+      },
+      "1.6.0": {
+        "oci": "ghcr.io/corekitlabs/modules/customer:1.6.0",
+        "digest": "sha256:4eecc3bcd9c16f5805ed25fbc557c45c34c69759bcac98499828a42e80cfb6a2"
       }
     }
   },
